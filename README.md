@@ -1,2 +1,3 @@
 # 4553-NLP
-Repository for Natural Language Processing class programs
+Repo: 4553 Natural Language Processing
+Email: tdhaxton1223@my.msutexas.edu
