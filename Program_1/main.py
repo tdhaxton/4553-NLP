@@ -7,15 +7,22 @@ tweets = []
 
 #pull tweets out of .txt file
 #open the file
-with open("/home/haxtontd/projects/school/CMPS4553/Climate_change_2022-1-17_2022-7-19.txt", "r") as file:
+with open("/home/haxtontd/projects/school/4553-NLP/Climate_change_2022-1-17_2022-7-19.txt", "r") as file:
     content = file.read()
+    #open file to write comments out to
     with open("output.txt", "w") as file2:
-        for tweet in content:
-            #pull tweets from file
-            file2.write(re.findall("Jan\s\d{2}.*\n\d|Feb\s\d{2}|Mar\s\d{2}|Apr|\s\d{2}|May\s\d{2}|Jun\s\d{2}|Jul\s\d{2}", content))
+        #pull tweets from file
+        comments = re.findall("(?:Jan|Feb|Mar|Apr|May|Jun|Jul)\s\d+.*\n(?:.*\n)+?\d+", content)
+        file2.write(str(comments))
 
-# #close the file
-# file.close()
+print(len(comments))
+
+#write comments to list
+for comment in comments:
+    tweets.append(comment)
+
+print(tweets[0])
+print(len(tweets))
 
 #print(tweets)
 
