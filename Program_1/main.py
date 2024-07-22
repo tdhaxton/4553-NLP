@@ -7,7 +7,7 @@ tweets = []
 
 #pull tweets out of .txt file
 #open the file
-with open("/home/haxtontd/projects/school/4553-NLP/Climate_change_2022-1-17_2022-7-19.txt", "r") as file:
+with open("/home/haxtontd/Projects/4553-NLP/Climate_change_2022-1-17_2022-7-19.txt", "r") as file:
     content = file.read()
     #open file to write comments out to
     with open("output.txt", "w") as file2:
@@ -42,12 +42,24 @@ for tweet in tweets:
     #print(answer)
 
 #compile compound polarity scores
-total = 0
+pos = 0
+neg = 0
 for scores in sentiment_analyses:
-    total += sentiment_analyses[scores]
+    print(scores["compound"])
+    if scores["compound"] > 0:
+        pos += 1
+    else:
+        neg += 1
 
-#calculate average sentiment
-avg_sentiment = total / len(tweets)
-print(avg_sentiment)
+total = pos + neg
+pos_ratio = pos / total
+neg_ratio = neg / total
+
+print(pos_ratio)
+print(neg_ratio)
+
+# #calculate average sentiment
+# avg_sentiment = total / len(tweets)
+# print(avg_sentiment)
 
 file3.close()
