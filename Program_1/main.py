@@ -12,7 +12,7 @@ tweets = []
 
 #pull tweets out of .txt file
 #open the file
-with open("/home/haxtontd/Projects/4553-NLP/Climate_change_2022-1-17_2022-7-19.txt", "r") as file:
+with open("/home/haxtontd/projects/school/4553-NLP/Climate_change_2022-1-17_2022-7-19.txt", "r") as file:
     content = file.read()
     #open file to write comments out to
     with open("output.txt", "w") as file2:
