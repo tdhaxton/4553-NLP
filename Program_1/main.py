@@ -1,3 +1,8 @@
+#Name: Timothy Haxton
+#Course: CMPS 4553 - NLP
+#Instructor: Professor Morgan
+#Assignment: Program 1 - Sentiment Analysis
+
 #import necessary libraries
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import re
@@ -15,6 +20,7 @@ with open("/home/haxtontd/Projects/4553-NLP/Climate_change_2022-1-17_2022-7-19.t
         comments = re.findall("(?:Jan|Feb|Mar|Apr|May|Jun|Jul)\s\d+.*\n(?:.*\n)+?\d+", content)
         file2.write(str(comments))
 
+#output quantity of comments found to console and set it equal to sample_size variable
 print(len(comments))
 sample_size = len(comments)
 
@@ -22,24 +28,22 @@ sample_size = len(comments)
 for comment in comments:
     tweets.append(comment)
 
-print(tweets[0])
-print(len(tweets))
-
-#print(tweets)
+print("Tweets evaluated: " + str(len(tweets)))
 
 #create a SentimentIntensityAnalyzer object
 sia_obj = SentimentIntensityAnalyzer()
 file_path = "vaderOutput.txt"
 file3 = open(file_path, "w")
 
+#create list to hold polarity scores
 sentiment_analyses = []
 
+#loop through list of tweets, write tweets to file, and compile them in sentiment_analysis list
 for tweet in tweets:
     answer = sia_obj.polarity_scores(tweet)
     file3.write(str(answer))
     file3.write("\n")
     sentiment_analyses.append(answer)
-    #print(answer)
 
 #compile compound polarity scores
 pos = 0
@@ -51,15 +55,13 @@ for scores in sentiment_analyses:
     else:
         neg += 1
 
+#get ratio of positive tweets to negative tweets and print them to the console
 total = pos + neg
 pos_ratio = pos / total
 neg_ratio = neg / total
 
-print(pos_ratio)
-print(neg_ratio)
+print("Ratio of positive tweets: " + str(pos_ratio))
+print("Ratio of negative tweets: " + str(neg_ratio))
 
-# #calculate average sentiment
-# avg_sentiment = total / len(tweets)
-# print(avg_sentiment)
-
+#close the vaderOutput file
 file3.close()
