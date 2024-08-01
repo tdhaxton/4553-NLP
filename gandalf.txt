@@ -1,6 +1,1124 @@
-['[Gandalf:]"What do you mean? Do you mean to\nwish me a good morning, or do you\nmean that it is a good morning\nwhether I want it or not? Or,\nperhaps you mean to say that you\nfeel good on this particular\nmorning, or are you simply stating\nthat this is a morning to be good\non?"', '[Gandalf:]\n"That remains to be seen. I\'m\nlooking for someone to share in an\nadventure."', '[Gandalf:]\n"To think that I should have lived\nto be good-morninged by Belladonna\nTook\'s son as if I were selling\nbuttons at the door."', '[Gandalf:]\n"You\'ve changed, and not entirely\nfor the better, Bilbo Baggins."', '[Gandalf:]\n"Well, you know my name, although\nyou don\'t remember I belong to it.\n"I\'m Gandalf and Gandalf means me!"', '[Gandalf:]\n"And where else should I be?"', '[Gandalf:]\n"Well, I\'m pleased to find you\nremember something about me, even\nif it\'s only my fireworks. Well\nthen, that\'s decided. It will be\nvery good for you and most amusing\nfor me. I shall inform the others."', '[Gandalf:]\n"Oh, no thank you, Balin. A little\nred wine for me, I think."', '[Gandalf:]\n"Fili, Kili, Oin, Gloin, Balin and\nDwalin. We appear to be one dwarf\nshort."', '[Gandalf:]\n"Cheers!"', '[Gandalf:]\n"My dear Bilbo, what on earth is the\nmatter?"', '[Gandalf:]\n"They\'re quite a merry gathering,\nonce you get used to them."', '[Gandalf:]\n"He is here."', '[Gandalf:]\n"There is a mark; I put it there\nmyself. Bilbo Baggins, allow me to\nintroduce the leader of our\ncompany, Thorin Oakenshield."', '[Gandalf:]\n"Bilbo, my dear fellow, let us have\na little more light."', '[Gandalf:]\n"Well, no, I wouldn\'t say that I -"', '[Gandalf:]\n"What?"', '[Gandalf:]\n"That, my dear Balin, is not\nentirely true."', '[Gandalf:]\n"It was given to me by your father,\nby Thrain, for safe keeping. It is\nyours now."', '[Gandalf:]\n"These ruins speak of another\npassage into the lower halls."', '[Gandalf:]\n"Well, if we can find it, but dwarf\ndoors are invisible when closed.\nThe answer lies hidden somewhere in\nthis map and I do not have the\nskill to find it. But there are\nothers in Middle Earth who can."', '[Gandalf:]\n"Hobbits are remarkably light on\ntheir feet! In fact, they can go\nunseen by most if they choose. And\nwhile the dragon is accustomed to\nthe smell of dwarf, the scent of a\nhobbit is all but unknown to him\nwhich gives us a distinct\nadvantage."', '[Gandalf:]\n"Very helpful, Fili."', '[Gandalf:]\n"You\'ve been sitting quietly for far\ntoo long. When did doliles and your\nmother\'s dishes become so important\nto you? I remember a young hobbit\nwho was always running off in\nsearch of elves in the woods. He\'d\nstay out late, trailing mud and\ntwigs and fireflies. A young hobbit\nwho would have liked nothing better\nthan to find out what was beyond\nthe borders of the Shire...\nThe world is not in your books and\nmaps. It\'s out there."', '[Gandalf:]\n"You are also a Took! Did you know\nthat your great-great-great-great\nuncle, Bullroarer Took was so large\nhe could ride a real horse?"', '[Gandalf:]\n"Well, he could! In the Battle of\nGreen Fields, he charged the goblin\nranks. He swung his club so hard,\nit knocked the Goblin King\'s head\nclean off, and it sailed a hundred\nyards through the air and went down\na rabbit hole. And thus the battle\nwas won, and the game of golf\ninvented at the same time."', '[Gandalf:]\n"Well, all good stories deserve\nembellishment. You\'ll have a tale\nor two to tell of your own when you\ncome back."', '[Gandalf:]\n"No. But if you do, you will not be\nthe same."', '[Gandalf:]\n"My dear Bilbo, what on earth is the\nmatter?"', '[Gandalf:]\n"It is raining, Master Dwarf, and it\nwill continue to rain until the\nrain is done. If you wish to change\nthe weather of the world, you\nshould find yourself another\nwizard."', '[Gandalf:]\n"What?"', '[Gandalf:]\n"There are five of us. The greatest\nof our order is Saruman the White.\nThen there are the two blue\nwizards...\nYou know, I\'ve quite forgotten\ntheir names."', '[Gandalf:]\n"Well, that would be Radagast the\nBrown."', '[Gandalf:]\n"I think he is a very great wizard\nin his own way. He\'s a gently soul\nwho prefers the company of animals\nto others."', '[Gandalf:]\n"A farmer and his family used to\nlive here."', '[Gandalf:]\n"I think it would be wiser to move\non. We could make for the Hidden\nValley."', '[Gandalf:]\n"Why not? The elves could help us!\nWe could get food, rest, advice."', '[Gandalf:]\n"We have a map we cannot read; Lord\nElrond will help us."', '[Gandalf:]\n"You are neither of them. And\nbesides, it was not Lord Elrond who\nabandoned you at Erebor. That blame\nlies with King Thranduil of the\nWoodland Realm. I did not give you\nthat map and key for you to hold\nonto the past."', '[Gandalf:]\n"To seek the company of the only one\naround here who\'s got any sense."', '[Gandalf:]\n"Myself, Mr. Baggins! I\'ve had\nenough of dwarves for one day."', '[Gandalf:]\n"The dawn will take you all!"', '[Gandalf:]\n"To look ahead."', '[Gandalf:]\n"Looking behind. Nasty business;\nstill, they\'re all in one piece."', '[Gandalf:]\n"He had the nous to play for time.\nNone of the rest of you thought of\nthat."', '[Gandalf:]\n"Oh, not for an age. Not since a\ndarker power ruled these lands. In\nany case, they could not have moved\nin daylight."', '[Gandalf:]\n"It\'s a troll hoard. Be careful what\nyou touch."', '[Gandalf:]\n"Nor were they made by any smith\namong men."', '[Gandalf:]\n"Bilbo, here. This is about your\nsize."', '[Gandalf:]\n"The blade is of Elvish make, which\nmeans it will glow blue when orcs\nor goblins are nearby."', '[Gandalf:]\n"And I hope you\'ll never have to.\nBut if you do, remember this: true\ncourage is about knowing not when\nto take a life, but when to spare\none."', '[Gandalf:]\n"Stay together! Hurry now, arm\nyourselves."', '[Gandalf:]\n"Radagast! It\'s Radagast the Brown."', '[Gandalf:]\n"Webs? What do you mean?"', '[Gandalf:]\n"Dol Guldur? But the old fortress is\nabandoned."', '[Gandalf:]\n"Now, a Necromancer? Are you sure?"', '[Gandalf:]\n"Who did you tell about your quest,\nbeyond your kin."', '[Gandalf:]\n"Who did you tell?"', '[Gandalf:]\n"You are being hunted!"', '[Gandalf:]\n"These are Gundabad Wargs, they will\noutrun you!"', '[Gandalf:]\n"Come on."', '[Gandalf:]\n"Move. Run!"', '[Gandalf:]\n"This way, you fools!"', '[Gandalf:]\n"I think that would be wise."', '[Gandalf:]\n"You can feel it?"', '[Gandalf:]\n"That\'s exactly what it is. A very\npowerful magic."', '[Gandalf:]\n"The Valley of Imraldis. In the\nCommon Tongue, it\'s known by\nanother name."', '[Gandalf:]\n"Here lies the last homely house\neast of the sea."', '[Gandalf:]\n"You have no enemies here, Thorin\nOakenshield. The only ill-will to\nbe found in this valley is that\nwhich you bring yourself."', '[Gandalf:]\n"Of course they will. But we have\nquestions that need to be answered.\nIf we are to be successful, this\nwill need to be handled with tact\nand respect and no small degree of\ncharm, which is why you will leave\nthe talking to me."', '[Gandalf:]\n"Ah, Lindir!"', '[Gandalf:]\n"I must speak with Lord Elrond."', '[Gandalf:]\n"Not here? Where is he?"', '[Gandalf:]\n"Lord Elrond.\nMy friend! Where have you been."', '[Gandalf:]\n"That may have been us."', '[Gandalf:]\n"No, master Gloin, he\'s offering you\nfood."', '[Gandalf:]\n"Kind of you to invite us. I\'m not\nreally dressed for dinner."', '[Gandalf:]\n"We found them in a troll hoard on\nthe Great East Road, shorty before\nwe were ambushed by orcs."', '[Gandalf:]\n"For goodness sake, Thorin, show him\nthe map."', '[Gandalf:]\n"Save me from the stubbornness of\ndwarves. Your pride will be your\ndownfall. You stand here in the\npresence of one of the few in\nMiddle Earth who can read that map.\nShow it to Lord Elrond!"', '[Gandalf:]\n"It\'s mainly academic. As you know,\nthis sort of artifact sometimes\ncontains hidden text. You still\nread ancient dwarvish, do you not?"', '[Gandalf:]\n"Moon runes? Of course; an easy\nthing to miss."', '[Gandalf:]\n"It is the start of the dwarves\'\nnear year, when the last moon of\nautumn and the first sun of winter\nappear in the sky together."', '[Gandalf:]\n"What do you mean?"', '[Gandalf:]\n"Of course I was going to tell you,\nI was waiting for this very chance.\nAnd really, I think you can trust\nthat I know what I am doing."', '[Gandalf:]\n"What if we succeed? If the dwarves\ntake back the mountain, our\ndefenses in the east will be\nstrengthened."', '[Gandalf:]\n"It is also dangerous to do nothing.\nThe throne of Erebor is Thorin\'s\nbirthright, what is it you fear?"', '[Gandalf:]\n"With or without our help, these\ndwarves will march on the mountain.\nThey are determined to reclaim\ntheir homeland. I do not believe\nThorin Oakenshield feels that he\'s\nanswerable to anyone. Nor for that\nmatter am I."', '[Gandalf:]\n"Lady Galadriel."', '[Gandalf:]\n"Age may have changed me, but not so\nthe Lady of Lorien."', '[Gandalf:]\n"Saruman."', '[Gandalf:]\n"Unnoticed? No, I\'m simply doing\nwhat I feel to be right."', '[Gandalf:]\n"It is true, my lady. Smaug owes\nallegiance to no one. But if he\nshould side with the enemy, a\ndragon could be used to terrible\neffect."', '[Gandalf:]\n"There is something at work beyond\nthe evil of Smaug. Something far\nmore powerful. We can remain blind\nto it, but it will not be ignoring\nus, that I can promise you. A\nsickness lies over the Greenwood.\nThe woodsmen who live there now\ncall it Mirkwood, and they say..."', '[Gandalf:]\n"They speak of a Necromancer living\nin Dol Guldur, a sorcerer who can\nsummon the dead."', '[Gandalf:]\n"And so I thought too, but Radagast\nhas seen -"', '[Gandalf:]\n"I have none."', '[Gandalf:]\n"Yes."', '[Gandalf:]\n"I do not know. Saruman believes\nthat it is only great power that\ncan hold evil in check. But that is\nnot what I have found. I\'ve found\nthat it is the small things,\neveryday deeds of ordinary folk\nthat keeps the darkness at bay.\nSimple acts of kindess and love.\nWhy Bilbo Baggins? Perhaps it is\nbecause I\'m afraid and he gives me\ncourage."', '[Gandalf:]\n"Take up arms. Fight. Fight!"', '[Gandalf:]\n"Follow me! Quick! Run!"', '[Gandalf:]\n"Three, four, five, Gloin, that\'s\nsix. And Dwalin, that makes seven."', '[Gandalf:]\n"Well, where did you last see him?"', '[Gandalf:]\n"What happened exactly? Tell me!"', '[Gandalf:]\n"Bilbo Baggins! I\'ve never been so\nglad to see anyone in my life!"', '[Gandalf:]\n"Well, what does it matter? He\'s\nback."', '[Gandalf:]\n"And into the fire. Run. Run!"', '[Gandalf:]\n"Come on!"', '[Gandalf:]\n"This way, quickly!"', '[Gandalf:]\n"To the house! Run!"', '[Gandalf:]\n"Come on, get inside!"', '[Gandalf:]\n"That is our host. His name is Beorn\nand he\'s a skinchanger. Sometimes\nhe\'s a huge, black bear, sometimes\nhe\'s a great, strong man. The bear\nis unpredictable, but the man can\nbe reasoned with. However, he is\nnot overfond of dwarves."', '[Gandalf:]\n"Don\'t be ridiculous. He\'s under no\nenchantment but his own.\nAlright now, get some rest, all of\nyou. You\'ll be safe here tonight."', '[Gandalf:]\n"Before Durin\'s Day falls, yes."', '[Gandalf:]\n"Which is why we must go through\nMirkwood."', '[Gandalf:]\n"We will take the Elven Road. That\npath is still safe."', '[Gandalf:]\n"You have my word."', '[Gandalf:]\n"Why now? What has made Bolg crawl\nfrom his hole?"', '[Gandalf:]\n"Are you sure of this?"', '[Gandalf:]\n"What do you know of this sorcerer,\nthe one they call the Necromancer?"', '[Gandalf:]\n"The dead?"', '[Gandalf:]\n"Yes. Yes, there are tombs up there."', '[Gandalf:]\n"Saruman the White says it is not\npossible. The enemy is destroyed\nand will never return."', '[Gandalf:]\n"The Elven Gate."', '[Gandalf:]\n"Set the ponies loose. Let them\nreturn to their master."', '[Gandalf:]\n"Not if we go two hundred miles\nnorth, or twice that distance\nsouth."', '[Gandalf:]\n"The High Fells. So be it."', '[Gandalf:]\n"I would not do this unless I had\nto."', '[Gandalf:]\n"Found what?"', '[Gandalf:]\n"Good. Well, that\'s good; you\'ll\nneed it."', '[Gandalf:]\n"You must stay on the path; do not\nleave it. If you do, you will never\nfind it again."', '[Gandalf:]\n"Oh, it\'s you!"', '[Gandalf:]\n"Trust me, Radagast, I would not\nhave called you here without good\nreason."', '[Gandalf:]\n"No, it is not."', '[Gandalf:]\n"If he had a name, it\'s long since\nbeen lost. He would have only been\nknown as a servant of evil. One of\na number. One of nine."', '[Gandalf:]\n"The Ringwraiths have been summouned\nto Dol Guldur."', '[Gandalf:]\n"Who said it was human?"', '[Gandalf:]\n"To rejoin the others!"', '[Gandalf:]\n"I started this; I cannot forsake\nthem. They are all in grave danger."', '[Gandalf:]\n"You want me to cast my friends\naside?"']
-['[Gandalf:] "Mind if I join you?"', '[Gandalf:] "I’ll have the same."', '[Gandalf:] "I should introduce myself. My name is Gandalf. Gandalf the Grey."', '[Gandalf:] "Well now! This is a fine chance. What brings Thorin Oakenshield to Bree?"', '[Gandalf:] "Thorin, it’s been a long time since anything but rumor was heard of Thrain."', '[Gandalf:] "I urged him to march upon Erebor; to rally the seven armies of the dwarves, to destroy the dragon and take back the Lonely Mountain. And I would say the same to you. Take back your homeland."', '[Gandalf:] "No, it is not. The Lonely Mountain troubles me, Thorin. That dragon has sat there long enough. Sooner or later, darker minds will turn toward Erebor. I ran into some unsavory characters whilst traveling along the Greenway. They mistook me for a vagabond."', '[Gandalf:] "One of them was carrying a message."', '[Gandalf:] "It is Black Speech."', '[Gandalf:] "Promise of payment."', '[Gandalf:] "Your head. Someone wants you dead. Thorin, you can wait no longer. You are the heir to the throne of Durin. Unite the armies of the dwarves. Together you have the might and power to retake Erebor. Summon a meeting of the seven dwarf families. Demand they stand by their oaths."', '[Gandalf:] "What if I were to help you to reclaim it?"', '[Gandalf:] "Yes, it does, which is why we are going to need a burglar."', '[Gandalf:] "Did they see you? They saw you!"', '[Gandalf:] "What did I tell you? Quiet as a mouse. Excellent burglar material."', '[Gandalf:] "What form did it take? Like a bear?"', '[Gandalf:] "There is a house, it’s not far from here, where we might take refuge."', '[Gandalf:] "Neither. He will help us, or he will kill us."', '[Gandalf:] "None."', '[Gandalf:] "Come on!"', '[Gandalf:] "This way, quickly!"', '[Gandalf:] "To the house! Run!"', '[Gandalf:] "Come on, get inside!"', '[Gandalf:] "Open the door!"', '[Gandalf:] "That...is our host."', '[Gandalf:] "His name is Beorn, and he is a skin-changer."', '[Gandalf:] "Sometimes he’s a huge black bear; sometimes he’s a great strong man. The bear is unpredictable, but the man can be reasoned with. However, he is not overfond of dwarves."', '[Gandalf:] "Don’t be a fool; he’s under no enchantment but his own. Alright now, get some sleep, all of you. You’ll be safe here tonight."', '[Gandalf:] "I hope."', '[Gandalf:] "Before Durin’s Day falls, yes."', '[Gandalf:] "Which is why we must go through Mirkwood."', '[Gandalf:] "We will take the Elven Road. That path is still safe."', '[Gandalf:] "The Elven Gate."', '[Gandalf:] "Here lies our path through Mirkwood."', '[Gandalf:] "Set the ponies loose. Let them return to their master."', '[Gandalf:] "Not unless we go two hundred miles north, or twice that distance south."', '[Gandalf:] "The High Fells. So be it."', '[Gandalf:] "Not my horse! I need it."', '[Gandalf:] "I would not do this unless I had to."', '[Gandalf:] "You’ve changed, Bilbo Baggins. You’re not the same Hobbit as the one who left the Shire."', '[Gandalf:] "Found what?"', '[Gandalf:] "What did you find?"', '[Gandalf:] "Good. Well, that’s good. You’ll need it."', '[Gandalf:] "I’ll be waiting for you at the overlook, before the slopes of Erebor. Keep the map and key safe. Do not enter that mountain without me."', '[Gandalf:] "This is not the Greenwood of old. The very air of the forest is heavy with illusion. It will seek to enter your mind and lead you astray."', '[Gandalf:] "You must stay on the path; do not leave it. If you do, you will never find it again."', '[Gandalf:] "No matter what may come, stay on the path!"', '[Gandalf:] "Oh, it’s YOU!"', '[Gandalf:] "Trust me, Radagast. I would not have called you here without good reason."', '[Gandalf:] "No, it is not."', '[Gandalf:] "If he had a name, it’s long since been lost. He would have been known only as a servant of evil. One of a number. One of nine."', '[Gandalf:] "The Ringwraiths have been summoned to Dol Guldur."', '[Gandalf:] "Who said it was human?"', '[Gandalf:] "The Nine only answer to one master. We’ve been blind, Radagast, and in our blindness, the Enemy has returned."', '[Gandalf:] "He is summoning his servants. Azog the Defiler is no ordinary hunter. He is a commander, a commander of legions. The enemy is preparing for war. It will begin in the east. His mind is set upon that mountain."', '[Gandalf:] "To rejoin the others."', '[Gandalf:] "I started this; I cannot forsake them. They are all in grave danger."', '[Gandalf:] "You want me to cast my friends aside?"', '[Gandalf:] "Dol Guldur. The hill of sorcery."', '[Gandalf:] "As it is meant to. A spell of concealment lies over this place, which means our enemy is not yet ready to reveal himself. He has not regained his full strength. Radagast, I need you to carry a message to the Lady Galadriel. Tell her we must force his hand."', '[Gandalf:] "I’m going in alone. On no account come after me. Do I have your word?"', '[Gandalf:] "Turn around, and do not come back."', '[Gandalf:] "It’s undoubtedly a trap."', '[Gandalf:] "Cé ná ulco sís nurtaina…I ettuluvas caninye! Cánin i sá tanuvaxe!"', '[Gandalf:] "Cé ná ulco sís nurtaina…I ettuluvas caninye! Cánin i sá tanuvaxe!"', '[Gandalf:] "Where is your master?"', '[Gandalf:] "Where is he??"', '[Gandalf:] "Sauron."']
-['[Gandalf:] "_ _ _"', '[Gandalf:] "_ _ _"', '[Gandalf:] "He is here."', '[Gandalf:] "Come with me, my Lady."', '[Gandalf:] "I need a horse!"', '[Gandalf:] "To warn Erebor. They have no idea what is coming. I saw them with my own eyes - rank upon rank of Moria-orcs. You must summon our friends, bird and beast - the battle for the mountain is about to begin."', '[Gandalf:] "Let me through!"', '[Gandalf:] "Make way!"', '[Gandalf:] "Who’s in charge here?!"', '[Gandalf:] "You must set aside your petty grievances with the dwarves. War is coming! The cesspits of Dol Guldur have been emptied. You’re ALL in mortal danger!"', '[Gandalf:] "Not this time. Armies of orcs are on the move. And these are fighters! They have been bred for war. Our enemy has summoned his full strength."', '[Gandalf:] "Because we forced him! We forced him when the company of Thorin Oakenshield set out to reclaim their homeland. The dwarves were never meant to reach Erebor; Azog the Defiler was sent to kill them. His master seeks control of the mountain. Not just for the treasure within, but for where it lies, its strategic position."', '[Gandalf:] "This is the gateway to reclaiming the lands of Angmar in the north. If that fell kingdom should rise again, Rivendell, Lothlorien, the Shire, even Gondor itself will fall!"', '[Gandalf:] "Since when has my council counted for so little? What do you think I’m trying to do?!"', '[Gandalf:] "You, Bowman! Do you agree with this? Is gold so important to you? Would you buy it with the blood of dwarves?!"', '[Gandalf:] "Bilbo Baggins!"', '[Gandalf:] "Rest up tonight. You must leave on tomorrow."', '[Gandalf:] "Get as far away from here as possible."', '[Gandalf:] "There is no company - not any more. And I don’t like to think what Thorin will do when he finds out what you’ve done."', '[Gandalf:] "But you should be! Don’t underestimate the evil of gold. Gold over which a serpent has long brooded. Dragon-sickness seeps into the hearts of all who come near this mountain."', '[Gandalf:] "Almost all."', '[Gandalf:] "You there! Find this Hobbit a bed, and fill his belly with hot food. He has earned it."', '[Gandalf:] "Hey. Keep an eye on him. If he should try to leave, you will tell me."', '[Gandalf:] "IF YOU DON’T LIKE MY BURGLAR…"', '[Gandalf:] "Then please don’t damage him. Return him to me! You’re not making a very splendid figure as king under the mountain, are you? Thorin son of Thrain!"', '[Gandalf:] "Ironfoot."', '[Gandalf:] "It is Dain, lord of the Iron Hills - Thorin’s cousin."', '[Gandalf:] "I always found Thorin the more reasonable of the two."', '[Gandalf:] "Come now, lord Dain!"', '[Gandalf:] "There is no need for war between dwarves, men and elves! A legion of orcs march on the mountain. Stand your army down!"', '[Gandalf:] "Were-worms!"', '[Gandalf:] "Thranduil! This is madness!"', '[Gandalf:] "Azog - he’s trying to cut us off"', '[Gandalf:] "To the city! Bilbo! This way!"', '[Gandalf:] "...you are the heir to the throne of Durin..."', '[Gandalf:] "...take back...take Erebor..."', '[Gandalf:] "...take back your homeland…"', '[Gandalf:] "...this treasure will be your death…"', '[Gandalf:] "They are rallying to their king!"', '[Gandalf:] "We may yet survive this."', '[Gandalf:] "And Fili, Kili...and Dwalin. He’s taking his best warriors!"', '[Gandalf:] "To cut the head off the snake."', '[Gandalf:] "Legolas... Legolas Greenleaf!"', '[Gandalf:] "Gundabad…This was their plan all along. Azog engages our forces, then Bolg seeps in from the north."', '[Gandalf:] "Ravenhill."', '[Gandalf:] "My lord, dispatch this force to Ravenhill! The dwarves are about to be overrun. Thorin must be warned."', '[Gandalf:] "Thranduil?!"', '[Gandalf:] "Don’t be ridiculous! You’ll never make it!"', '[Gandalf:] "Cause they will see you coming and kill you!"', '[Gandalf:] "It’s out of the question - I won’t allow it!"', '[Gandalf:] "Ah, the borders of the Shire. It is here I must leave you."', '[Gandalf:] "You don’t really suppose, do you, that all your adventures and escapes were managed by mere luck?"', '[Gandalf:] "Magic rings should not be used lightly, Bilbo."', '[Gandalf:] "Don’t take me for a fool - I know you found one in the Goblin tunnels...and I’ve kept my eye on you ever since."', '[Gandalf:] "Farewell."', '[Gandalf:] "You’re a very fine person, Mister Baggins. And I’m very fond of you. But you’re only quite a little fellow in a wide world after all."', '[Gandalf:] "And what about very old friends?!"', '[Gandalf:] "Bilbo Baggins."', '[Gandalf:] "Good to see you. One hundred eleven years old - who’d believe it?"']
-['[Gandalf:]\n"A Wizard is never late, Frodo Baggins,\nnor is he early. He arrives precisely\nwhen he means to."', '[Gandalf:]\n"You didn\'t think I\'d miss your Uncle\nBilbo\'s birthday?"', '[Gandalf:]\n"What, everything? Far too eager and\ncurious for a Hobbit. Most unnatural..."', '[Gandalf:]\n"Oh, well...that should please him."', '[Gandalf:]\n"Good gracious, me."', '[Gandalf:]\n"Oh, really?"', '[Gandalf:]\n"Indeed?"', '[Gandalf:]\n"If you\'re referring to the incident with\nthe Dragon...I was barely involved...all\nI did was give your Uncle a little nudge\nout the door."', '[Gandalf:]\n"Oh, really?"', '[Gandalf:]\n"So am I, dear boy...so am I"', '[Gandalf:]\n"And what about very old friends?"', '[Gandalf:]\n"Bilbo Baggins!"', '[Gandalf:]\n"It\'s good to see you. One hundred and\neleven years old, who would believe it!"', '[Gandalf:]\n"Just tea, thank you."', '[Gandalf:]\n"No, not at all. Go ahead. A sudden loud\nknock on the front door."', '[Gandalf:]\n"So, you mean to go through with your\nplan, then?"', '[Gandalf:]\n"Frodo suspects something."', '[Gandalf:]\n"You will tell him, won\'t you?"', '[Gandalf:]\n"He\'s very fond of you."', '[Gandalf:]\n"Meridoc Brandybuck and Peregrin Took...I\nmight have known!"', '[Gandalf:]\n"I suppose you think that was terribly\nclever?"', '[Gandalf:]\n"There are many magic rings in the world,\nBilbo Baggins, and none of them should be\nused lightly."', '[Gandalf:]\n"You will keep an eye on Frodo, won\'t you?"', '[Gandalf:]\n"What about this ring of yours?   Is that\nstaying too?"', '[Gandalf:]\n"I think you should leave the Ring behind,\nBilbo. Is that so hard?"', '[Gandalf:]\n"There\'s no need to get angry."', '[Gandalf:]\n"Precious? It\'s been called that before,\nbut not by you."', '[Gandalf:]\n"I think you\'ve had that ring quite long\nenough."', '[Gandalf:]\n"Bilbo Baggins do not take me for some\nconjurer of cheap tricks!"', '[Gandalf:]\n"Bilbo?"', '[Gandalf:]\n"The ring is still in your pocket."', '[Gandalf:]\n"I\'m sure you will, my dear friend."', '[Gandalf:]\n"Goodbye Bilbo."', '[Gandalf:]\n"Bilbo\'s ring."', '[Gandalf:]\n"I have some things I must see to."', '[Gandalf:]\n"Questions. Questions that need\nanswering."', '[Gandalf:]\n"Neither do I. Keep it secret, keep it\nsafe."', '[Gandalf:]\n"Hold out your hand, Frodo...it is quite\ncool."', '[Gandalf:]\n"...these are markings."', '[Gandalf:]\n"This is the one ring forged by the dark\nlord, Sauron, in the fires of Mt\nDoom...taken by Isildur from the hand of\nSauron himself."', '[Gandalf:]\n"For sixty years the ring lay quiet in\nBilbo\'s keeping, prolonging his life,\ndelaying old age...but no longer, Frodo.\nEvil is stirring in Mordor. The ring has\nawoken. It has heard its master\'s call."', '[Gandalf:]\n"No, Frodo. The spirit of Sauron has\nendured. His life force is bound to the\nring and the ring survived. Sauron has\nreturned. His Orcs have multiplied...his\nfortress of Barad- dur is rebuilt in the\nland of Mordor. Sauron needs only this\nring to cover all the lands in the second\ndarkness. He is seeking it, seeking it,\nall his thought is bent on it. For the\nring yearns, above all else, to return to\nthe hand of its master: they are one, the\nring and the dark lord. Frodo, he must\nnever find out."', '[Gandalf:]\n"There is one other who knew that Bilbo\nhad the Ring. I looked everywhere for\nthe creature Gollum, but the enemy found\nhim first."', '[Gandalf:]\n"No, Frodo..."', '[Gandalf:]\n"You cannot offer me this ring."', '[Gandalf:]\n"Don\'t tempt me, Frodo. I dare not take\nit, not even to keep it safe."', '[Gandalf:]\n"Understand, Frodo...I would use this Ring\nfrom a desire to do good...but through\nme, it would wield a power too great and\nterrible to imagine."', '[Gandalf:]\n"No, no it can\'t."', '[Gandalf:]\n"You must leave, and leave quickly. Get\nout of the Shire."', '[Gandalf:]\n"Make for the village of Bree."', '[Gandalf:]\n"I will, be waiting for you at the Inn of\nthe Prancing Pony. Frodo packs his food\ninto his knapsack."', '[Gandalf:]\n"I don\'t know, Frodo. I don\'t have any\nanswers. I must see the Head of my\nOrder. He is both wise and powerful.\nTrust me, Frodo. He\'ll know what to do."', '[Gandalf:]\n"You\'ll have to leave the name of Baggins\nbehind you...for that name is not safe\noutside the Shire."', '[Gandalf:]\n"My dear Frodo, Hobbits really are amazing\ncreatures. You can learn all that there\nis to know about their ways in a month,\nand yet, after a hundred years, they can\nstill surprise you."', '[Gandalf:]\n"It\'s a little late for trimming the\nhedges, don\'t you think?"', '[Gandalf:]\n"What did you hear? Speak!"', '[Gandalf:]\n"No?"', '[Gandalf:]\n"Perhaps not. I\'ve thought of a better\nuse for you."', '[Gandalf:]\n"Saruman!"', '[Gandalf:]\n"Beyond any doubt."', '[Gandalf:]\n"All these long years it was in the Shire,\nunder my very nose."', '[Gandalf:]\n"We still have time...time enough to\ncounter Sauron...if we act quickly."', '[Gandalf:]\n"You know this? How?"', '[Gandalf:]\n"A palantir is a dangerous tool, Saruman."', '[Gandalf:]\n"They are not all accounted for, the lost\nseeing-stones...we do not know who else\nmay be watching."', '[Gandalf:]\n"Yes, I\'m here and you\'re lucky to be\nhere, too. A few more hours and you\nwould have been beyond our aid. You have\nsome strength in you, my dear Hobbit."', '[Gandalf:]\n"I\'m sorry Frodo."', '[Gandalf:]\n"There is only one Lord of the Ring. Only\none who can bend it to his will...and he\ndoes not share power."', '[Gandalf:]\n"Nothing, Frodo..."', '[Gandalf:]\n"Sam has hardly left your side."', '[Gandalf:]\n"By the skills of Lord Elrond, you\'re\nbeginning to mend."', '[Gandalf:]\n"That wound will never fully heal. He will\ncarry it the rest of his life."', '[Gandalf:]\n"It is a burden he should never have to\nhad to bear. We can ask no more of Frodo."', '[Gandalf:]\n"His treachery runs deeper than you know.\nBy foul craft, Saruman has crossed Orc\nwith Goblin Men...he is breeding an army\nin the caverns of Isengard. An army that\ncan move in Sunlight and cover great\ndistance at speed. Saruman is coming for\nthe Ring."', '[Gandalf:]\n"It is in Men that we must place our hope."', '[Gandalf:]\n"There is one who could unite them, one\nwho could re claim the thrown of Gondor."', '[Gandalf:]\n"Aragorn is right...we cannot use it."', '[Gandalf:]\n"Do you not understand? While we bicker\namong ourselves, Sauron\'s power grows!\nNo one will escape it. You will all be\ndestroyed, your homes burnt and your\nfamilies put to the sword!"', '[Gandalf:]\n"I will help you bear this burden, Frodo\nBaggins, as long as it is yours to bear."', '[Gandalf:]\n"No, Gimli. I would not take the road\nthrough Moria unless I had no other\nchoice."', '[Gandalf:]\n"It\'s Saruman."', '[Gandalf:]\n"No!"', '[Gandalf:]\n"Let the ringbearer decide."', '[Gandalf:]\n"So be it."', '[Gandalf:]\n"Itidin...it mirrors only starlight and\nmoonlight."', '[Gandalf:]\n"Oh...mellon."', '[Gandalf:]\n"Into the mines!"', '[Gandalf:]\n"Quietly, now. It\'s a four day journey to\nthe other side. Let us hope that our\npresence will go unnoticed."', '[Gandalf:]\n"I have no memory of this place."', '[Gandalf:]\n"He\'s been following us for three days."', '[Gandalf:]\n"Escaped...or was set loose. And now the\nRing has drawn him here...he will never\nbe rid of his need for it. He hates and\nloves the ring, as he hates and loves\nhimself. Smeagol\'s life is a sad story."', '[Gandalf:]\n"Pity? It was pity that stayed Bilbo\'s\nhand. Many that live deserve death, and\nsome that die deserve life. Can you give\nit to them, Frodo?"', '[Gandalf:]\n"So do all who live to see such times, but\nthat is not for them to decide. All we\nhave to decide is what to do with the\ntime that is given to us."', '[Gandalf:]\n"No, but the air doesn\'t smell so foul\ndown there. If in doubt, Meriadoc,\nalways follow your nose!"', '[Gandalf:]\n"Let me risk a little more light."', '[Gandalf:]\n"Behold! The great realm and Dwarf city\nof Dwarrowdelf!"', '[Gandalf:]\n"Gimli!!"', '[Gandalf:]\n""', '[Gandalf:]\n"I think there\'s more to this hobbit than\nmeets the eye."', '[Gandalf:]\n"To the bridge of Khazad-dum!"', '[Gandalf:]\n"This way!"', '[Gandalf:]\n"Lead them on, Aragorn. The bridge is\nnear."']
-['[Gandalf:]\n"You cannot pass!"', '[Gandalf:]\n"I am a servant of the Secret Fire, wielderof the Flame of Anor!"', '[Gandalf:]\n"Argh! Go back to the shadow. The DarkFire will not avail you, Flame of Ud n![Camera zooms in through the mountainand focuses on Gandalf and the Balrogon the bridge of Khazad-d m. The Balrogstrikes down on Gandalf with its flamingsword. Gandalf parries the blow withGlamdring, shattering the Balrog s sword.]YOU  SHALL NOT... PASS!!!"', '[Gandalf:]\n"Argh!"', '[Gandalf:]\n"Fly, you fools!"', '[Gandalf:]\n"Through fire and water. [Flashback:Gandalf is battling the Balrog atopD rin s Tower.] From the lowest dungeonto the highest peak, I fought with theBalrog of Morgoth."', '[Gandalf:]\n"Until at last, I threw down my enemyand smote his ruin upon the mountainside."', '[Gandalf:]\n"Darkness took me. And I strayed outof thought and time. [Camera zooms inGandalf s eye and enters an amorphousrealm of stars and galaxies, endingin a blinding white light] Stars wheeledoverhead and everyday was as long asa life-age of the earth. But it wasnot the end. I felt life in me again."', '[Gandalf:]\n"I\'ve been sent back until my task isdone."', '[Gandalf:]\n"Gandalf? Yes... That\'s what they usedto call me. Gandalf the Grey. That wasmy name."', '[Gandalf:]\n"One stage of your journey is over, anotherbegins. War has come to Rohan. We mustride to Edoras with all speed."', '[Gandalf:]\n"Shadowfax. [Gimli bows in the background.]He\'s the lord of all horses and he\'sbeen my friend through many dangers."', '[Gandalf:]\n"Edoras and the Golden Hall of Meduseld.There dwells Theoden, King of Rohan,whose mind is overthrown. Saruman\'shold over King Theoden is now very strong."', '[Gandalf:]\n"Be careful what you say. Do not lookfor welcome here."', '[Gandalf:]\n"Hmm? [Glances at his staff.] Oh. Youwould not part an old man from his walkingstick?"', '[Gandalf:]\n"The courtesy of your hall is somewhatlessened of late, Theoden King."', '[Gandalf:]\n"Be silent! Keep your forked tongue behindyou teeth. I have not passed throughfire and death to bandy crooked wordswith a witless worm!"', '[Gandalf:]\n"Theoden, son of Thengel, too long haveyou sat in the shadows."', '[Gandalf:]\n"Hearken to me! I release you from thespell."', '[Gandalf:]\n"You did not kill me, you will not killhim!"', '[Gandalf:]\n"Be gone!!"', '[Gandalf:]\n"Breathe the free air again, my friend."', '[Gandalf:]\n"Your fingers would remember their oldstrength better... if they grasped yoursword."', '[Gandalf:]\n"Theodred\'s death was not of your making."', '[Gandalf:]\n"He was strong in life. His spirit willfind its way to the halls of your fathers.Westu hal. Ferou, Theodred, Ferou. (Be-thouwell. Go-thou, Theodred, go-thou.)"', '[Gandalf:]\n"This is but a taste of the terror thatSaruman will unleash. All the more potentfor he is driven now by fear of Sauron.Ride out and meet him head on. Drawhim away from your women and children.[Leans forward and puts a hand on Theoden\'schair. Theoden looks at his hand warily.]You must fight."', '[Gandalf:]\n"Then what is the king\'s decision?"', '[Gandalf:]\n"There is no way out of that ravine.Theoden is walking into a trap. He thinkshe s leading them to safety. What theywill get is a massacre. Theoden hasa strong will but I fear for him. Ifear for the survival of Rohan. He willneed you before the end, Aragorn. Thepeople of Rohan will need you. The defensesHAVE to hold."', '[Gandalf:]\n"Theoden king stands alone."', '[Gandalf:]\n"Sauron\'s wrath will be terrible, hisretribution swift. The battle for Helm\'sDeep is over. The battle for Middle-earthis about to begin. All our hopes nowlie with two little hobbits. Somewherein the wilderness."']
-['[Gandalf:]\n"And there Saruman must remain, under your\nguard, Treebeard."', '[Gandalf:]\n"No word ... nothing."', '[Gandalf:]\n"Do we know that?"', '[Gandalf:]\n"Fool of a Took!"', '[Gandalf:]\n"Minas Tirith???\nIs that what you saw?"', '[Gandalf:]\n"And what did you tell him? Speak!"', '[Gandalf:]\n"What did you tell him about Frodo and the\nRing?\n\nINT. EDORAS, GOLDEN HALL - DAY\n\nTHEODEN stands in the GOLDEN HALL, gravely listening to\nGANDALF ... ARAGORN, LEGOLAS, and GIMLI look on . . .\n\n[Gandalf:]\n"', '[Gandalf:]\n"They will be.\n(low voice, to Aragorn)\nYou must come to Minas Tirith by another\nroad ...\n(cryptic)\nFollow the river, look to the black ships.\n(louder, to all)\nUnderstand this . . . things are now in\nmotion that cannot be undone."', '[Gandalf:]\n"Of all the inquisitive Hobbits, Peregrin,\nTook, you are the worst. Hurry, hurry!"', '[Gandalf:]\n"Three days ride as the Nazgul flies and\nyou\'d better hope we don\'t have one of\nthose on our tail."', '[Gandalf:]\n"Run Shadowfax, show us the meaning of\nhaste."', '[Gandalf:]\n"We have just passed into the realm of\nGondor!"', '[Gandalf:]\n"Minas Tirith . . . City of the Kings."', '[Gandalf:]\n"Yes, the white tree of Gondor. The tree of\nthe King."', '[Gandalf:]\n"Hail, Denethor, Son of Ecthelion, Lord and\nSteward of Gondor."', '[Gandalf:]\n"Come."', '[Gandalf:]\n"You\'re in the service of the Steward now -\nyou\'re going to have to do as you\'re told,\nPeregrin Took . . .\n(under his breath)\nGuard of the Citadel!"', '[Gandalf:]\n"It\'s the deep breath before the plunge."', '[Gandalf:]\n"There never was much hope."', '[Gandalf:]\n"This will be the end of Gondor as we know\nit. Here the hammerstroke will fall\nhardest."', '[Gandalf:]\n"The Witchking of Angmar . . .\n(he looks down at a startled\nPIPPIN),.;\nYou\'ve met him before . . ."', '[Gandalf:]\n"Peregrin Took, my lad, there is a task to\nbe done. Another opportunity for one of the\nShire-folk to prove their great worth!"', '[Gandalf:]\n"Foreseen and done nothing!"', '[Gandalf:]\n"Where? When?"', '[Gandalf:]\n"Faramir! Your father\'s will has turned to\nmadness! Do not throw away your life so\nrashly!"', '[Gandalf:]\n"Your father loves you, Faramir!\n(quietly)\nAnd will remember it before the end."', '[Gandalf:]\n"To the Gates! Man the Gates!"', '[Gandalf:]\n"Pull back - to the second level! Hurry! Get\nthe women and children out of here - get\nthem out!"', '[Gandalf:]\n"Fight! Fight for your lives!"', '[Gandalf:]\n"Come! Quickly!"', '[Gandalf:]\n"White shores ... And beyond . . . A far green\ncountry under a swift sunrise."', '[Gandalf:]\n"Frodo has passed beyond my sight. The\ndarkness is deepening."', '[Gandalf:]\n"It\'s only a matter of time. He has suffered\na defeat, yes, but behind the walls of\nMordor our enemy is regrouping."', '[Gandalf:]\n"Because ten thousand Orcs now stand between\nFrodo and Mount Doom."', '[Gandalf:]\n"How?"', '[Gandalf:]\n"Now come the days of the King ..."', '[Gandalf:]\n"Farewell, my brave Hobbits. My work is now\nfinished. Here at last, on the shores of\nthe sea, comes the end of our Fellowship."']
+[Gandalf:]"What do you mean? Do you mean to
+wish me a good morning, or do you
+mean that it is a good morning
+whether I want it or not? Or,
+perhaps you mean to say that you
+feel good on this particular
+morning, or are you simply stating
+that this is a morning to be good
+on?"
+[Gandalf:]
+"That remains to be seen. I'm
+looking for someone to share in an
+adventure."
+[Gandalf:]
+"To think that I should have lived
+to be good-morninged by Belladonna
+Took's son as if I were selling
+buttons at the door."
+[Gandalf:]
+"You've changed, and not entirely
+for the better, Bilbo Baggins."
+[Gandalf:]
+"Well, you know my name, although
+you don't remember I belong to it.
+"I'm Gandalf and Gandalf means me!"
+[Gandalf:]
+"And where else should I be?"
+[Gandalf:]
+"Well, I'm pleased to find you
+remember something about me, even
+if it's only my fireworks. Well
+then, that's decided. It will be
+very good for you and most amusing
+for me. I shall inform the others."
+[Gandalf:]
+"Oh, no thank you, Balin. A little
+red wine for me, I think."
+[Gandalf:]
+"Fili, Kili, Oin, Gloin, Balin and
+Dwalin. We appear to be one dwarf
+short."
+[Gandalf:]
+"Cheers!"
+[Gandalf:]
+"My dear Bilbo, what on earth is the
+matter?"
+[Gandalf:]
+"They're quite a merry gathering,
+once you get used to them."
+[Gandalf:]
+"He is here."
+[Gandalf:]
+"There is a mark; I put it there
+myself. Bilbo Baggins, allow me to
+introduce the leader of our
+company, Thorin Oakenshield."
+[Gandalf:]
+"Bilbo, my dear fellow, let us have
+a little more light."
+[Gandalf:]
+"Well, no, I wouldn't say that I -"
+[Gandalf:]
+"What?"
+[Gandalf:]
+"That, my dear Balin, is not
+entirely true."
+[Gandalf:]
+"It was given to me by your father,
+by Thrain, for safe keeping. It is
+yours now."
+[Gandalf:]
+"These ruins speak of another
+passage into the lower halls."
+[Gandalf:]
+"Well, if we can find it, but dwarf
+doors are invisible when closed.
+The answer lies hidden somewhere in
+this map and I do not have the
+skill to find it. But there are
+others in Middle Earth who can."
+[Gandalf:]
+"Hobbits are remarkably light on
+their feet! In fact, they can go
+unseen by most if they choose. And
+while the dragon is accustomed to
+the smell of dwarf, the scent of a
+hobbit is all but unknown to him
+which gives us a distinct
+advantage."
+[Gandalf:]
+"Very helpful, Fili."
+[Gandalf:]
+"You've been sitting quietly for far
+too long. When did doliles and your
+mother's dishes become so important
+to you? I remember a young hobbit
+who was always running off in
+search of elves in the woods. He'd
+stay out late, trailing mud and
+twigs and fireflies. A young hobbit
+who would have liked nothing better
+than to find out what was beyond
+the borders of the Shire...
+The world is not in your books and
+maps. It's out there."
+[Gandalf:]
+"You are also a Took! Did you know
+that your great-great-great-great
+uncle, Bullroarer Took was so large
+he could ride a real horse?"
+[Gandalf:]
+"Well, he could! In the Battle of
+Green Fields, he charged the goblin
+ranks. He swung his club so hard,
+it knocked the Goblin King's head
+clean off, and it sailed a hundred
+yards through the air and went down
+a rabbit hole. And thus the battle
+was won, and the game of golf
+invented at the same time."
+[Gandalf:]
+"Well, all good stories deserve
+embellishment. You'll have a tale
+or two to tell of your own when you
+come back."
+[Gandalf:]
+"No. But if you do, you will not be
+the same."
+[Gandalf:]
+"My dear Bilbo, what on earth is the
+matter?"
+[Gandalf:]
+"It is raining, Master Dwarf, and it
+will continue to rain until the
+rain is done. If you wish to change
+the weather of the world, you
+should find yourself another
+wizard."
+[Gandalf:]
+"What?"
+[Gandalf:]
+"There are five of us. The greatest
+of our order is Saruman the White.
+Then there are the two blue
+wizards...
+You know, I've quite forgotten
+their names."
+[Gandalf:]
+"Well, that would be Radagast the
+Brown."
+[Gandalf:]
+"I think he is a very great wizard
+in his own way. He's a gently soul
+who prefers the company of animals
+to others."
+[Gandalf:]
+"A farmer and his family used to
+live here."
+[Gandalf:]
+"I think it would be wiser to move
+on. We could make for the Hidden
+Valley."
+[Gandalf:]
+"Why not? The elves could help us!
+We could get food, rest, advice."
+[Gandalf:]
+"We have a map we cannot read; Lord
+Elrond will help us."
+[Gandalf:]
+"You are neither of them. And
+besides, it was not Lord Elrond who
+abandoned you at Erebor. That blame
+lies with King Thranduil of the
+Woodland Realm. I did not give you
+that map and key for you to hold
+onto the past."
+[Gandalf:]
+"To seek the company of the only one
+around here who's got any sense."
+[Gandalf:]
+"Myself, Mr. Baggins! I've had
+enough of dwarves for one day."
+[Gandalf:]
+"The dawn will take you all!"
+[Gandalf:]
+"To look ahead."
+[Gandalf:]
+"Looking behind. Nasty business;
+still, they're all in one piece."
+[Gandalf:]
+"He had the nous to play for time.
+None of the rest of you thought of
+that."
+[Gandalf:]
+"Oh, not for an age. Not since a
+darker power ruled these lands. In
+any case, they could not have moved
+in daylight."
+[Gandalf:]
+"It's a troll hoard. Be careful what
+you touch."
+[Gandalf:]
+"Nor were they made by any smith
+among men."
+[Gandalf:]
+"Bilbo, here. This is about your
+size."
+[Gandalf:]
+"The blade is of Elvish make, which
+means it will glow blue when orcs
+or goblins are nearby."
+[Gandalf:]
+"And I hope you'll never have to.
+But if you do, remember this: true
+courage is about knowing not when
+to take a life, but when to spare
+one."
+[Gandalf:]
+"Stay together! Hurry now, arm
+yourselves."
+[Gandalf:]
+"Radagast! It's Radagast the Brown."
+[Gandalf:]
+"Webs? What do you mean?"
+[Gandalf:]
+"Dol Guldur? But the old fortress is
+abandoned."
+[Gandalf:]
+"Now, a Necromancer? Are you sure?"
+[Gandalf:]
+"Who did you tell about your quest,
+beyond your kin."
+[Gandalf:]
+"Who did you tell?"
+[Gandalf:]
+"You are being hunted!"
+[Gandalf:]
+"These are Gundabad Wargs, they will
+outrun you!"
+[Gandalf:]
+"Come on."
+[Gandalf:]
+"Move. Run!"
+[Gandalf:]
+"This way, you fools!"
+[Gandalf:]
+"I think that would be wise."
+[Gandalf:]
+"You can feel it?"
+[Gandalf:]
+"That's exactly what it is. A very
+powerful magic."
+[Gandalf:]
+"The Valley of Imraldis. In the
+Common Tongue, it's known by
+another name."
+[Gandalf:]
+"Here lies the last homely house
+east of the sea."
+[Gandalf:]
+"You have no enemies here, Thorin
+Oakenshield. The only ill-will to
+be found in this valley is that
+which you bring yourself."
+[Gandalf:]
+"Of course they will. But we have
+questions that need to be answered.
+If we are to be successful, this
+will need to be handled with tact
+and respect and no small degree of
+charm, which is why you will leave
+the talking to me."
+[Gandalf:]
+"Ah, Lindir!"
+[Gandalf:]
+"I must speak with Lord Elrond."
+[Gandalf:]
+"Not here? Where is he?"
+[Gandalf:]
+"Lord Elrond.
+My friend! Where have you been."
+[Gandalf:]
+"That may have been us."
+[Gandalf:]
+"No, master Gloin, he's offering you
+food."
+[Gandalf:]
+"Kind of you to invite us. I'm not
+really dressed for dinner."
+[Gandalf:]
+"We found them in a troll hoard on
+the Great East Road, shorty before
+we were ambushed by orcs."
+[Gandalf:]
+"For goodness sake, Thorin, show him
+the map."
+[Gandalf:]
+"Save me from the stubbornness of
+dwarves. Your pride will be your
+downfall. You stand here in the
+presence of one of the few in
+Middle Earth who can read that map.
+Show it to Lord Elrond!"
+[Gandalf:]
+"It's mainly academic. As you know,
+this sort of artifact sometimes
+contains hidden text. You still
+read ancient dwarvish, do you not?"
+[Gandalf:]
+"Moon runes? Of course; an easy
+thing to miss."
+[Gandalf:]
+"It is the start of the dwarves'
+near year, when the last moon of
+autumn and the first sun of winter
+appear in the sky together."
+[Gandalf:]
+"What do you mean?"
+[Gandalf:]
+"Of course I was going to tell you,
+I was waiting for this very chance.
+And really, I think you can trust
+that I know what I am doing."
+[Gandalf:]
+"What if we succeed? If the dwarves
+take back the mountain, our
+defenses in the east will be
+strengthened."
+[Gandalf:]
+"It is also dangerous to do nothing.
+The throne of Erebor is Thorin's
+birthright, what is it you fear?"
+[Gandalf:]
+"With or without our help, these
+dwarves will march on the mountain.
+They are determined to reclaim
+their homeland. I do not believe
+Thorin Oakenshield feels that he's
+answerable to anyone. Nor for that
+matter am I."
+[Gandalf:]
+"Lady Galadriel."
+[Gandalf:]
+"Age may have changed me, but not so
+the Lady of Lorien."
+[Gandalf:]
+"Saruman."
+[Gandalf:]
+"Unnoticed? No, I'm simply doing
+what I feel to be right."
+[Gandalf:]
+"It is true, my lady. Smaug owes
+allegiance to no one. But if he
+should side with the enemy, a
+dragon could be used to terrible
+effect."
+[Gandalf:]
+"There is something at work beyond
+the evil of Smaug. Something far
+more powerful. We can remain blind
+to it, but it will not be ignoring
+us, that I can promise you. A
+sickness lies over the Greenwood.
+The woodsmen who live there now
+call it Mirkwood, and they say..."
+[Gandalf:]
+"They speak of a Necromancer living
+in Dol Guldur, a sorcerer who can
+summon the dead."
+[Gandalf:]
+"And so I thought too, but Radagast
+has seen -"
+[Gandalf:]
+"I have none."
+[Gandalf:]
+"Yes."
+[Gandalf:]
+"I do not know. Saruman believes
+that it is only great power that
+can hold evil in check. But that is
+not what I have found. I've found
+that it is the small things,
+everyday deeds of ordinary folk
+that keeps the darkness at bay.
+Simple acts of kindess and love.
+Why Bilbo Baggins? Perhaps it is
+because I'm afraid and he gives me
+courage."
+[Gandalf:]
+"Take up arms. Fight. Fight!"
+[Gandalf:]
+"Follow me! Quick! Run!"
+[Gandalf:]
+"Three, four, five, Gloin, that's
+six. And Dwalin, that makes seven."
+[Gandalf:]
+"Well, where did you last see him?"
+[Gandalf:]
+"What happened exactly? Tell me!"
+[Gandalf:]
+"Bilbo Baggins! I've never been so
+glad to see anyone in my life!"
+[Gandalf:]
+"Well, what does it matter? He's
+back."
+[Gandalf:]
+"And into the fire. Run. Run!"
+[Gandalf:]
+"Come on!"
+[Gandalf:]
+"This way, quickly!"
+[Gandalf:]
+"To the house! Run!"
+[Gandalf:]
+"Come on, get inside!"
+[Gandalf:]
+"That is our host. His name is Beorn
+and he's a skinchanger. Sometimes
+he's a huge, black bear, sometimes
+he's a great, strong man. The bear
+is unpredictable, but the man can
+be reasoned with. However, he is
+not overfond of dwarves."
+[Gandalf:]
+"Don't be ridiculous. He's under no
+enchantment but his own.
+Alright now, get some rest, all of
+you. You'll be safe here tonight."
+[Gandalf:]
+"Before Durin's Day falls, yes."
+[Gandalf:]
+"Which is why we must go through
+Mirkwood."
+[Gandalf:]
+"We will take the Elven Road. That
+path is still safe."
+[Gandalf:]
+"You have my word."
+[Gandalf:]
+"Why now? What has made Bolg crawl
+from his hole?"
+[Gandalf:]
+"Are you sure of this?"
+[Gandalf:]
+"What do you know of this sorcerer,
+the one they call the Necromancer?"
+[Gandalf:]
+"The dead?"
+[Gandalf:]
+"Yes. Yes, there are tombs up there."
+[Gandalf:]
+"Saruman the White says it is not
+possible. The enemy is destroyed
+and will never return."
+[Gandalf:]
+"The Elven Gate."
+[Gandalf:]
+"Set the ponies loose. Let them
+return to their master."
+[Gandalf:]
+"Not if we go two hundred miles
+north, or twice that distance
+south."
+[Gandalf:]
+"The High Fells. So be it."
+[Gandalf:]
+"I would not do this unless I had
+to."
+[Gandalf:]
+"Found what?"
+[Gandalf:]
+"Good. Well, that's good; you'll
+need it."
+[Gandalf:]
+"You must stay on the path; do not
+leave it. If you do, you will never
+find it again."
+[Gandalf:]
+"Oh, it's you!"
+[Gandalf:]
+"Trust me, Radagast, I would not
+have called you here without good
+reason."
+[Gandalf:]
+"No, it is not."
+[Gandalf:]
+"If he had a name, it's long since
+been lost. He would have only been
+known as a servant of evil. One of
+a number. One of nine."
+[Gandalf:]
+"The Ringwraiths have been summouned
+to Dol Guldur."
+[Gandalf:]
+"Who said it was human?"
+[Gandalf:]
+"To rejoin the others!"
+[Gandalf:]
+"I started this; I cannot forsake
+them. They are all in grave danger."
+[Gandalf:]
+"You want me to cast my friends
+aside?"
+[Gandalf:] "Mind if I join you?"
+[Gandalf:] "I’ll have the same."
+[Gandalf:] "I should introduce myself. My name is Gandalf. Gandalf the Grey."
+[Gandalf:] "Well now! This is a fine chance. What brings Thorin Oakenshield to Bree?"
+[Gandalf:] "Thorin, it’s been a long time since anything but rumor was heard of Thrain."
+[Gandalf:] "I urged him to march upon Erebor; to rally the seven armies of the dwarves, to destroy the dragon and take back the Lonely Mountain. And I would say the same to you. Take back your homeland."
+[Gandalf:] "No, it is not. The Lonely Mountain troubles me, Thorin. That dragon has sat there long enough. Sooner or later, darker minds will turn toward Erebor. I ran into some unsavory characters whilst traveling along the Greenway. They mistook me for a vagabond."
+[Gandalf:] "One of them was carrying a message."
+[Gandalf:] "It is Black Speech."
+[Gandalf:] "Promise of payment."
+[Gandalf:] "Your head. Someone wants you dead. Thorin, you can wait no longer. You are the heir to the throne of Durin. Unite the armies of the dwarves. Together you have the might and power to retake Erebor. Summon a meeting of the seven dwarf families. Demand they stand by their oaths."
+[Gandalf:] "What if I were to help you to reclaim it?"
+[Gandalf:] "Yes, it does, which is why we are going to need a burglar."
+[Gandalf:] "Did they see you? They saw you!"
+[Gandalf:] "What did I tell you? Quiet as a mouse. Excellent burglar material."
+[Gandalf:] "What form did it take? Like a bear?"
+[Gandalf:] "There is a house, it’s not far from here, where we might take refuge."
+[Gandalf:] "Neither. He will help us, or he will kill us."
+[Gandalf:] "None."
+[Gandalf:] "Come on!"
+[Gandalf:] "This way, quickly!"
+[Gandalf:] "To the house! Run!"
+[Gandalf:] "Come on, get inside!"
+[Gandalf:] "Open the door!"
+[Gandalf:] "That...is our host."
+[Gandalf:] "His name is Beorn, and he is a skin-changer."
+[Gandalf:] "Sometimes he’s a huge black bear; sometimes he’s a great strong man. The bear is unpredictable, but the man can be reasoned with. However, he is not overfond of dwarves."
+[Gandalf:] "Don’t be a fool; he’s under no enchantment but his own. Alright now, get some sleep, all of you. You’ll be safe here tonight."
+[Gandalf:] "I hope."
+[Gandalf:] "Before Durin’s Day falls, yes."
+[Gandalf:] "Which is why we must go through Mirkwood."
+[Gandalf:] "We will take the Elven Road. That path is still safe."
+[Gandalf:] "The Elven Gate."
+[Gandalf:] "Here lies our path through Mirkwood."
+[Gandalf:] "Set the ponies loose. Let them return to their master."
+[Gandalf:] "Not unless we go two hundred miles north, or twice that distance south."
+[Gandalf:] "The High Fells. So be it."
+[Gandalf:] "Not my horse! I need it."
+[Gandalf:] "I would not do this unless I had to."
+[Gandalf:] "You’ve changed, Bilbo Baggins. You’re not the same Hobbit as the one who left the Shire."
+[Gandalf:] "Found what?"
+[Gandalf:] "What did you find?"
+[Gandalf:] "Good. Well, that’s good. You’ll need it."
+[Gandalf:] "I’ll be waiting for you at the overlook, before the slopes of Erebor. Keep the map and key safe. Do not enter that mountain without me."
+[Gandalf:] "This is not the Greenwood of old. The very air of the forest is heavy with illusion. It will seek to enter your mind and lead you astray."
+[Gandalf:] "You must stay on the path; do not leave it. If you do, you will never find it again."
+[Gandalf:] "No matter what may come, stay on the path!"
+[Gandalf:] "Oh, it’s YOU!"
+[Gandalf:] "Trust me, Radagast. I would not have called you here without good reason."
+[Gandalf:] "No, it is not."
+[Gandalf:] "If he had a name, it’s long since been lost. He would have been known only as a servant of evil. One of a number. One of nine."
+[Gandalf:] "The Ringwraiths have been summoned to Dol Guldur."
+[Gandalf:] "Who said it was human?"
+[Gandalf:] "The Nine only answer to one master. We’ve been blind, Radagast, and in our blindness, the Enemy has returned."
+[Gandalf:] "He is summoning his servants. Azog the Defiler is no ordinary hunter. He is a commander, a commander of legions. The enemy is preparing for war. It will begin in the east. His mind is set upon that mountain."
+[Gandalf:] "To rejoin the others."
+[Gandalf:] "I started this; I cannot forsake them. They are all in grave danger."
+[Gandalf:] "You want me to cast my friends aside?"
+[Gandalf:] "Dol Guldur. The hill of sorcery."
+[Gandalf:] "As it is meant to. A spell of concealment lies over this place, which means our enemy is not yet ready to reveal himself. He has not regained his full strength. Radagast, I need you to carry a message to the Lady Galadriel. Tell her we must force his hand."
+[Gandalf:] "I’m going in alone. On no account come after me. Do I have your word?"
+[Gandalf:] "Turn around, and do not come back."
+[Gandalf:] "It’s undoubtedly a trap."
+[Gandalf:] "Cé ná ulco sís nurtaina…I ettuluvas caninye! Cánin i sá tanuvaxe!"
+[Gandalf:] "Cé ná ulco sís nurtaina…I ettuluvas caninye! Cánin i sá tanuvaxe!"
+[Gandalf:] "Where is your master?"
+[Gandalf:] "Where is he??"
+[Gandalf:] "Sauron."
+[Gandalf:] "_ _ _"
+[Gandalf:] "_ _ _"
+[Gandalf:] "He is here."
+[Gandalf:] "Come with me, my Lady."
+[Gandalf:] "I need a horse!"
+[Gandalf:] "To warn Erebor. They have no idea what is coming. I saw them with my own eyes - rank upon rank of Moria-orcs. You must summon our friends, bird and beast - the battle for the mountain is about to begin."
+[Gandalf:] "Let me through!"
+[Gandalf:] "Make way!"
+[Gandalf:] "Who’s in charge here?!"
+[Gandalf:] "You must set aside your petty grievances with the dwarves. War is coming! The cesspits of Dol Guldur have been emptied. You’re ALL in mortal danger!"
+[Gandalf:] "Not this time. Armies of orcs are on the move. And these are fighters! They have been bred for war. Our enemy has summoned his full strength."
+[Gandalf:] "Because we forced him! We forced him when the company of Thorin Oakenshield set out to reclaim their homeland. The dwarves were never meant to reach Erebor; Azog the Defiler was sent to kill them. His master seeks control of the mountain. Not just for the treasure within, but for where it lies, its strategic position."
+[Gandalf:] "This is the gateway to reclaiming the lands of Angmar in the north. If that fell kingdom should rise again, Rivendell, Lothlorien, the Shire, even Gondor itself will fall!"
+[Gandalf:] "Since when has my council counted for so little? What do you think I’m trying to do?!"
+[Gandalf:] "You, Bowman! Do you agree with this? Is gold so important to you? Would you buy it with the blood of dwarves?!"
+[Gandalf:] "Bilbo Baggins!"
+[Gandalf:] "Rest up tonight. You must leave on tomorrow."
+[Gandalf:] "Get as far away from here as possible."
+[Gandalf:] "There is no company - not any more. And I don’t like to think what Thorin will do when he finds out what you’ve done."
+[Gandalf:] "But you should be! Don’t underestimate the evil of gold. Gold over which a serpent has long brooded. Dragon-sickness seeps into the hearts of all who come near this mountain."
+[Gandalf:] "Almost all."
+[Gandalf:] "You there! Find this Hobbit a bed, and fill his belly with hot food. He has earned it."
+[Gandalf:] "Hey. Keep an eye on him. If he should try to leave, you will tell me."
+[Gandalf:] "IF YOU DON’T LIKE MY BURGLAR…"
+[Gandalf:] "Then please don’t damage him. Return him to me! You’re not making a very splendid figure as king under the mountain, are you? Thorin son of Thrain!"
+[Gandalf:] "Ironfoot."
+[Gandalf:] "It is Dain, lord of the Iron Hills - Thorin’s cousin."
+[Gandalf:] "I always found Thorin the more reasonable of the two."
+[Gandalf:] "Come now, lord Dain!"
+[Gandalf:] "There is no need for war between dwarves, men and elves! A legion of orcs march on the mountain. Stand your army down!"
+[Gandalf:] "Were-worms!"
+[Gandalf:] "Thranduil! This is madness!"
+[Gandalf:] "Azog - he’s trying to cut us off"
+[Gandalf:] "To the city! Bilbo! This way!"
+[Gandalf:] "...you are the heir to the throne of Durin..."
+[Gandalf:] "...take back...take Erebor..."
+[Gandalf:] "...take back your homeland…"
+[Gandalf:] "...this treasure will be your death…"
+[Gandalf:] "They are rallying to their king!"
+[Gandalf:] "We may yet survive this."
+[Gandalf:] "And Fili, Kili...and Dwalin. He’s taking his best warriors!"
+[Gandalf:] "To cut the head off the snake."
+[Gandalf:] "Legolas... Legolas Greenleaf!"
+[Gandalf:] "Gundabad…This was their plan all along. Azog engages our forces, then Bolg seeps in from the north."
+[Gandalf:] "Ravenhill."
+[Gandalf:] "My lord, dispatch this force to Ravenhill! The dwarves are about to be overrun. Thorin must be warned."
+[Gandalf:] "Thranduil?!"
+[Gandalf:] "Don’t be ridiculous! You’ll never make it!"
+[Gandalf:] "Cause they will see you coming and kill you!"
+[Gandalf:] "It’s out of the question - I won’t allow it!"
+[Gandalf:] "Ah, the borders of the Shire. It is here I must leave you."
+[Gandalf:] "You don’t really suppose, do you, that all your adventures and escapes were managed by mere luck?"
+[Gandalf:] "Magic rings should not be used lightly, Bilbo."
+[Gandalf:] "Don’t take me for a fool - I know you found one in the Goblin tunnels...and I’ve kept my eye on you ever since."
+[Gandalf:] "Farewell."
+[Gandalf:] "You’re a very fine person, Mister Baggins. And I’m very fond of you. But you’re only quite a little fellow in a wide world after all."
+[Gandalf:] "And what about very old friends?!"
+[Gandalf:] "Bilbo Baggins."
+[Gandalf:] "Good to see you. One hundred eleven years old - who’d believe it?"
+[Gandalf:]
+"A Wizard is never late, Frodo Baggins,
+nor is he early. He arrives precisely
+when he means to."
+[Gandalf:]
+"You didn't think I'd miss your Uncle
+Bilbo's birthday?"
+[Gandalf:]
+"What, everything? Far too eager and
+curious for a Hobbit. Most unnatural..."
+[Gandalf:]
+"Oh, well...that should please him."
+[Gandalf:]
+"Good gracious, me."
+[Gandalf:]
+"Oh, really?"
+[Gandalf:]
+"Indeed?"
+[Gandalf:]
+"If you're referring to the incident with
+the Dragon...I was barely involved...all
+I did was give your Uncle a little nudge
+out the door."
+[Gandalf:]
+"Oh, really?"
+[Gandalf:]
+"So am I, dear boy...so am I"
+[Gandalf:]
+"And what about very old friends?"
+[Gandalf:]
+"Bilbo Baggins!"
+[Gandalf:]
+"It's good to see you. One hundred and
+eleven years old, who would believe it!"
+[Gandalf:]
+"Just tea, thank you."
+[Gandalf:]
+"No, not at all. Go ahead. A sudden loud
+knock on the front door."
+[Gandalf:]
+"So, you mean to go through with your
+plan, then?"
+[Gandalf:]
+"Frodo suspects something."
+[Gandalf:]
+"You will tell him, won't you?"
+[Gandalf:]
+"He's very fond of you."
+[Gandalf:]
+"Meridoc Brandybuck and Peregrin Took...I
+might have known!"
+[Gandalf:]
+"I suppose you think that was terribly
+clever?"
+[Gandalf:]
+"There are many magic rings in the world,
+Bilbo Baggins, and none of them should be
+used lightly."
+[Gandalf:]
+"You will keep an eye on Frodo, won't you?"
+[Gandalf:]
+"What about this ring of yours?   Is that
+staying too?"
+[Gandalf:]
+"I think you should leave the Ring behind,
+Bilbo. Is that so hard?"
+[Gandalf:]
+"There's no need to get angry."
+[Gandalf:]
+"Precious? It's been called that before,
+but not by you."
+[Gandalf:]
+"I think you've had that ring quite long
+enough."
+[Gandalf:]
+"Bilbo Baggins do not take me for some
+conjurer of cheap tricks!"
+[Gandalf:]
+"Bilbo?"
+[Gandalf:]
+"The ring is still in your pocket."
+[Gandalf:]
+"I'm sure you will, my dear friend."
+[Gandalf:]
+"Goodbye Bilbo."
+[Gandalf:]
+"Bilbo's ring."
+[Gandalf:]
+"I have some things I must see to."
+[Gandalf:]
+"Questions. Questions that need
+answering."
+[Gandalf:]
+"Neither do I. Keep it secret, keep it
+safe."
+[Gandalf:]
+"Hold out your hand, Frodo...it is quite
+cool."
+[Gandalf:]
+"...these are markings."
+[Gandalf:]
+"This is the one ring forged by the dark
+lord, Sauron, in the fires of Mt
+Doom...taken by Isildur from the hand of
+Sauron himself."
+[Gandalf:]
+"For sixty years the ring lay quiet in
+Bilbo's keeping, prolonging his life,
+delaying old age...but no longer, Frodo.
+Evil is stirring in Mordor. The ring has
+awoken. It has heard its master's call."
+[Gandalf:]
+"No, Frodo. The spirit of Sauron has
+endured. His life force is bound to the
+ring and the ring survived. Sauron has
+returned. His Orcs have multiplied...his
+fortress of Barad- dur is rebuilt in the
+land of Mordor. Sauron needs only this
+ring to cover all the lands in the second
+darkness. He is seeking it, seeking it,
+all his thought is bent on it. For the
+ring yearns, above all else, to return to
+the hand of its master: they are one, the
+ring and the dark lord. Frodo, he must
+never find out."
+[Gandalf:]
+"There is one other who knew that Bilbo
+had the Ring. I looked everywhere for
+the creature Gollum, but the enemy found
+him first."
+[Gandalf:]
+"No, Frodo..."
+[Gandalf:]
+"You cannot offer me this ring."
+[Gandalf:]
+"Don't tempt me, Frodo. I dare not take
+it, not even to keep it safe."
+[Gandalf:]
+"Understand, Frodo...I would use this Ring
+from a desire to do good...but through
+me, it would wield a power too great and
+terrible to imagine."
+[Gandalf:]
+"No, no it can't."
+[Gandalf:]
+"You must leave, and leave quickly. Get
+out of the Shire."
+[Gandalf:]
+"Make for the village of Bree."
+[Gandalf:]
+"I will, be waiting for you at the Inn of
+the Prancing Pony. Frodo packs his food
+into his knapsack."
+[Gandalf:]
+"I don't know, Frodo. I don't have any
+answers. I must see the Head of my
+Order. He is both wise and powerful.
+Trust me, Frodo. He'll know what to do."
+[Gandalf:]
+"You'll have to leave the name of Baggins
+behind you...for that name is not safe
+outside the Shire."
+[Gandalf:]
+"My dear Frodo, Hobbits really are amazing
+creatures. You can learn all that there
+is to know about their ways in a month,
+and yet, after a hundred years, they can
+still surprise you."
+[Gandalf:]
+"It's a little late for trimming the
+hedges, don't you think?"
+[Gandalf:]
+"What did you hear? Speak!"
+[Gandalf:]
+"No?"
+[Gandalf:]
+"Perhaps not. I've thought of a better
+use for you."
+[Gandalf:]
+"Saruman!"
+[Gandalf:]
+"Beyond any doubt."
+[Gandalf:]
+"All these long years it was in the Shire,
+under my very nose."
+[Gandalf:]
+"We still have time...time enough to
+counter Sauron...if we act quickly."
+[Gandalf:]
+"You know this? How?"
+[Gandalf:]
+"A palantir is a dangerous tool, Saruman."
+[Gandalf:]
+"They are not all accounted for, the lost
+seeing-stones...we do not know who else
+may be watching."
+[Gandalf:]
+"Yes, I'm here and you're lucky to be
+here, too. A few more hours and you
+would have been beyond our aid. You have
+some strength in you, my dear Hobbit."
+[Gandalf:]
+"I'm sorry Frodo."
+[Gandalf:]
+"There is only one Lord of the Ring. Only
+one who can bend it to his will...and he
+does not share power."
+[Gandalf:]
+"Nothing, Frodo..."
+[Gandalf:]
+"Sam has hardly left your side."
+[Gandalf:]
+"By the skills of Lord Elrond, you're
+beginning to mend."
+[Gandalf:]
+"That wound will never fully heal. He will
+carry it the rest of his life."
+[Gandalf:]
+"It is a burden he should never have to
+had to bear. We can ask no more of Frodo."
+[Gandalf:]
+"His treachery runs deeper than you know.
+By foul craft, Saruman has crossed Orc
+with Goblin Men...he is breeding an army
+in the caverns of Isengard. An army that
+can move in Sunlight and cover great
+distance at speed. Saruman is coming for
+the Ring."
+[Gandalf:]
+"It is in Men that we must place our hope."
+[Gandalf:]
+"There is one who could unite them, one
+who could re claim the thrown of Gondor."
+[Gandalf:]
+"Aragorn is right...we cannot use it."
+[Gandalf:]
+"Do you not understand? While we bicker
+among ourselves, Sauron's power grows!
+No one will escape it. You will all be
+destroyed, your homes burnt and your
+families put to the sword!"
+[Gandalf:]
+"I will help you bear this burden, Frodo
+Baggins, as long as it is yours to bear."
+[Gandalf:]
+"No, Gimli. I would not take the road
+through Moria unless I had no other
+choice."
+[Gandalf:]
+"It's Saruman."
+[Gandalf:]
+"No!"
+[Gandalf:]
+"Let the ringbearer decide."
+[Gandalf:]
+"So be it."
+[Gandalf:]
+"Itidin...it mirrors only starlight and
+moonlight."
+[Gandalf:]
+"Oh...mellon."
+[Gandalf:]
+"Into the mines!"
+[Gandalf:]
+"Quietly, now. It's a four day journey to
+the other side. Let us hope that our
+presence will go unnoticed."
+[Gandalf:]
+"I have no memory of this place."
+[Gandalf:]
+"He's been following us for three days."
+[Gandalf:]
+"Escaped...or was set loose. And now the
+Ring has drawn him here...he will never
+be rid of his need for it. He hates and
+loves the ring, as he hates and loves
+himself. Smeagol's life is a sad story."
+[Gandalf:]
+"Pity? It was pity that stayed Bilbo's
+hand. Many that live deserve death, and
+some that die deserve life. Can you give
+it to them, Frodo?"
+[Gandalf:]
+"So do all who live to see such times, but
+that is not for them to decide. All we
+have to decide is what to do with the
+time that is given to us."
+[Gandalf:]
+"No, but the air doesn't smell so foul
+down there. If in doubt, Meriadoc,
+always follow your nose!"
+[Gandalf:]
+"Let me risk a little more light."
+[Gandalf:]
+"Behold! The great realm and Dwarf city
+of Dwarrowdelf!"
+[Gandalf:]
+"Gimli!!"
+[Gandalf:]
+""
+[Gandalf:]
+"I think there's more to this hobbit than
+meets the eye."
+[Gandalf:]
+"To the bridge of Khazad-dum!"
+[Gandalf:]
+"This way!"
+[Gandalf:]
+"Lead them on, Aragorn. The bridge is
+near."
+[Gandalf:]
+"You cannot pass!"
+[Gandalf:]
+"I am a servant of the Secret Fire, wielderof the Flame of Anor!"
+[Gandalf:]
+"Argh! Go back to the shadow. The DarkFire will not avail you, Flame of Ud n![Camera zooms in through the mountainand focuses on Gandalf and the Balrogon the bridge of Khazad-d m. The Balrogstrikes down on Gandalf with its flamingsword. Gandalf parries the blow withGlamdring, shattering the Balrog s sword.]YOU  SHALL NOT... PASS!!!"
+[Gandalf:]
+"Argh!"
+[Gandalf:]
+"Fly, you fools!"
+[Gandalf:]
+"Through fire and water. [Flashback:Gandalf is battling the Balrog atopD rin s Tower.] From the lowest dungeonto the highest peak, I fought with theBalrog of Morgoth."
+[Gandalf:]
+"Until at last, I threw down my enemyand smote his ruin upon the mountainside."
+[Gandalf:]
+"Darkness took me. And I strayed outof thought and time. [Camera zooms inGandalf s eye and enters an amorphousrealm of stars and galaxies, endingin a blinding white light] Stars wheeledoverhead and everyday was as long asa life-age of the earth. But it wasnot the end. I felt life in me again."
+[Gandalf:]
+"I've been sent back until my task isdone."
+[Gandalf:]
+"Gandalf? Yes... That's what they usedto call me. Gandalf the Grey. That wasmy name."
+[Gandalf:]
+"One stage of your journey is over, anotherbegins. War has come to Rohan. We mustride to Edoras with all speed."
+[Gandalf:]
+"Shadowfax. [Gimli bows in the background.]He's the lord of all horses and he'sbeen my friend through many dangers."
+[Gandalf:]
+"Edoras and the Golden Hall of Meduseld.There dwells Theoden, King of Rohan,whose mind is overthrown. Saruman'shold over King Theoden is now very strong."
+[Gandalf:]
+"Be careful what you say. Do not lookfor welcome here."
+[Gandalf:]
+"Hmm? [Glances at his staff.] Oh. Youwould not part an old man from his walkingstick?"
+[Gandalf:]
+"The courtesy of your hall is somewhatlessened of late, Theoden King."
+[Gandalf:]
+"Be silent! Keep your forked tongue behindyou teeth. I have not passed throughfire and death to bandy crooked wordswith a witless worm!"
+[Gandalf:]
+"Theoden, son of Thengel, too long haveyou sat in the shadows."
+[Gandalf:]
+"Hearken to me! I release you from thespell."
+[Gandalf:]
+"You did not kill me, you will not killhim!"
+[Gandalf:]
+"Be gone!!"
+[Gandalf:]
+"Breathe the free air again, my friend."
+[Gandalf:]
+"Your fingers would remember their oldstrength better... if they grasped yoursword."
+[Gandalf:]
+"Theodred's death was not of your making."
+[Gandalf:]
+"He was strong in life. His spirit willfind its way to the halls of your fathers.Westu hal. Ferou, Theodred, Ferou. (Be-thouwell. Go-thou, Theodred, go-thou.)"
+[Gandalf:]
+"This is but a taste of the terror thatSaruman will unleash. All the more potentfor he is driven now by fear of Sauron.Ride out and meet him head on. Drawhim away from your women and children.[Leans forward and puts a hand on Theoden'schair. Theoden looks at his hand warily.]You must fight."
+[Gandalf:]
+"Then what is the king's decision?"
+[Gandalf:]
+"There is no way out of that ravine.Theoden is walking into a trap. He thinkshe s leading them to safety. What theywill get is a massacre. Theoden hasa strong will but I fear for him. Ifear for the survival of Rohan. He willneed you before the end, Aragorn. Thepeople of Rohan will need you. The defensesHAVE to hold."
+[Gandalf:]
+"Theoden king stands alone."
+[Gandalf:]
+"Sauron's wrath will be terrible, hisretribution swift. The battle for Helm'sDeep is over. The battle for Middle-earthis about to begin. All our hopes nowlie with two little hobbits. Somewherein the wilderness."
+[Gandalf:]
+"And there Saruman must remain, under your
+guard, Treebeard."
+[Gandalf:]
+"No word ... nothing."
+[Gandalf:]
+"Do we know that?"
+[Gandalf:]
+"Fool of a Took!"
+[Gandalf:]
+"Minas Tirith???
+Is that what you saw?"
+[Gandalf:]
+"And what did you tell him? Speak!"
+[Gandalf:]
+"What did you tell him about Frodo and the
+Ring?
+
+INT. EDORAS, GOLDEN HALL - DAY
+
+THEODEN stands in the GOLDEN HALL, gravely listening to
+GANDALF ... ARAGORN, LEGOLAS, and GIMLI look on . . .
+
+[Gandalf:]
+"
+[Gandalf:]
+"They will be.
+(low voice, to Aragorn)
+You must come to Minas Tirith by another
+road ...
+(cryptic)
+Follow the river, look to the black ships.
+(louder, to all)
+Understand this . . . things are now in
+motion that cannot be undone."
+[Gandalf:]
+"Of all the inquisitive Hobbits, Peregrin,
+Took, you are the worst. Hurry, hurry!"
+[Gandalf:]
+"Three days ride as the Nazgul flies and
+you'd better hope we don't have one of
+those on our tail."
+[Gandalf:]
+"Run Shadowfax, show us the meaning of
+haste."
+[Gandalf:]
+"We have just passed into the realm of
+Gondor!"
+[Gandalf:]
+"Minas Tirith . . . City of the Kings."
+[Gandalf:]
+"Yes, the white tree of Gondor. The tree of
+the King."
+[Gandalf:]
+"Hail, Denethor, Son of Ecthelion, Lord and
+Steward of Gondor."
+[Gandalf:]
+"Come."
+[Gandalf:]
+"You're in the service of the Steward now -
+you're going to have to do as you're told,
+Peregrin Took . . .
+(under his breath)
+Guard of the Citadel!"
+[Gandalf:]
+"It's the deep breath before the plunge."
+[Gandalf:]
+"There never was much hope."
+[Gandalf:]
+"This will be the end of Gondor as we know
+it. Here the hammerstroke will fall
+hardest."
+[Gandalf:]
+"The Witchking of Angmar . . .
+(he looks down at a startled
+PIPPIN),.;
+You've met him before . . ."
+[Gandalf:]
+"Peregrin Took, my lad, there is a task to
+be done. Another opportunity for one of the
+Shire-folk to prove their great worth!"
+[Gandalf:]
+"Foreseen and done nothing!"
+[Gandalf:]
+"Where? When?"
+[Gandalf:]
+"Faramir! Your father's will has turned to
+madness! Do not throw away your life so
+rashly!"
+[Gandalf:]
+"Your father loves you, Faramir!
+(quietly)
+And will remember it before the end."
+[Gandalf:]
+"To the Gates! Man the Gates!"
+[Gandalf:]
+"Pull back - to the second level! Hurry! Get
+the women and children out of here - get
+them out!"
+[Gandalf:]
+"Fight! Fight for your lives!"
+[Gandalf:]
+"Come! Quickly!"
+[Gandalf:]
+"White shores ... And beyond . . . A far green
+country under a swift sunrise."
+[Gandalf:]
+"Frodo has passed beyond my sight. The
+darkness is deepening."
+[Gandalf:]
+"It's only a matter of time. He has suffered
+a defeat, yes, but behind the walls of
+Mordor our enemy is regrouping."
+[Gandalf:]
+"Because ten thousand Orcs now stand between
+Frodo and Mount Doom."
+[Gandalf:]
+"How?"
+[Gandalf:]
+"Now come the days of the King ..."
+[Gandalf:]
+"Farewell, my brave Hobbits. My work is now
+finished. Here at last, on the shores of
+the sea, comes the end of our Fellowship."

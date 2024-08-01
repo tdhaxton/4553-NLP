@@ -5,8 +5,7 @@ from chatterbot.trainers import ListTrainer
 #These lines allow us to work with updated Python
 import time
 time.clock = time.time
-
-gandalf_bot = ChatBot("Gandalf", storage_adapter = "chatterbot.storage.SQLStorageAdapter", database_uri = ("sqlite:///gandalf.squlite3"))
+gandalf_bot = ChatBot("Gandalf", storage_adapter = "chatterbot.storage.SQLStorageAdapter", database_uri = ("sqlite:///gandalf.sqlite3"))
 
 gandalf_train = []
 gandalf_trainer = ListTrainer(gandalf_bot)
@@ -17,7 +16,8 @@ def find_dialogue(film):
     with open(str(film) + "_re.txt", "r") as training_file:
         dialogue = training_file.read()
         gandalf_dialogue = re.findall("\[Gandalf:\][\n\s\b]?\"(?:.*\n)*?.*\"", dialogue)
-        gandalf_train.append(gandalf_dialogue)
+        for line in gandalf_dialogue:
+            gandalf_train.append(line)
 
 for film in film_list:
     find_dialogue(film)
@@ -26,6 +26,8 @@ with open("gandalf.txt", "w") as file1:
     for line in gandalf_train:
         file1.write(str(line))
         file1.write("\n")
+
+gandalf_trainer.train(gandalf_train)
 
 gandalf_trainer.train(["What is your name?",
                             "I go by many names. You may call me Gandalf.",
