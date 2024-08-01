@@ -1,6 +1,6 @@
 import re
-from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
+# from chatterbot import ChatBot
+# from chatterbot.trainers import ListTrainer
 
 #These lines allow us to work with updated Python
 #import time
@@ -8,6 +8,7 @@ from chatterbot.trainers import ListTrainer
 
 characters = []
 gandalf_train = []
+film_list = ["H1_JOURNEY", "H2_SMAUG", "H3_BATTLE", "L1_FELLOWSHIP", "L2_TOWERS", "L3_RETURN"]
 
 # def train_gandalf(file):
 #     with open(file + "_re.txt", "r") as train_file:
@@ -15,16 +16,34 @@ gandalf_train = []
 #         gandalf_train.append(gandalf_dialogue)
 
 def preprocess(file):
+    left_justify(file)
+    find_characters(file)
+
+def left_justify(file):
     with open(file + ".txt", "r", encoding = "utf-8") as infile:
         lines = infile.readlines()
         with open(str(file + "_re.txt"), "w") as outfile:
             for line in lines:
-                left_justify = re.sub("^[\s]+ | [\s]+$", "", line)
-                chars = re.findall("\[[A-Z]\w+:\]\n", line)
+                l_justify = re.sub("^[\s]+ | [\s]+$", "", line)
                 # rem_char = re.sub("\[[A-Z]\w+:\]\n", "", line)
-                outfile.write(left_justify)
-                if chars and chars not in characters:
-                    characters.append(chars)
+                outfile.write(l_justify)
+
+def find_characters(file):
+    with open(file + "_re.txt", "r") as file:
+        lines = file.readlines()
+        for line in lines:
+            chars = re.findall("\[[A-Z]\w+:\]\n", line)
+            if chars and chars not in characters:
+                characters.append(chars)
+
+# def insert_quotes(file):
+
+# def find_dialogue(character):
+#     with open("H1_JOURNEY_re.txt", "r") as training_file:
+#         dialogue = training_file.read()
+#         character_dialogue = re.findall("\[Gandalf:\]\n?\"(?:.*\n)*?.*\"", dialogue)
+#         character_train.append(gandalf_dialogue)
+
             
     # train_gandalf(file)
 
@@ -63,12 +82,14 @@ def preprocess(file):
 #             left_justify = re.sub("^[\s]+ | [\s]+$", "", line)
 #             outfile4.write(left_justify)
 
-preprocess("H1_JOURNEY")
-preprocess("H2_SMAUG")
-preprocess("H3_BATTLE")
-preprocess("L1_FELLOWSHIP")
-preprocess("L2_TOWERS")
-preprocess("L3_RETURN")
+for film in film_list:
+    preprocess(film)
+# preprocess("H1_JOURNEY")
+# preprocess("H2_SMAUG")
+# preprocess("H3_BATTLE")
+# preprocess("L1_FELLOWSHIP")
+# preprocess("L2_TOWERS")
+# preprocess("L3_RETURN")
 with open("characters.txt", "w") as file:
     for character in characters:
         file.write(str(character) + "\n")
@@ -78,9 +99,12 @@ with open("H1_JOURNEY_re.txt", "r") as training_file:
     gandalf_dialogue = re.findall("\[Gandalf:\]\n?\"(?:.*\n)*?.*\"", dialogue)
     gandalf_train.append(gandalf_dialogue)
 
-with open("gandalf.txt", "w") as file1:
+with open(str(character) + ".txt", "w") as file1:
     for line in gandalf_train:
         file1.write(str(line))
         file1.write("\n")
+
+# for character in characters:
+#     find_dialogue(character)
 
 # gandalfbot = ChatBot("Gandalf", storage_adapter = "chatterbot.storage.SQLStorageAdapter", database_uri = ("sqlite:///gandalf.squlite3"))
