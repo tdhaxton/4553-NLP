@@ -27,17 +27,17 @@ The Hobbit
 
 [Opening scene: We see Laketown, with the Lonely Mountain in the distance. Bells are ringing, and people are frantically loading their possessions into boats. In his house, the Master of Laketown is overseeing his soldiers and servants carrying boxes containing his gold and valuables.]
 
-[Master:] “I warned you. Did I not warn you what would come of dealing with dwarves?! Now they’ve done it! They’ve woken the dragon. They brought the apocalypse upon our heads! Come on! Quickly! Quickly!”
+[Master:] "I warned you. Did I not warn you what would come of dealing with dwarves?! Now they’ve done it! They’ve woken the dragon. They brought the apocalypse upon our heads! Come on! Quickly! Quickly!"
 
 [The Master pulls a candlestick in the wall sideways; it turns out to be a secret lever, and a nearby bookshelf falls backward to reveal a hidden staircase and boat landing with the Master’s boat waiting.]
 
-[Master:] “Faster now! I’m trying to evacuate myself here! Careful, men. Never mind the books! Get on, get the rest of it!”
+[Master:] "Faster now! I’m trying to evacuate myself here! Careful, men. Never mind the books! Get on, get the rest of it!"
 
-[Guard #1:] “But Sire, should we not try to save the town?”
+[Guard #1:] "But Sire, should we not try to save the town?"
 
-[Master:] “The town is lost! Save the gold!”
+[Master:] "The town is lost! Save the gold!"
 
-[Guard #2:] “You heard him.”
+[Guard #2:] "You heard him."
 
 [The men load all the gold and other valuables onto the Master’s boat.]
 
@@ -47,39 +47,39 @@ The Hobbit
 
 [Tauriel enter’s Bard’s house and prepares the dwarves and Bard’s family to leave.]
 
-[Tauriel:] “We have no time. We must leave!”
+[Tauriel:] "We have no time. We must leave!"
 
-[Bofur:] “Get him up.”
+[Bofur:] "Get him up."
 
-[Fili:] “Come on, brother.”
+[Fili:] "Come on, brother."
 
-[Bofur:] “Come on, come on! Let’s go.”
+[Bofur:] "Come on, come on! Let’s go."
 
-[Kili:] “I’m fine - I can walk.”
+[Kili:] "I’m fine - I can walk."
 
-[Tauriel:] “As fast as you can.”
+[Tauriel:] "As fast as you can."
 
-[Bain:] “We’re not leaving. Not without our father.”
+[Bain:] "We’re not leaving. Not without our father."
 
-[Tauriel:] “If you stay here, your sisters will die. Is that what your father would want?”
+[Tauriel:] "If you stay here, your sisters will die. Is that what your father would want?"
 
 
 
 [Bard is in the prison, and all the men guarding him are gone. He clutches the cell bars and shouts.]
 
-[Bard:] “Open the door! Do you hear me!”
+[Bard:] "Open the door! Do you hear me!"
 
 [He stops as he sees Smaug flying high above the town, then frantically tries to break the lock. When it doesn’t break, he rushes to the other side of his jail cell, which is on an arch of a building overhanging a canal.]
 
 
 [Tauriel, the dwarves, and Bard’s family get on a boat at the back of the house.]
-[Fili:] “Give me your hand.”
+[Fili:] "Give me your hand."
 
-[Bofur:] “Come on, we gotta go!”
+[Bofur:] "Come on, we gotta go!"
 
-[Tauriel:] “Quickly now! Hurry!”
+[Tauriel:] "Quickly now! Hurry!"
 
-[Fili:] “Kili, come on!”
+[Fili:] "Kili, come on!"
 
 [They set off down the canal, poling the boat through the floating chunks of ice. Smaug swoops low overhead, and the townspeople scream.]
 
@@ -96,13 +96,13 @@ The Hobbit
 
 [The Master, his men, and Alfrid pole their boat loaded with treasure through the water, with Smaug setting things to fire around them.]
 
-[Master:] “Come on! Come on! Faster! FASTER!”
+[Master:] "Come on! Come on! Faster! FASTER!"
 
 
 
-[Master:] “If only we could take more of these poor people with us, but they are hardly-”
+[Master:] "If only we could take more of these poor people with us, but they are hardly-"
 
-[Alfrid:] “-worth it. I quite agree.”
+[Alfrid:] "-worth it. I quite agree."
 
 [A man tries to climb onto the boat, but Alfrid kicks him in the face and back into the water.]
 
@@ -110,22 +110,22 @@ The Hobbit
 
 [Bard tears his blanket into strips. People are trampling each other in their efforts to escape the dragon and the fire.]
 
-[Bain:] “Look out!”
+[Bain:] "Look out!"
 
 [The Master’s boat collides with Tauriel’s, upsetting everyone. They manage to push their boats apart, but some of the Master’s treasure falls into the water.]
 
-[Master:] “Move it! Move it! Come on, faster!”
-[Master:] “My gold, my GOLD!”
+[Master:] "Move it! Move it! Come on, faster!"
+[Master:] "My gold, my GOLD!"
 
-[Alfrid:] “We’re carrying too much weight. We need to dump something!”
+[Alfrid:] "We’re carrying too much weight. We need to dump something!"
 
 [While Alfrid looks at the pile of treasure, trying to decide what to throw overboard, the Master looks at him greedily.]
 
-[Master:] “You’re quite right, Alfrid.”
+[Master:] "You’re quite right, Alfrid."
 
 [The Master pushes Alfrid overboard, just as a cloth loops falls from above and catches around the Master’s throat. It is the rope Bard made from his blanket; he has tied one end to his cell bars and let the other end, the loop, out of the window and over the canal, where it has conveniently caught the Master. Braga, at the front of the boat, hasn’t seen this.]
 
-[Braga:] “Faster! Faster!”
+[Braga:] "Faster! Faster!"
 
 [As the boat pulls ahead, the rope loops pulls the Master back, but then he gets stuck in front of the boat’s rear post. As the rope tightens around him, he gags and chokes. Eventually, the pressure is so much that the entire side of Bard’s prison break, and Bard escapes. The Master frantically pulls the rope away from his throat.]
 
@@ -135,7 +135,7 @@ The Hobbit
 
 [Back at the Lonely Mountain, Thorin and Company watch the town burning in the lake.]
 
-[Balin:] “Poor souls.”
+[Balin:] "Poor souls."
 
 [They all stare at each other in sadness and fear. Bilbo looks back and sees that Thorin is staring back at the halls of Erebor, not at Laketown. Bilbo looks worried.]
 
@@ -151,100 +151,100 @@ The Hobbit
 
 
 
-[Bain:] “Da!”
+[Bain:] "Da!"
 
-[Tilda:] “DA!”
+[Tilda:] "DA!"
 
 [As they watch, Bard shoots yet another arrow, harmlessly hitting the dragon.]
 
-[Kili:] “He hit it! He hit the dragon!”
+[Kili:] "He hit it! He hit the dragon!"
 
-[Tauriel:] “No...”
+[Tauriel:] "No..."
 
-[Kili:] “He did! He hit his mark, I saw!”
+[Kili:] "He did! He hit his mark, I saw!"
 
-[Tauriel:] “His arrows cannot pierce its hide; I fear nothing will.”
+[Tauriel:] "His arrows cannot pierce its hide; I fear nothing will."
 
 [Bain looks down disconsolately, then suddenly looks up and notices the state of the Master of Laketown, and below it, the boat in which he’d hidden the Black Arrow his father had asked him to keep safe. Bain’s face turns to a determined look. As their boat passes under a hanging hook, Bain leaps up and grabs it, swinging clear of the boat. The other grab at him and miss, and they yell after him.]
 
-[Bofur:] “What are you doing?!”
+[Bofur:] "What are you doing?!"
 
-[Fili:] “Come back! Bain, come back!”
+[Fili:] "Come back! Bain, come back!"
 
 [Bain uses the hook and the crane it is attached to to swing to the dock, from where he runs toward the boat with the Black Arrow.]
 
-[Tauriel:] “Leave him! We cannot go back!”
+[Tauriel:] "Leave him! We cannot go back!"
 
-[Tilda:] “Bain!”
+[Tilda:] "Bain!"
 
 
 
 [At the top of the tower, Bard reaches for his arrows, only to find one left. He hesitates in fear, then grabs it and shoots Smaug. This time, Smaug passes so close to the tower that the wind knocks Bard over. Smaug howls, feeling the arrow, although it didn’t hurt him. Suddenly, Bain appears at the top of the bell tower, shocking Bard.]
 
-[Bain:] “Dad!”
+[Bain:] "Dad!"
 
-[Bard:] “Bain?! What are you doing?! Why didn’t you leave?! You were supposed to leave!”
+[Bard:] "Bain?! What are you doing?! Why didn’t you leave?! You were supposed to leave!"
 
-[Bain:] “I came to help you.”
+[Bain:] "I came to help you."
 
-[Bard:] “No! Nothing can stop him now!”
+[Bard:] "No! Nothing can stop him now!"
 
-[Bain:] “This might.”
+[Bain:] "This might."
 
 [Bain holds up the Black Arrow. His father gratefully looks at it, then stroke’s Bain’s face.]
 
-[Bard:] “Bain - you go back. You get out of here now!”
+[Bard:] "Bain - you go back. You get out of here now!"
 
 [Looking beyond Bard, Bain sees Smaug approaching the tower rapidly, Smaug having determined where the arrows were coming from.]
 
-[Bain:] “DAD!”
+[Bain:] "DAD!"
 
 [Smaug smashes through the top part of the bell tower. Bard finds himself lying down on the remaining top of the tower.]
 
-[Bard:] “BAIN!”
+[Bard:] "BAIN!"
 
 [Bain is hanging by one arm to the remains of the tower; he has the Black Arrow in the other. Bard grabs Bain’s arm and hauls him back up. Meanwhile, Smaug lands closeby in the town, crushing buildings underneath him. He is directly in the way of the Master’s boat.]
 
-[Master:] “Stop! Stop! Halt! Halt!”
+[Master:] "Stop! Stop! Halt! Halt!"
 
 [Bard pulls the Black Arrow out of the hands of the petrified Bain and stands up, facing Smaug. Smaug looks at him.]
-[Smaug:] “Who are you that would stand against me?!”
+[Smaug:] "Who are you that would stand against me?!"
 
 [Bard grabs his bow, only to find that it was broken in half when Smaug smashed into the tower earlier.]
 
-[Smaug:] “Now that is a pity. What will you do now, Bowman? You are forsaken. No help will come.”
+[Smaug:] "Now that is a pity. What will you do now, Bowman? You are forsaken. No help will come."
 
 
 
 [Bard looks around frantically, but there is nothing to help him. Smaug begins walking toward him, crushing the buildings beneath him. The Master sees his chance and yells to his oarsmen.]
 
-[Master:] “Now’s our chance! Go! Go! Into the open water!”
+[Master:] "Now’s our chance! Go! Go! Into the open water!"
 
 [Looking at the tower, Smaug growls and licks his lips. He continues speaking to Bard.]
 
-[Smaug:] “Is that your child? You cannot save him from the fire. He will BURN!”
+[Smaug:] "Is that your child? You cannot save him from the fire. He will BURN!"
 
 [As Smaug continues to approach, Bard fixes the two broken halves of his bow into the walls of the belltower, with the bowstring taut between them. He fixes the Black Arrow to the bowstring, and lays the front end of the Black Arrow on the shoulder of Bain, who is standing in between the fixed pieces of the bow and facing Bard. Bain pants in fear since he can hear Smaug approaching from behind him, but can’t see him.]
 
-[Bard:] “Stay still, son. Stay still.”
+[Bard:] "Stay still, son. Stay still."
 
-[Smaug:] “Tell me, wretch - How now shall you challenge me?!”
+[Smaug:] "Tell me, wretch - How now shall you challenge me?!"
 
 [Bard notices a missing scale on Smaug’s chest, the scale that was broken by Girion, Lord of Dale. A small smile crosses Bard’s face.]
 
-[Smaug:] “You have nothing left, but your DEATH!”
+[Smaug:] "You have nothing left, but your DEATH!"
 
 [Smaug howls, approaching more rapidly. Bain looks over his shoulder at the dragon, but Bard calls him back.]
 
-[Bard:] “Bain! Look at me. You look at me.”
+[Bard:] "Bain! Look at me. You look at me."
 
 [Bard strains with the effort of holding the Black Arrow taut.]
 
-[Bard:] “A little to your left.”
+[Bard:] "A little to your left."
 
 [Bain shifts a little to his left, moving the tip of the arrow to the right, toward the spot where Bard noticed the missing scale on Smaug.]
 
-[Bard:] “That’s it.”
+[Bard:] "That’s it."
 
 [Bard releases the Black Arrow and it flies off at high speed from Bain’s shoulder. It hurtles through the air and sinks all the way to the feathers, almost 6-7 feet, into Smaug’s chest through the spot without a scale. As Smaug leaps forward in pain and fear, Bard grabs Bain, just as Smaug careens into the tower. Bard and Bain fall with the tower into the water as Smaug rolls and slides through the town, destroying everything in the town. He struggles to fly into the sky. With massive effort, he manages to flap a few hundred feet up, screaming and wheezing in pain, then gasps for breath. His eyes lose their light, and he falls back down upon the city, dead, with the end of the arrow sticking out of his heart. He lands directly upon the Master’s boat, crushing it and presumably killing everyone on board.]
 
@@ -252,21 +252,21 @@ The Hobbit
 
 [The sound of Smaug hitting the ground echoes throughout the land, all the way to the dwarves on the mountain. They jump up in surprise.]
 
-[Oin:] “What was that? What happened?”
+[Oin:] "What was that? What happened?"
 
-[Bilbo:] “It fell. I saw it.”
+[Bilbo:] "It fell. I saw it."
 
 [They all peer out at the town in the early morning light.]
 
-[Bilbo:] “It’s dead. Smaug is dead!”
+[Bilbo:] "It’s dead. Smaug is dead!"
 
 [Thorin, still staring at the Lonely Mountain and not at the town, has a strange expression of happiness cross his face.]
 
-[Gloin:] “By my beard! I think he’s right! Look there! The ravens of Erebor are returning to the mountain!”
+[Gloin:] "By my beard! I think he’s right! Look there! The ravens of Erebor are returning to the mountain!"
 
 [Several birds can be seen cawing and approaching the Lonely Mountain.]
 
-[Oin:] “Aye - Word will spread. Before long every soul in Middle-earth will know - The dragon is dead!”
+[Oin:] "Aye - Word will spread. Before long every soul in Middle-earth will know - The dragon is dead!"
 
 [As the dwarves laugh in glee, Thorin hurries down from the lookout point and approaches the gates of Erebor.]
 
@@ -280,58 +280,58 @@ The Hobbit
 
 [Suddenly, Galadriel’s voice sounds in his head, and he looks up with a start.]
 
-[Galadriel:] “You are not alone, Mithrandir…”
+[Galadriel:] "You are not alone, Mithrandir…"
 
-[Galadriel:] “... (Ae boe) i le eliathon, im tulithon.” [not translated onscreen: If you should ever need my help, I will come.]”
+[Galadriel:] "... (Ae boe) i le eliathon, im tulithon." [not translated onscreen: If you should ever need my help, I will come.]"
 
 
 [It is early morning. On the banks of the lake are refugees and wreckage from Laketown. People are screaming and crying, and some of the wooden things are on fire. There are dead bodies washed up on the shore. Alfrid comes crawling up out of the water, screaming.]
 
-[Alfrid:] “Will somebody help me? HELP!”
+[Alfrid:] "Will somebody help me? HELP!"
 
 [He clambers over a dead body, only to realize that the person is still alive. Alfrid rolls over him into the water, screaming.]
 
-[Alfrid:] “HELP!”
+[Alfrid:] "HELP!"
 
 [Meanwhile, some of the survivors begin helping each other and salvaging whatever supplies they can. Tauriel, Sigrid, and Tilda walk about, looking for Bard.]
 
-[Sigrid:] “DA!”
+[Sigrid:] "DA!"
 
-[Tilda:] “DA!”
+[Tilda:] "DA!"
 
-[Sigrid:] “DA!”
+[Sigrid:] "DA!"
 
 [Alfrid screams up into the sky.]
 
-[Alfrid:] “WHY ME?”
+[Alfrid:] "WHY ME?"
 
 [There is still screaming and crying all about, as people pull the bodies of their loved ones out of the water and onto the shore. The dwarves, Oin, Bofur, and Fili, grab a boat and begin to push it out into the water. Kili approaches Tauriel.]
 
-[Kili:] “Tauriel.”
+[Kili:] "Tauriel."
 
-[Fili:] “Kili, come on! We’re leaving.”
+[Fili:] "Kili, come on! We’re leaving."
 
-[Tauriel:] “They are your people - You must go.”
+[Tauriel:] "They are your people - You must go."
 
 [Tauriel looks at Kili both sadly and guardedly, then walks past him. Kili looks distraught for a second, then whirls around to face her again.]
 
-[Kili:] “Come with me. I know how I feel; I’m not afraid. You make me feel alive.”
+[Kili:] "Come with me. I know how I feel; I’m not afraid. You make me feel alive."
 
 [Tauriel turns her head away.]
 
-[Tauriel:] “I can’t.”
+[Tauriel:] "I can’t."
 
 [Kili reaches out and grabs her arm, then says something in Dwarvish.]
 
-[Kili:] “Tauriel, amralime” (presumably, “Tauriel, my love”)
+[Kili:] "Tauriel, amralime" (presumably, "Tauriel, my love")
 
 [Hearing this, Tauriel looks at Kili, shocked and surprised.]
 
-[Tauriel:] “I don’t know what that means.”
+[Tauriel:] "I don’t know what that means."
 
 [Kili smiles.]
 
-[Kili:] “I think you do.”
+[Kili:] "I think you do."
 
 [Tauriel smiles and begins to lean toward Kili, but then suddenly straightens up and makes her face blank.]
 
@@ -339,18 +339,18 @@ The Hobbit
 
 [She addresses Legolas, whom she sensed approaching behind her.]
 
-[Tauriel:] “Hîr nín, Legolas.” [Subtitle: My Lord Legolas.]
+[Tauriel:] "Hîr nín, Legolas." [Subtitle: My Lord Legolas.]
 
 [Kili looks with hostility over Tauriel’s shoulder at Legolas.]
-[Legolas:] “Maewado i Naug.” [Subtitle: Take your leave of the Dwarf.]
+[Legolas:] "Maewado i Naug." [Subtitle: Take your leave of the Dwarf.]
 
-[Legolas:] “Boe i nadh egeno.” [Subtitle: You are needed elsewhere.]
+[Legolas:] "Boe i nadh egeno." [Subtitle: You are needed elsewhere.]
 
 [Tauriel looks at Kili for a few more seconds, then, torn by her duty, begins to turn away. Kili sadly turns toward his friends launching the boat. He suddenly pauses, then turns around and hurries back to Tauriel. He takes her hand and places his black stone into it, folding her fingers closed over it. She gasps and looks at him as he gets close to her face and holds her hands to his heart.]
 
 
 
-[Kili:] “Keep it. As a promise.”
+[Kili:] "Keep it. As a promise."
 
 [They smile at each other, then Kili runs toward the boat. Legolas looks on, confused. Tauriel looks down at the stone in her hand, then looks after Kili and the dwarves in the boat; her eyes are wet. Kili looks back at her for several moments, then begins rowing.]
 
@@ -358,111 +358,111 @@ The Hobbit
 
 [Meanwhile on shore, the woman from earlier who spoke about the prophecy hurries about, handing out blankets to the survivors.]
 
-[Woman:] “These are dry. You need them.”
+[Woman:] "These are dry. You need them."
 
-[Man:] “Thank you.”
+[Man:] "Thank you."
 
 [Alfrid pushes between people as he approaches the woman.]
 
-[Alfrid:] “Oi! Give me one of them! I’ll catch my death in this cold!”
+[Alfrid:] "Oi! Give me one of them! I’ll catch my death in this cold!"
 
-[Woman:] “Oh, find your own! You’re not in charge now, Alfrid Blackspell!”
+[Woman:] "Oh, find your own! You’re not in charge now, Alfrid Blackspell!"
 
-[Alfrid:] “That is where you are wrong - In absence of the Master, the power cedes to his deputy, which in this instance is my good self. Now give me that blanket!”
+[Alfrid:] "That is where you are wrong - In absence of the Master, the power cedes to his deputy, which in this instance is my good self. Now give me that blanket!"
 
 [He leans forward and grabs the blanket; she pulls back on the other end. They tug over it, yelling at each other.]
 
-[Woman:] “Master’s deputy? Don’t make me laugh.”
+[Woman:] "Master’s deputy? Don’t make me laugh."
 
 [She manages to pull the blanket away and begins hitting Alfrid with it.]
 
-[Woman:] “You’re a sneak-thief, more like. I’ll be dead, before I answer to the likes of you!”
+[Woman:] "You’re a sneak-thief, more like. I’ll be dead, before I answer to the likes of you!"
 
 [As she turns away, Alfrid grabs her.]
 
-[Alfrid:] “Maybe that can be arranged!”
+[Alfrid:] "Maybe that can be arranged!"
 
 [Alfrid raises his hand to strike her, only to have someone else grab his upraised arm. It turns out to be Bard, who leans close to Alfrid.]
 
-[Bard:] “I wouldn’t go turning on your own, Alfrid. Not now!”
+[Bard:] "I wouldn’t go turning on your own, Alfrid. Not now!"
 
 [Bard spins Alfrid around, and Alfrid trips and falls over Bain’s outstretched foot. Bain and the Woman smile. Sigrid and Tilda come running out of the crowd.]
 
-[Tilda:] “DA!”
+[Tilda:] "DA!"
 
-[Bard:] “Come here!”
+[Bard:] "Come here!"
 
 [Bard grabs up his daughters in a huge hug. He clutches them to himself as the townspeople look on.]
 
-[Bard:] “It’s alright.”
+[Bard:] "It’s alright."
 
 [A man, Percy (who used to check the papers of the boats entering town), steps out of the crowd and exclaims loudly.]
 
-[Percy:] “It was Bard! He killed the dragon! I saw it with my own eyes. He brought the beast down. He shot him dead, with a black arrow.”
+[Percy:] "It was Bard! He killed the dragon! I saw it with my own eyes. He brought the beast down. He shot him dead, with a black arrow."
 
 [The people begin cheering for Bard and laying their hands on him, exclaiming their thanks.]
 
-[Various Townspeople:] “You saved us all! Thank you.”
+[Various Townspeople:] "You saved us all! Thank you."
 
 [Alfrid suddenly appears and raises Bard’s arm, then cheers loudly for him.]
 
-[Alfrid:] “ALL HAIL - TO THE DRAGONSLAYER! ALL HAIL - KING BARD!”
+[Alfrid:] "ALL HAIL - TO THE DRAGONSLAYER! ALL HAIL - KING BARD!"
 
 [The people grow silent, and Bard yanks his hand away from Alfrid’s. Alfrid, still with his hand up in the air, speaks to the crowd.]
 
-[Alfrid:] “I have said it many times - This is a man of noble stock. A born leader!”
+[Alfrid:] "I have said it many times - This is a man of noble stock. A born leader!"
 
-[Bard:] “Do not call me that! I’m not the master of this town.”
+[Bard:] "Do not call me that! I’m not the master of this town."
 
 [Bard looks around.]
 
-[Bard:] “WHERE IS HE? WHERE’S THE MASTER?”
+[Bard:] "WHERE IS HE? WHERE’S THE MASTER?"
 
-[Woman:] “Halfway down the Anduin, with all our coin, I don’t doubt. You would know!”
+[Woman:] "Halfway down the Anduin, with all our coin, I don’t doubt. You would know!"
 
 [She points at Alfrid, who looks scared.]
 
-[Woman:] “You helped him empty the treasury.”
+[Woman:] "You helped him empty the treasury."
 
-[Alfrid:] “No - I tried to stop him.”
+[Alfrid:] "No - I tried to stop him."
 
 [Alfrid raises his voice and addresses all the people, scared and pleadingly. The people yell at him angrily, calling him a traitor and a mongrel. Alfrid hides behind Bard, keeping Bard between himself and the Woman.]
 
-[Alfrid:] “I pleaded. I pleaded. I said, ’Master - NO!’”
+[Alfrid:] "I pleaded. I pleaded. I said, ’Master - NO!’"
 
 [As the people continue to yell abuse at him, Alfrid looks terrified.]
 
-[Alfrid:] “Think of the children.”
+[Alfrid:] "Think of the children."
 
 [Alfrid grabs Tilda and holds her in front of him.]
 
-[Alfrid:] “Will nobody think of the children?!”
+[Alfrid:] "Will nobody think of the children?!"
 
 [Tilda angrily stomps on Alfrid’s foot, forcing him to let go of her. The people yell for Alfrid’s head.]
 
-[Man:] “To the tree with you!”
+[Man:] "To the tree with you!"
 
 [Several men grab Alfrid and raise him up, preparing to hang him with a rope. He screams with fear. Bard steps in and stops the people.]
 
-[Bard:] “Enough! Let him go! Let him go!”
+[Bard:] "Enough! Let him go! Let him go!"
 
 [The people quiet down and let Alfrid fall to the ground. Bard turns about, addressing them all.]
 
-[Bard:] “Look around you! Have you not had your fill of death?”
+[Bard:] "Look around you! Have you not had your fill of death?"
 
 [Alfrid pops up.]
 
-[Alfrid:] “Aye.”
+[Alfrid:] "Aye."
 
 [Bard pushes him back down.]
 
-[Bard:] “Winter is upon us; we must look to our own, to the sick and the helpless. Those who can stand, tend to the wounded. And those who have strength left - follow me. We must salvage what we can.”
+[Bard:] "Winter is upon us; we must look to our own, to the sick and the helpless. Those who can stand, tend to the wounded. And those who have strength left - follow me. We must salvage what we can."
 
 [Bard turns and begins to stride through the crowd.]
 
-[Woman:] “What then? What do we do then?”
+[Woman:] "What then? What do we do then?"
 
-[Bard:] “We find shelter.”
+[Bard:] "We find shelter."
 
 [The townspeople begin to follow him as he walks away.]
 
@@ -470,79 +470,79 @@ The Hobbit
 
 [Fili, Kili, Bofur, and Oin climb up the Lonely Mountain. As they approach the gates, they stop in shock and fear as they see the destruction caused by Smaug as he smashed through the front gate to fly out of the mountain. They look at each other, then run into the halls of Erebor. Bofur calls out, his voice echoing in the silence.]
 
-[Bofur:] “Hello! Bombur? Bifur? Anybody?”
+[Bofur:] "Hello! Bombur? Bifur? Anybody?"
 
 [They clamber through the halls, looking for their kin. As they run down a staircase, Bilbo runs up toward them from another part of the city, calling out.]
 
-[Bilbo:] “WAIT! WAIT!”
+[Bilbo:] "WAIT! WAIT!"
 
-[Oin:] “It’s Bilbo! He’s alive!”
+[Oin:] "It’s Bilbo! He’s alive!"
 
-[Bilbo:] “Stop! Stop! Stop!”
+[Bilbo:] "Stop! Stop! Stop!"
 
 [They meet each other in a corridor.]
 
-[Bilbo:] “You need to leave. We all need to leave.”
+[Bilbo:] "You need to leave. We all need to leave."
 
-[Bofur:] “We only just got here?!”
+[Bofur:] "We only just got here?!"
 
-[Bilbo:] “I have tried talking to him, but he won’t listen.”
+[Bilbo:] "I have tried talking to him, but he won’t listen."
 
-[Oin:] “What do you mean, laddie?”
+[Oin:] "What do you mean, laddie?"
 
-[Bilbo:] “[Thorin:]. Thorin. Thorin. He’s been out there for days. He doesn’t sleep. He barely eats. He’s not been himself - not at all. It’s this - It’s this place. I think a sickness lies on it.”
+[Bilbo:] "[Thorin:]. Thorin. Thorin. He’s been out there for days. He doesn’t sleep. He barely eats. He’s not been himself - not at all. It’s this - It’s this place. I think a sickness lies on it."
 
 [As Bilbo speaks, Fili looks past him and sees something that causes him to wrinkle his face in consternation.]
 
-[Kili:] “Sickness? What kind of sickness?”
+[Kili:] "Sickness? What kind of sickness?"
 
 [Fili walks past the group and starts heading further down into Erebor, looking at something. Bilbo and the others run after him, trying to stop him.
 
-[Bilbo:] “Fili. Fili. Fili!”
+[Bilbo:] "Fili. Fili. Fili!"
 
 [As they continue heading down, a golden light begins to be visible on the walls. They round a corner, and stop short at the sight of Smaug’s treasure, heaped so high over the floor of the cavern that the ground is barely visible. As they stare, they see Thorin, dressed in ornate robes and covered in jewelry, stride slowly out of a doorway. Thorin begins speaking softly, apparently to himself. He looks strange, almost possessed, and the dwarves look at him in surprise.]
 
-[Thorin:] “Gold - Gold beyond measure. Beyond sorrow and grief.”
+[Thorin:] "Gold - Gold beyond measure. Beyond sorrow and grief."
 
 [Thorin looks up and sees the others standing there.]
 
 
 
-[Thorin:] “Behold - the great treasure hoard of Thror.”
+[Thorin:] "Behold - the great treasure hoard of Thror."
 
 [He suddenly flings something high into the air to where the dwarves are standing on a stairwell landing, and Fili catches it. It is a giant bloodred jewel.]
 
-[Thorin:] “Welcome, my sister’s sons, to the kingdom of EREBOR.”
+[Thorin:] "Welcome, my sister’s sons, to the kingdom of EREBOR."
 
 
 
 [The newly-come dwarves enter the room where the other dwarves are, and they greet each other warmly with massive hugs.]
 
-[Bofur:] “Balin!”
+[Bofur:] "Balin!"
 
-[Nori:] “Kili!”
+[Nori:] "Kili!"
 
-[Bofur:] “Bombur!”
+[Bofur:] "Bombur!"
 
 
 
 [All the dwarves comb through the piles of treasure, searching for the Arkenstone.]
 
-[Thorin:] “Any sign of it?!”
+[Thorin:] "Any sign of it?!"
 
-[Dwalin:] “Nothing yet.”
+[Dwalin:] "Nothing yet."
 
-[Nori:] “Nothing here.”
+[Nori:] "Nothing here."
 
-[Thorin:] “Keep searching!”
+[Thorin:] "Keep searching!"
 
-[Oin:] “That jewel could be anywhere!”
+[Oin:] "That jewel could be anywhere!"
 
-[Thorin:] “The Arkenstone is in these halls - find it!”
+[Thorin:] "The Arkenstone is in these halls - find it!"
 
-[Dwalin:] “You heard him - Keep looking!”
+[Dwalin:] "You heard him - Keep looking!"
 
-[Thorin:] “All of you - No one rests until it is found!”
+[Thorin:] "All of you - No one rests until it is found!"
 [Bilbo, hearing all this, looks awkward.]
 
 
@@ -550,7 +550,7 @@ The Hobbit
 
 FLASHBACK - START
 
-[Smaug:] “I am almost tempted to let you take it, if only to see Oakenshield suffer, watch it destroy him, watch it corrupt his heart and drive him mad.”
+[Smaug:] "I am almost tempted to let you take it, if only to see Oakenshield suffer, watch it destroy him, watch it corrupt his heart and drive him mad."
 
 [Samgu growls and extends his neck to eat Bilbo, but Bilbo puts on his ring and slips away. Unseen by Smaug, Bilbo grabs the Arkenstone and hides it in his tunic. Smaug angrily begins breathing fire.]
 
@@ -562,33 +562,33 @@ FLASHBACK - END
 
 [At the Laketown camp, the people are packing supplies and getting ready to leave.]
 
-[Bard:] “Take only what you need. We have a long march ahead.”
+[Bard:] "Take only what you need. We have a long march ahead."
 
-[Legolas:] “Where will you go?”
+[Legolas:] "Where will you go?"
 
 [Bard looks across the lake.]
 
-[Bard:] “Where is only one place.”
+[Bard:] "Where is only one place."
 
-[Alfrid:] “The mountain! You are a genius, sire. We can take refuge inside the mountain. It might smell a bit of dragon - The women can clean up. It will be safe and warm and dry, and full of stores, bedding, clothing...the odd bit of gold.”
+[Alfrid:] "The mountain! You are a genius, sire. We can take refuge inside the mountain. It might smell a bit of dragon - The women can clean up. It will be safe and warm and dry, and full of stores, bedding, clothing...the odd bit of gold."
 
-[Bard:] “What gold is in that mountain is cursed. We will take only what was promised to us - only what we need to rebuild our lives.”
+[Bard:] "What gold is in that mountain is cursed. We will take only what was promised to us - only what we need to rebuild our lives."
 
 [Bard dumps a bundle of sticks he was packing into Alfrid’s hands and walks off. Alfrid then dumps the sticks into the hands of an old woman who already has a load of sticks.]
 
-[Alfrid:] “Here - pull your weight!“
+[Alfrid:] "Here - pull your weight!"
 
-[Legolas:] “News of the death of Smaug will have spread through the lands.”
+[Legolas:] "News of the death of Smaug will have spread through the lands."
 
-[Bard:] “Aye.”
+[Bard:] "Aye."
 
 
 
-[Legolas:] “Other will now look to the mountain - for its wealth, or its position.”
+[Legolas:] "Other will now look to the mountain - for its wealth, or its position."
 
-[Bard:] “What is it you know?”
+[Bard:] "What is it you know?"
 
-[Legolas:] “Nothing for certain. It’s what I fear may come.”
+[Legolas:] "Nothing for certain. It’s what I fear may come."
 
 [Legolas, looking concerned, looks off into the distance.]
 
@@ -596,72 +596,72 @@ FLASHBACK - END
 
 [Azog is riding his white warg at the head of a vast company of Orcs, all armed for battle. They are crossing a rocky plain, with the Lonely Mountain in the distance as their destination. Bolg, riding his Warg, charges in from Laketown to deliver his message to Azog.]
 
-[Bolg:] “_ _ _” [Subtitle: Woodland Elves!]
+[Bolg:] "_ _ _" [Subtitle: Woodland Elves!]
 
-[Bolg:] “_ _ _” [Subtitle: The King’s son and a She-elf - They tracked us down to Laketown.]
+[Bolg:] "_ _ _" [Subtitle: The King’s son and a She-elf - They tracked us down to Laketown.]
 
 [Azog raises his arm, the hand of which Thorin cut off but is now replaced with a large blade, and the legions of Orcs stop.]
 
-[Azog:] “_ _ _” [Subtitle: And you killed them?]
+[Azog:] "_ _ _" [Subtitle: And you killed them?]
 
-[Bolg:] “_ _ _” [Subtitle: They fled squealing like cowards]
+[Bolg:] "_ _ _" [Subtitle: They fled squealing like cowards]
 
-[Azog:] “_ _ _” [Subtitle: You fool! They will return with an Army of Elves at their backs!]
+[Azog:] "_ _ _" [Subtitle: You fool! They will return with an Army of Elves at their backs!]
 
-[Azog:] “_ _ _” [Subtitle: Ride to Gundabad.]
+[Azog:] "_ _ _" [Subtitle: Ride to Gundabad.]
 
-[Azog:] “_ _ _” [Subtitle: Let the Legions come forth.]
+[Azog:] "_ _ _" [Subtitle: Let the Legions come forth.]
 
 [Bolg grunts in assent and rides off. Azog turns and faces his Orcs, raising his bladed arm.]
 
-[Azog:] “_ _ _” [Subtitle: Elves! Men! Dwarves! The Mountain will be their tomb!]
+[Azog:] "_ _ _" [Subtitle: Elves! Men! Dwarves! The Mountain will be their tomb!]
 
 [He turns and begins riding toward the Mountain.]
 
-[Azog:] “_ _ _” [Subtitle: To war!]
+[Azog:] "_ _ _" [Subtitle: To war!]
 
 
 
 [Tauriel and Legolas stride through the Laketown camp.]
 
-[Tauriel:] “You saw something out there.”
+[Tauriel:] "You saw something out there."
 
-[Legolas:] “The orc I pursued out of Laketown - I know who he is. Bolg - a spawn of Azog the Defiler. A warg pack was waiting for him on the outskirts of Esgaroth. They fled into the north. These orcs were different from the others. They wore a mark I had not seen for a long time. The mark of Gundabad.”
+[Legolas:] "The orc I pursued out of Laketown - I know who he is. Bolg - a spawn of Azog the Defiler. A warg pack was waiting for him on the outskirts of Esgaroth. They fled into the north. These orcs were different from the others. They wore a mark I had not seen for a long time. The mark of Gundabad."
 
 [Tauriel stops in shock and turns to Legolas.]
 
-[Tauriel:] “Gundabad?”
+[Tauriel:] "Gundabad?"
 
-[Legolas:] “An orc-stronghold in the far north of the Misty Mountains.”
+[Legolas:] "An orc-stronghold in the far north of the Misty Mountains."
 
 [An elf from Mirkwood rides up on a horse and addresses Legolas.]
 
-[Elf:] “Hîr nín, Legolas. Celin ’winiath o adar lín.” [Subtitle: My Lord Legolas, I bring word from your Father.]
+[Elf:] "Hîr nín, Legolas. Celin ’winiath o adar lín." [Subtitle: My Lord Legolas, I bring word from your Father.]
 
-[Elf:] “Cân i hi danwenidh na le.” [Subtitle: You are to return to him immediately.]
-[Legolas:] “Tolo, Tauriel.” [Subtitle: Come, Tauriel.]
+[Elf:] "Cân i hi danwenidh na le." [Subtitle: You are to return to him immediately.]
+[Legolas:] "Tolo, Tauriel." [Subtitle: Come, Tauriel.]
 
-[Elf:] “Hîr nín. Edlennen Tauriel.” [Subtitle: My Lord, Tauriel is banished.]
+[Elf:] "Hîr nín. Edlennen Tauriel." [Subtitle: My Lord, Tauriel is banished.]
 
-[Legolas:] “Edlennen?” [Subtitle: Banished?]
+[Legolas:] "Edlennen?" [Subtitle: Banished?]
 
 [Both Legolas and Tauriel are surprised.]
 
-[Legolas:] “You may tell my father: If there is no place for Tauriel, there is no place for me”
+[Legolas:] "You may tell my father: If there is no place for Tauriel, there is no place for me"
 
 
 
-[Tauriel:] “Legolas. It is your King’s command”
+[Tauriel:] "Legolas. It is your King’s command"
 
-[Legolas:] “Naw aran nín, mal ú-gân innas nín.” [Subtitle: Yes, he is my King. But he does not command my heart.]
+[Legolas:] "Naw aran nín, mal ú-gân innas nín." [Subtitle: Yes, he is my King. But he does not command my heart.]
 
 [Legolas turns and walks away from the elven messenger.]
 
-[Legolas:] “I ride north. Will you come with me?”
+[Legolas:] "I ride north. Will you come with me?"
 
-[Tauriel:] “To where?”
+[Tauriel:] "To where?"
 
-[Legolas:] “To Gundabad.”
+[Legolas:] "To Gundabad."
 
 [Tauriel and Legolas ride out of the Laketown camp on Legolas’s horse. The townspeople, carrying their possessions and stretchers with their sick and injured, begin the long trek around the lake and toward the Mountain.]
 
@@ -669,14 +669,14 @@ FLASHBACK - END
 
 [In Dol Guldur, Gandalf begins chanting something while hanging in the cage. Meanwhile, Radagast is chanting in his home.]
 
-[Gandalf:] “_ _ _”
+[Gandalf:] "_ _ _"
 
-[Radagast:] “_ _ _”
+[Radagast:] "_ _ _"
 
-[Gandalf:] “_ _ _”
+[Gandalf:] "_ _ _"
 
 [An Orc approaches Gandalf, his sword bared.]
-[Orc:] “_ _ _” [Subtitle: Spells will not save you, old man.]
+[Orc:] "_ _ _" [Subtitle: Spells will not save you, old man.]
 
 [Meanwhile, Galadriel walks through the ruins of Dol Guldur, barefoot, her ring shining with a white light in the darkness.]
 [The orc throws Gandalf, still in his cage, around, while Gandalf cries out in pain.]
@@ -685,11 +685,11 @@ FLASHBACK - END
 
 [The Orc pulls open the cage and lifts Gandalf up with one arm.]
 
-[Orc:] “_ _ _” [Subtitle: This is my Master’s domain.]
+[Orc:] "_ _ _" [Subtitle: This is my Master’s domain.]
 
 [He throws Gandalf forcefully down onto the floor.]
 
-[Orc:] “_ _ _” [Subtitle: Die now Wizard!]
+[Orc:] "_ _ _" [Subtitle: Die now Wizard!]
 
 [Galadriel appears, and the Orc sees her.]
 
@@ -701,107 +701,107 @@ FLASHBACK - END
 
 [Sauron’s voice speaks out of the darkness, and Galadriel stops.]
 
-[Sauron:] “Shre nazg golugranu kilmi-nudu” [Subtitle: Three Rings for the Elven-kings under the sky.]
+[Sauron:] "Shre nazg golugranu kilmi-nudu" [Subtitle: Three Rings for the Elven-kings under the sky.]
 
-[Sauron:] “Ombi kuzddurbagu gundum-ishi” [Subtitle: Seven for the Dwarf-lords in their halls of stone.]
+[Sauron:] "Ombi kuzddurbagu gundum-ishi" [Subtitle: Seven for the Dwarf-lords in their halls of stone.]
 
-[Galadriel:] “Nine for mortal men doomed to die.”
+[Galadriel:] "Nine for mortal men doomed to die."
 
 [Galadriel looks around in shock as the nine Nazgul slowly become visible around her, in corporeal yet partially translucent forms. As they slowly draw closer, wielding their weapons, Galadriel stumbles back until she is sitting on the pedestal of a statue in a courtyard, with Gandalf in her lap. Still unconscious, Gandalf groans.]
 
-[Sauron:] “_ _ _” [Subtitle: You cannot fight the shadow. Even now you fade. One light alone in the darkness.]
+[Sauron:] "_ _ _" [Subtitle: You cannot fight the shadow. Even now you fade. One light alone in the darkness.]
 
 [Gandalf looks up with a determined face.]
 
 
 
-[Galadriel:] “I am not alone.”
+[Galadriel:] "I am not alone."
 
 [Behind the Nazgul, Elrond and Saruman stride out of the ruins, Elrond wielding his sword and Saruman his staff.]
 
 
 
-[Saruman:] “Are you in need of assistance, my Lady?”
+[Saruman:] "Are you in need of assistance, my Lady?"
 
 [Snarling, the Nazgul leap forward to confront them.]
 
-[Elrond:] “You should have stayed dead.”
+[Elrond:] "You should have stayed dead."
 
 [Elrond and Saruman leap forward, attacking the Nazgul. The Nazgul disappear every time they are hit, yet they keep coming back. Saruman throws a Nazgul off a cliff, but it manages to clamber back up the cliff and resumes attacking. Despite this, Saruman and Elrond are still fighting incredibly well.]
 
 [Galadriel talks to Gandalf.]
 
-[Galadriel:] “Mithrandir, come back.”
+[Galadriel:] "Mithrandir, come back."
 
 
 
 [As Saruman and Elrond fight in the background, Galadriel leans down and kisses Gandalf’s head. He suddenly breathes in deeply and wakes up, gasping for breath.]
 
-[Gandalf:] “He is here.”
+[Gandalf:] "He is here."
 
-[Galadriel:] “Yes - the darkness has returned.”
+[Galadriel:] "Yes - the darkness has returned."
 
 [As the others continue fighting, Radagast appears in the courtyard on his rabbit-pulled sled.]
 
 
 
-[Radagast:] “GANDALF! Gandalf, climb on!”
+[Radagast:] "GANDALF! Gandalf, climb on!"
 
 [As Gandalf tries to get on the sled, Galadriel lays on the floor, weakened from bringing Gandalf back from the brink of death. She tries to help him up, but she is too weak.]
 
-[Galadriel:] “He is weak. He cannot remain here - It is draining his life.”
+[Galadriel:] "He is weak. He cannot remain here - It is draining his life."
 
 [Gandalf manages to get on the sled, and Radagast prepares to leave.]
 
-[Galadriel:] “Go! Quickly!”
+[Galadriel:] "Go! Quickly!"
 
 [Gandalf reaches back and grabs Galadriel’s arm. He speaks to her, his voice still hoarse and weak.]
 
-[Gandalf:] “Come with me, my Lady.”
+[Gandalf:] "Come with me, my Lady."
 
 [Galadriel looks at him sadly, then pulls her arm away with an effort. Her skin becomes white and her eyes and body shine with a strange, powerful, and dark light. She turns to face the Nazgul.]
 
-[Galadriel:] “NO!”
+[Galadriel:] "NO!"
 
 [As Radagast and Gandalf ride off, Galadriel lays on the floor, surrounded by fighting Nazgul and Elrond and Saruman. Eventually, Elrond and Saruman manage to kill all the Nazgul, and they pause for breath. As they approach Galadriel to see if she’s alright, the wind picks up, then a nearby tower explodes in a massive ball of fire. In its place is the flaming eye of Sauron. Saruman and Elrond flinch in the face of its power.]
 
-[Sauron:] “_ _ _” [Subtitle: It has begun.]
+[Sauron:] "_ _ _" [Subtitle: It has begun.]
 
-[Sauron:] “_ _ _” [Subtitle: The East will fall. So shall the Kingdom of Angmar rise.]
+[Sauron:] "_ _ _" [Subtitle: The East will fall. So shall the Kingdom of Angmar rise.]
 
 [The pupil of the Eye expands to reveal Saruon’s old form. Beside him rise the Nazgul, all of whom he has resurrected.]
 
-[Sauron:] “_ _ _” [Subtitle: The time of the Elves is over. The Age of the Orc has come.]
+[Sauron:] "_ _ _" [Subtitle: The time of the Elves is over. The Age of the Orc has come.]
 
 [As the Nazgul raise their weapons and approach, Elrond and Saruman prepare to fight, only to step back as Galadriel rises. Galadriel is glowing with a green light, and her entire appearance has changed to one of power. She raises her hand, in which is a bright light coming from the Phial of Galadriel, and the Nazgul are blasted away, back into the Eye.]
 
-[Galadriel:] “YOU HAVE NO POWER HERE, SERVANT OF MORGOTH!”
+[Galadriel:] "YOU HAVE NO POWER HERE, SERVANT OF MORGOTH!"
 
 [The fire around the Eye disappears, leaving only Sauron’s armored form. Sauron is chanting as well. He begins flashing in the fire of his Eye.]
 
-[Galadriel:] “YOU ARE NAMELESS, FACELESS, FORMLESS!”
+[Galadriel:] "YOU ARE NAMELESS, FACELESS, FORMLESS!"
 
 [As she speaks, her voice changes into a deep, booming, and powerful tone. The Eye keeps flashing with fire and chanting in Black Speech, while Elrond and Saruman raise their hands to shield themselves from the battle of power between Galadriel and Sauron.]
 
-[Galadriel:] “GO BACK TO THE VOID FROM WHENCE YOU CAME!”
+[Galadriel:] "GO BACK TO THE VOID FROM WHENCE YOU CAME!"
 
 [The force of her power extinguishes the Eye’s flames and sends Sauron hurtling into the sky. Galadriel’s powerful form disappears, and she staggers; Elrond catches her as she collapses. Sauron can be seen hurtling toward the horizon, presumably to land in Mordor. Gandalf and Radagast stop and look; Gandalf, holding his sword, is looking better.]
 
-[Elrond:] “Dandollen hon.” [Subtitle: We were deceived.]
+[Elrond:] "Dandollen hon." [Subtitle: We were deceived.]
 
-[Galadriel:] “The spirit of Sauron endured.”
+[Galadriel:] "The spirit of Sauron endured."
 
-[Saruman:] “And has been banished.”
+[Saruman:] "And has been banished."
 
-[Galadriel:] “He will flee into the east.”
+[Galadriel:] "He will flee into the east."
 
-[Elrond:] “Gondor should be warned. The must set a watch on the walls of Mordor.”
+[Elrond:] "Gondor should be warned. The must set a watch on the walls of Mordor."
 
-[Saruman:] “No. Look after the Lady Galadriel. She has spent much of her power. Her strength is failing. Take her to Lothlórien.”
+[Saruman:] "No. Look after the Lady Galadriel. She has spent much of her power. Her strength is failing. Take her to Lothlórien."
 
-[Elrond:] “My Lord Saruman, he must be hunted down and destroyed, once and for all.”
+[Elrond:] "My Lord Saruman, he must be hunted down and destroyed, once and for all."
 
-[Saruman:] “Without the Ring of Power, Sauron can never again hold dominion over Middle-earth. Go now! Leave Sauron to me.”
+[Saruman:] "Without the Ring of Power, Sauron can never again hold dominion over Middle-earth. Go now! Leave Sauron to me."
 
 [Saurman turns to face the direction in which Sauron was hurled, with a strange expression in his eyes.]
 
@@ -809,41 +809,41 @@ FLASHBACK - END
 
 [Gandalf and Radagast arrive at Rhosgobel.
 
-[Gandalf:] “I need a horse!”
+[Gandalf:] "I need a horse!"
 
-[Radagast:] “What? Gandalf, where are you going?”
+[Radagast:] "What? Gandalf, where are you going?"
 
-[Gandalf:] “To warn Erebor. They have no idea what is coming. I saw them with my own eyes - rank upon rank of Moria-orcs. You must summon our friends, bird and beast - the battle for the mountain is about to begin.”
+[Gandalf:] "To warn Erebor. They have no idea what is coming. I saw them with my own eyes - rank upon rank of Moria-orcs. You must summon our friends, bird and beast - the battle for the mountain is about to begin."
 
 
 
 [In Erebor, Thorin gazes upon the throne, over which the Arkenstone had been inlaid before it was lost. He speaks to Balin, Dwalin, and Bilbo, who are behind him.]
 
-[Thorin:] “It is here in these halls - I know it.”
+[Thorin:] "It is here in these halls - I know it."
 
-[Dwalin:] “We have searched and searched…”
+[Dwalin:] "We have searched and searched…"
 
-[Thorin:] “Not well enough!”
+[Thorin:] "Not well enough!"
 
-[Dwalin:] “Thorin, we all would see the stone returned.”
+[Dwalin:] "Thorin, we all would see the stone returned."
 
-[Thorin:] “And yet, it is still not FOUND!”
+[Thorin:] "And yet, it is still not FOUND!"
 
-[Balin:] “Do you doubt the loyalty of anyone here?”
+[Balin:] "Do you doubt the loyalty of anyone here?"
 
 [Thorin turns and slowly walks toward Balin and Dwalin.]
 
-[Balin:] “The Arkenstone is the birthright of our people.”
+[Balin:] "The Arkenstone is the birthright of our people."
 
-[Thorin:] “It is the King’s Jewel.”
+[Thorin:] "It is the King’s Jewel."
 
 [He begins shouting.]
 
-[Thorin:] “AM I NOT THE KING?!”
+[Thorin:] "AM I NOT THE KING?!"
 
 [As Thorin turns away, Balin, Dwalin, and Bilbo look uneasy.]
 
-[Thorin:] “Know this - If anyone should find it and withhold it from me, I will be avenged.”
+[Thorin:] "Know this - If anyone should find it and withhold it from me, I will be avenged."
 
 [As Thorin walks away, Bilbo looks very disgruntled.]
 
@@ -851,85 +851,85 @@ FLASHBACK - END
 
 [Balin is in a quiet corner somewhere, breathing deeply as if he had just been weeping. Bilbo finds him.]
 
-[Balin:] “Dragon-sickness - I’ve seen it before. That look. That terrible need. It is a fierce and jealous love, Bilbo. It sent his grandfather mad.”
+[Balin:] "Dragon-sickness - I’ve seen it before. That look. That terrible need. It is a fierce and jealous love, Bilbo. It sent his grandfather mad."
 
-[Bilbo:] “Balin, if-if Thorin...had the Arkenstone...”
+[Bilbo:] "Balin, if-if Thorin...had the Arkenstone..."
 
 [Bilbo slightly cocks his head, and Balin looks surprised, understanding Bilbo’s implication.]
 
-[Bilbo:] “...if it was found - Would it help?”
+[Bilbo:] "...if it was found - Would it help?"
 
-[Balin:] “That stone crowns all. It is the summit of this great wealth, bestowing power upon he who bears it. Will it stay his madness? No, lad; I fear it would make it worse. Perhaps it is best that it remains lost.”
+[Balin:] "That stone crowns all. It is the summit of this great wealth, bestowing power upon he who bears it. Will it stay his madness? No, lad; I fear it would make it worse. Perhaps it is best that it remains lost."
 [Balin raises his eyebrows at Bilbo.]
 
 
 
 [Bilbo is sitting on a bench in a hall. He reaches into his coat pocket and pulls something out. Thorin, walking in an adjoining hallway, sees the action.]
 
-[Thorin:] “What is that?!”
+[Thorin:] "What is that?!"
 
 [Thorin strides rapidly toward Bilbo, and Bilbo rises.]
 
-[Thorin:] “In your hand!”
+[Thorin:] "In your hand!"
 
-[Bilbo:] “It-It’s nothing.”
+[Bilbo:] "It-It’s nothing."
 
-[Thorin:] “Show me.”
+[Thorin:] "Show me."
 
-[Bilbo:] “It…”
+[Bilbo:] "It…"
 
 [Bilbo holds out his hand, and in it is an acorn.]
 
-[Bilbo:] “I picked it up in Beorn’s garden.”
+[Bilbo:] "I picked it up in Beorn’s garden."
 
-[Thorin:] “You’ve carried it all this way.”
+[Thorin:] "You’ve carried it all this way."
 
-[Bilbo:] “I’m gonna plant it in my garden, in Bag End.”
+[Bilbo:] "I’m gonna plant it in my garden, in Bag End."
 
 [His anger fading, Thorin smiles fondly at Bilbo.]
 
-[Thorin:] “That’s a poor price to take back to the Shire.”
+[Thorin:] "That’s a poor price to take back to the Shire."
 
-[Bilbo:] “One day it’ill grow. And everytime I look at it, I’ll remember - Remember everything that happened, the good, the bad. And how lucky I am that I made it home.”
+[Bilbo:] "One day it’ill grow. And everytime I look at it, I’ll remember - Remember everything that happened, the good, the bad. And how lucky I am that I made it home."
 
 [They smile at each other. Bilbo prepares to speak.]
 
-[Bilbo:] “Thorin, I...”
+[Bilbo:] "Thorin, I..."
 
 [Suddenly, Dwalin comes up and interrupts.]
 
-[Dwalin:] “Thorin, survivors...from Laketown. They are streaming into Dale. There’s hundreds of them.”
+[Dwalin:] "Thorin, survivors...from Laketown. They are streaming into Dale. There’s hundreds of them."
 
 [Thorin’s smile fades into a stern, uncompromising face.]
 
-[Thorin:] “Call everyone to the gate.”
+[Thorin:] "Call everyone to the gate."
 
 [Thorin strides off, shouting.]
 
-[Thorin:] “TO THE GATE! NOW!”
+[Thorin:] "TO THE GATE! NOW!"
 
 
 
 [The Laketowners walk into the ruins of Dale. They stare around at the ruins, including many charred and burned bodies.
 
-[Bard:] “Come on, keep moving.”
+[Bard:] "Come on, keep moving."
 
-[Alfrid:] “SIRE! Sire! Up here”
+[Alfrid:] "SIRE! Sire! Up here"
 [Bard looks up to see Alfrid on one of the city walls. Bard joins him.]
 
-[Alfrid:] “Look sire, the braziers are lit.”
+[Alfrid:] "Look sire, the braziers are lit."
 
 [They see giant braziers full of fire at the gates of Erebor.]
 
-[Bard:] “So, the company of Thorin Oakenshield survived.”
+[Bard:] "So, the company of Thorin Oakenshield survived."
 
-[Alfrid:] “Survived? You mean there’s a bunch of dwarves in there with all that gold?”
+[Alfrid:] "Survived? You mean there’s a bunch of dwarves in there with all that gold?"
 
-[Bard:] “You shouldn’t worry, Alfrid. There’s gold enough in that mountain for all.”
+[Bard:] "You shouldn’t worry, Alfrid. There’s gold enough in that mountain for all."
 
 [Bard walks away and calls to the people.]
 
-[Bard:] “Make camp here tonight. Find what shelter you can. Get some fires going. Alfrid, you take the night watch.”
+[Bard:] "Make camp here tonight. Find what shelter you can. Get some fires going. Alfrid, you take the night watch."
 
 
 
@@ -938,15 +938,15 @@ FLASHBACK - END
 
 
 [Within the walls of Erebor, the dwarves work to block up the entrance that Smaug broke through. They carry rocks both by hand and with the help of various pulleys and other machines.]
-[Thorin:] “I want this fortress made safe by sunup. This mountain was hard won - I will not see it taken again.”
+[Thorin:] "I want this fortress made safe by sunup. This mountain was hard won - I will not see it taken again."
 
-[Kili:] “The people of Laketown have nothing. They came to us in need. They have lost everything.”
+[Kili:] "The people of Laketown have nothing. They came to us in need. They have lost everything."
 
-[Thorin:] “Do not tell me what they have lost. I know well enough their hardship. Those who have lived through dragonfire should rejoice. They have much to be grateful for.”
+[Thorin:] "Do not tell me what they have lost. I know well enough their hardship. Those who have lived through dragonfire should rejoice. They have much to be grateful for."
 
 [Thorin looks out at the city of Dale, where many fires can be seen lit by the people. He then turns and shouts to his dwarves.]
 
-[Thorin:] “More stone! BRING MORE STONE TO THE GATE!”
+[Thorin:] "More stone! BRING MORE STONE TO THE GATE!"
 
 [Bilbo looks on in despair.]
 
@@ -958,26 +958,26 @@ FLASHBACK - END
 
 [It is night in Dale, and the people sit around, as the healthy tend to the wounded. Infants can be heard crying.]
 
-[Man:] “These children are starving! We need food!”
+[Man:] "These children are starving! We need food!"
 
-[Man:] “We won’t last three days!”
+[Man:] "We won’t last three days!"
 
-[Percy:] “Bard, we don’t have enough.”
-[Bard:] “Do want you can, Percy”
+[Percy:] "Bard, we don’t have enough."
+[Bard:] "Do want you can, Percy"
 
-[Woman:] “We need more water.”
+[Woman:] "We need more water."
 
-[Bard:] “The children, the wounded and the women come first.”
+[Bard:] "The children, the wounded and the women come first."
 
 [Bard walks over to where Alfrid had been standing guard. Alfrid was actually napping, and he wakes up as Bard speaks.]
 
-[Bard:] “Morning, Alfrid. What news from the night watch?”
+[Bard:] "Morning, Alfrid. What news from the night watch?"
 
-[Alfrid:] “All quiet, sire, I must report. Nothing gets past me.”
+[Alfrid:] "All quiet, sire, I must report. Nothing gets past me."
 
 [Yawning, he gets up and follow Bard outside, only to find that Bard has stopped suddenly in the archway.]
 
-[Bard:] “Except an army of elves, it would seem.”
+[Bard:] "Except an army of elves, it would seem."
 
 [Outside, the courtyard is packed full of Mirkwood elves dressed in full battle gear, standing in perfectly ordered lines. The people of Laketown begin coming out of their buildings and see the elves.]
 
@@ -989,31 +989,31 @@ FLASHBACK - END
 
 [As he exits out the bank of elves, King Thranduil rides up on his steed, and all the elves turn to face him.]
 
-[Bard:] “My lord Thranduil; we did not look to see you here.”
+[Bard:] "My lord Thranduil; we did not look to see you here."
 
-[Thranduil:] “I heard you needed aid.”
+[Thranduil:] "I heard you needed aid."
 
 [Thranduil turns and looks at a wagon that is pulling up; it is loaded with food and drink for the people. The people of Laketown smile and cheer, and begin unloading the cart with the elves’ help. Bard approaches Thranduil gratefully.]
 
-[Bard:] “You have saved us! I do not how to thank you.”
+[Bard:] "You have saved us! I do not how to thank you."
 
-[Thranduil:] “Your gratitude is misplaced. I did not come on your behalf.”
+[Thranduil:] "Your gratitude is misplaced. I did not come on your behalf."
 
 [Thranduil’s voice is cold.]
 
-[Thranduil:] “I came to reclaim something of mine.”
+[Thranduil:] "I came to reclaim something of mine."
 
 [Meanwhile, in the Mountain, Thorin picks up a beautiful necklace made of tiny, shining, and white gems. We hear Thranduil speaking in a flashback from the previous movie.]
 
 [DIALOG-FLASHBACK - START]
 
-[Thranduil:] “There are gems in the mountain that I too desire. White gems of pure starlight.
+[Thranduil:] "There are gems in the mountain that I too desire. White gems of pure starlight.
 
 [DIALOG-FLASHBACK - END]
 
-[Thorin:] “The white gems of Lasgalen.”
+[Thorin:] "The white gems of Lasgalen."
 
-[Thorin:] “I know an Elf-Lord who would pay a pretty price for these.”
+[Thorin:] "I know an Elf-Lord who would pay a pretty price for these."
 
 [Thorin tosses the necklace back into the pile of jewels, scattering many of the tiny gems.]
 
@@ -1021,59 +1021,59 @@ FLASHBACK - END
 
 
 
-[Bard:] “Wait! Please, wait! You would go to war over a handful of gems?”
+[Bard:] "Wait! Please, wait! You would go to war over a handful of gems?"
 
-[Thranduil:] “The heirlooms of my people are not lightly forsaken.”
+[Thranduil:] "The heirlooms of my people are not lightly forsaken."
 
-[Bard:] “We are allies in this. My people also have a claim upon the riches in that mountain! Let me speak with Thorin!”
+[Bard:] "We are allies in this. My people also have a claim upon the riches in that mountain! Let me speak with Thorin!"
 
-[Thranduil:] “You would try to reason with a dwarf?”
+[Thranduil:] "You would try to reason with a dwarf?"
 
-[Bard:] “To avoid war? Yes!”
+[Bard:] "To avoid war? Yes!"
 
 
 
 [In Erebor, Thorin strides toward the blocked off gate, calling th other dwarves to him.]
 
-[Thorin:] “Come on!”
+[Thorin:] "Come on!"
 
 [The dwarves lay down their tools, pick up their weapons, and follow him up the stairs they’ve created in the blockage, all the way to a platform they have built at the top of the gate from which they have a vantage point over the plain in front of the gate. They see the walls of Dale filled with Elves ready for war. Bard rides up the path to the gate on a horse, and stops in front of the gate.]
 
-[Bard:] “Hail Thorin, son of Thrain! We are glad to find you alive beyond hope.”
+[Bard:] "Hail Thorin, son of Thrain! We are glad to find you alive beyond hope."
 
-[Thorin:] “Why do come to the gates of the king under the mountain armed for war?”
+[Thorin:] "Why do come to the gates of the king under the mountain armed for war?"
 
-[Bard:] “Why does the king under the mountain fence himself in? Like a robber in his hole.”
+[Bard:] "Why does the king under the mountain fence himself in? Like a robber in his hole."
 
-[Thorin:] “Perhaps it is because I am expecting to be robbed.”
+[Thorin:] "Perhaps it is because I am expecting to be robbed."
 
-[Bard:] “My lord - We have not come to rob you, but to seek fair settlement. Will you not speak with me?”
+[Bard:] "My lord - We have not come to rob you, but to seek fair settlement. Will you not speak with me?"
 
 [Thorin nods, and steps away from the platform and down the stairs. Bard dismounts his horse and crosses the bridge in front of the gate. As he approaches the blockade, a raven flies out of the opening above the gate and wings away rapidly, cawing loudly. Bard sees a hole built into the blockade, and Thorin strides up to the other end of the hole.]
 
-[Thorin:] “I’m listening.”
+[Thorin:] "I’m listening."
 
-[Bard:] “On behalf of the people of Laketown, I ask that you honor your pledge. A share of the treasure so that they might rebuild their lives.”
+[Bard:] "On behalf of the people of Laketown, I ask that you honor your pledge. A share of the treasure so that they might rebuild their lives."
 
-[Thorin:] “I will not treat with any man while an armed host lies before my door.”
+[Thorin:] "I will not treat with any man while an armed host lies before my door."
 
-[Bard:] “That armed host will attack this mountain, if we do not come to terms.”
+[Bard:] "That armed host will attack this mountain, if we do not come to terms."
 
-[Thorin:] “Your threats do not sway me.”
+[Thorin:] "Your threats do not sway me."
 
-[Bard:] “What of your conscience? Does it not tell you our cause is just?! My people offered you help. And in return you brought upon them only ruin and death!”
+[Bard:] "What of your conscience? Does it not tell you our cause is just?! My people offered you help. And in return you brought upon them only ruin and death!"
 
-[Thorin:] “When did the men of Laketown come to our aid, but for the promise of rich reward?!”
+[Thorin:] "When did the men of Laketown come to our aid, but for the promise of rich reward?!"
 
-[Bard:] “A bargain was struck!”
+[Bard:] "A bargain was struck!"
 
-[Thorin:] “A bargain? What choice did we have but to barter our birthright for blankets and food? To ransom our future in exchange for our freedom? You call that a fair trade? Tell me, Bard the Dragonslayer…”
+[Thorin:] "A bargain? What choice did we have but to barter our birthright for blankets and food? To ransom our future in exchange for our freedom? You call that a fair trade? Tell me, Bard the Dragonslayer…"
 
 [Bard looks up, surprised.]
 
-[Thorin:] “...Why should I honor such terms?”
+[Thorin:] "...Why should I honor such terms?"
 
-[Bard:] “Because you gave us your word. Does that mean nothing?”
+[Bard:] "Because you gave us your word. Does that mean nothing?"
 
 [Thorin turns away from the hole, disappearing from Bard’s view. He leans back against the blockade and for a moment looks tired and weary.]
 
@@ -1083,27 +1083,27 @@ FLASHBACK - END
 
 
 
-[Thorin:] “Be gone, ere arrow fly!”
+[Thorin:] "Be gone, ere arrow fly!"
 
 [Bard slaps the rock angrily, then mounts his horse and rides back to Dale. The company watches him go from the top of the platform.]
 
-[Bilbo:] “What are you doing?! You cannot go to war.”
+[Bilbo:] "What are you doing?! You cannot go to war."
 
-[Thorin:] “This does not concern you.”
+[Thorin:] "This does not concern you."
 
-[Bilbo:] “Excuse me?! But just in case you haven’t noticed, there is an army of elves out there. And not to mention several hundred angry fishermen. We-We are in fact outnumbered.”
+[Bilbo:] "Excuse me?! But just in case you haven’t noticed, there is an army of elves out there. And not to mention several hundred angry fishermen. We-We are in fact outnumbered."
 
 [Thorin turns to look at Bilbo, smiling.]
 
-[Thorin:] “Not for much longer.”
+[Thorin:] "Not for much longer."
 
-[Bilbo:] “What does that mean?”
+[Bilbo:] "What does that mean?"
 
-[Thorin:] “It means Master Baggins, you should never underestimate dwarves.”
+[Thorin:] "It means Master Baggins, you should never underestimate dwarves."
 
 [Thorin turns to the whole group.]
 
-[Thorin:] “We have reclaimed Erebor - Now we defend it!”
+[Thorin:] "We have reclaimed Erebor - Now we defend it!"
 
 [As Thorin strides down the steps, Bilbo and Balin looks distressed.]
 
@@ -1111,19 +1111,19 @@ FLASHBACK - END
 
 [Bard rides back to the gates of Dale, where Thranduil is waiting.]
 
-[Bard:] “He will give us nothing.”
+[Bard:] "He will give us nothing."
 
-[Thranduil:] “Such a pity. Still, you tried.”
+[Thranduil:] "Such a pity. Still, you tried."
 
-[Bard:] “I do not understand - Why? Why would he risk war?”
+[Bard:] "I do not understand - Why? Why would he risk war?"
 
 [They look back toward the Mountain in time to see the dwarves dislodge the head of one of the massive stone statues, causing it to fall and break the raised bridge to the gate, thus disabling any attackers from approaching the gates.]
 
-[Thranduil:] “It is fruitless to reason with them; they understand only one thing.”
+[Thranduil:] "It is fruitless to reason with them; they understand only one thing."
 
 [Thranduil pulls out his sword and gazes at it.]
 
-[Thranduil:] “We attack at dawn! Are you with us?”
+[Thranduil:] "We attack at dawn! Are you with us?"
 
 [As Thranduil rides back toward the city, Bard looks over his shoulder at Erebor.]
 
@@ -1131,53 +1131,53 @@ FLASHBACK - END
 
 [In Dale, Bard and the Lakepeople begin collecting and distributing the various weapons and armor stored there. In Erebor, the dwarves do the same, suiting up for battle. As Bilbo walks by, Thorin calls out to him, holding something.]
 
-[Thorin:] “Master Baggins, come here!”
+[Thorin:] "Master Baggins, come here!"
 
 [Bilbo comes up and sees that Thorin is holding a tunic of white mail.]
 
-[Thorin:] “You are going to need this. Put it on.”
+[Thorin:] "You are going to need this. Put it on."
 
 [Bilbo begins removing his jacket.]
 
-[Thorin:] “This vest is made of silver steel - “Mithril” it was called by my forebears.”
+[Thorin:] "This vest is made of silver steel - "Mithril" it was called by my forebears."
 
 [Thorin holds it up so that Bilbo can slide into it.]
 
-[Thorin:] “No blade can pierce it.”
+[Thorin:] "No blade can pierce it."
 
 [Bilbo finishes putting it on, then looks at himself; the other dwarves watch too.]
 
-[Bilbo:] “I look absurd. I’m not a warrior; I’m a Hobbit.”
+[Bilbo:] "I look absurd. I’m not a warrior; I’m a Hobbit."
 
 
 
-[Thorin:] “It is a gift. A token of our friendship. True friends are hard to come by.”
+[Thorin:] "It is a gift. A token of our friendship. True friends are hard to come by."
 
 [Although he had started off smiling at Bilbo, he looks toward the other dwarves and frowns, then grabs Bilbo by the shoulder and pulls him away where the other dwarves can’t hear him.]
 
-[Thorin:] “I have been blind. Now I begin to see. I am betrayed!”
+[Thorin:] "I have been blind. Now I begin to see. I am betrayed!"
 
-[Bilbo:] “Betrayed?”
+[Bilbo:] "Betrayed?"
 
-[Thorin:] “The Arkenstone.”
+[Thorin:] "The Arkenstone."
 
 [As Thorin moves closer to him, Bilbo looks extremely uncomfortable and worried. Thorin whispers to Bilbo.]
 
-[Thorin:] “One of them has taken it.”
+[Thorin:] "One of them has taken it."
 
 [Bilbo almost sighs audibly in relief.]
 
-[Thorin:] “One of them is false.”
+[Thorin:] "One of them is false."
 
-[Bilbo:] “Thorin...the quest is fulfilled. You’ve won the mountain. Is that not enough?”
+[Bilbo:] "Thorin...the quest is fulfilled. You’ve won the mountain. Is that not enough?"
 
 
 
-[Thorin:] “Betrayed by my own kin.”
+[Thorin:] "Betrayed by my own kin."
 
-[Bilbo:] “No eh...You...You made a promise...to the people of Laketown. Is-Is this treasure truly worth more than your honor? Our honor, Thorin. I was also there, I gave my word.”
+[Bilbo:] "No eh...You...You made a promise...to the people of Laketown. Is-Is this treasure truly worth more than your honor? Our honor, Thorin. I was also there, I gave my word."
 
-[Thorin:] “For that I’m grateful. It was nobly done. But the treasure in this mountain does not belong to the people of Laketown! This gold...is ours...and ours alone. By my life I will not part with a single coin! Not...one...piece of it!”
+[Thorin:] "For that I’m grateful. It was nobly done. But the treasure in this mountain does not belong to the people of Laketown! This gold...is ours...and ours alone. By my life I will not part with a single coin! Not...one...piece of it!"
 
 [As Thorin speaks, his voice grows deeper and more and more like Smaug’s, until the very last line, which was exactly a repeat of what Smaug had said previously to Bilbo. Thorin is clearly mentally affected, and Bilbo stares at him in shock as the other dwarves, dressed for battle, stride by.]
 
@@ -1185,65 +1185,65 @@ FLASHBACK - END
 
 [Legolas and Tauriel leave their horses and scramble up a rocky outcrop. They crouch behind some rocks at the top and see a fortress ahead.]
 
-[Tauriel:] “Gundabad. What lies beyond?”
+[Tauriel:] "Gundabad. What lies beyond?"
 
-[Legolas:] “An old enemy - The ancient kingdom of Angmar. This fortress was once its stronghold. It is where they kept their great armories, forged their weapons of war.”
+[Legolas:] "An old enemy - The ancient kingdom of Angmar. This fortress was once its stronghold. It is where they kept their great armories, forged their weapons of war."
 
 [A light flickers in a window of the fortress, then disappears.]
 
-[Tauriel:] “A light! I saw movement.”
+[Tauriel:] "A light! I saw movement."
 
-[Legolas:] “We wait for the cover of night. It is a fell place, Tauriel. In another age our people waged war on those lands.”
+[Legolas:] "We wait for the cover of night. It is a fell place, Tauriel. In another age our people waged war on those lands."
 
 [Legolas pauses, looking pained. Tauriel looks at him.]
 
-[Legolas:] “My mother died there. My father does not speak of it. There is no grave, no memory, nothing.”
+[Legolas:] "My mother died there. My father does not speak of it. There is no grave, no memory, nothing."
 
 
 
 [In Dale, the people are preparing for war, sharpening swords and collecting supplies. They jump out of the way as Gandalf gallops into town on his horse.]
 
-[Gandalf:] “Let me through!”
+[Gandalf:] "Let me through!"
 
-[Gandalf:] “Make way!”
+[Gandalf:] "Make way!"
 
 [Gandalf dismounts in the main courtyard and looks surprised to see men drilling with swords and companies of elves marching by. Alfrid comes up to him, upset.]
 
-[Alfrid:] “No, No, NO! Oi! You - pointy hat!”
+[Alfrid:] "No, No, NO! Oi! You - pointy hat!"
 
 [Gandalf turns to look at him.]
 
-[Alfrid:] “Yes, you. We don’t want no tramps, beggars nor vagabonds around here. We got enough trouble without the likes of you. Off you go! On your horse.”
+[Alfrid:] "Yes, you. We don’t want no tramps, beggars nor vagabonds around here. We got enough trouble without the likes of you. Off you go! On your horse."
 
-[Gandalf:] “Who’s in charge here?!”
+[Gandalf:] "Who’s in charge here?!"
 
 [Bard walks up.]
 
-[Bard:] “Who is asking?”
+[Bard:] "Who is asking?"
 
 
 
 [A little bit later, Gandalf is meeting with Bard and Thranduil in a tent.]
 
-[Gandalf:] “You must set aside your petty grievances with the dwarves. War is coming! The cesspits of Dol Guldur have been emptied. You’re ALL in mortal danger!”
+[Gandalf:] "You must set aside your petty grievances with the dwarves. War is coming! The cesspits of Dol Guldur have been emptied. You’re ALL in mortal danger!"
 
-[Bard:] “What are you talking about?”
+[Bard:] "What are you talking about?"
 
-[Thranduil:] “I can see you know nothing of wizards. They are like winter thunder on a wild wind rolling in from a distance, breaking hard in alarm. But sometimes a storm is just a storm.”
+[Thranduil:] "I can see you know nothing of wizards. They are like winter thunder on a wild wind rolling in from a distance, breaking hard in alarm. But sometimes a storm is just a storm."
 
-[Gandalf:] “Not this time. Armies of orcs are on the move. And these are fighters! They have been bred for war. Our enemy has summoned his full strength.”
+[Gandalf:] "Not this time. Armies of orcs are on the move. And these are fighters! They have been bred for war. Our enemy has summoned his full strength."
 
-[Thranduil:] “Why show his hand now?”
+[Thranduil:] "Why show his hand now?"
 
-[Gandalf:] “Because we forced him! We forced him when the company of Thorin Oakenshield set out to reclaim their homeland. The dwarves were never meant to reach Erebor; Azog the Defiler was sent to kill them. His master seeks control of the mountain. Not just for the treasure within, but for where it lies, its strategic position.”
+[Gandalf:] "Because we forced him! We forced him when the company of Thorin Oakenshield set out to reclaim their homeland. The dwarves were never meant to reach Erebor; Azog the Defiler was sent to kill them. His master seeks control of the mountain. Not just for the treasure within, but for where it lies, its strategic position."
 
 [As Gandalf talks, they have left the tent and walked outside to a spot from where they can clearly see the gates of Erebor.]
 
 
 
-[Gandalf:] “This is the gateway to reclaiming the lands of Angmar in the north. If that fell kingdom should rise again, Rivendell, Lothlorien, the Shire, even Gondor itself will fall!”
+[Gandalf:] "This is the gateway to reclaiming the lands of Angmar in the north. If that fell kingdom should rise again, Rivendell, Lothlorien, the Shire, even Gondor itself will fall!"
 
-[Thranduil:] “These orc armies you speak of, Mithrandir - Where are they?”
+[Thranduil:] "These orc armies you speak of, Mithrandir - Where are they?"
 
 [Gandalf is unable to answer.]
 
@@ -1251,11 +1251,11 @@ FLASHBACK - END
 
 [Meanwhile, an Orc rides out of a tunnel on a Warg and approaches Azog, who is feeding his Warg at the entrance to the tunnel.]
 
-[Orc:] “_ _ _” [Subtitle: Our army will be in position by dawn. The attack will be sudden and swift!]
+[Orc:] "_ _ _" [Subtitle: Our army will be in position by dawn. The attack will be sudden and swift!]
 
-[Azog:] “_ _ _” [Subtitle: The fools! They have forgotten what lives beneath these lands.]
+[Azog:] "_ _ _" [Subtitle: The fools! They have forgotten what lives beneath these lands.]
 
-[Azog:] “_ _ _” [Subtitle: They have forgotten the great Earth-eaters.]
+[Azog:] "_ _ _" [Subtitle: They have forgotten the great Earth-eaters.]
 
 [As they ride away, we see the side of a hill covered in giant holes, each the entrance to a tunnel. A sound of the earth being drilled and crushed can be heard all around. The tunnels are pointing toward the Lonely Mountain in the distance.]
 
@@ -1263,29 +1263,29 @@ FLASHBACK - END
 
 [Back at Gundobad, it is dark.]
 
-[Tauriel:] “_ _ _” [Subtitle: If we are going in - we should move now.]
+[Tauriel:] "_ _ _" [Subtitle: If we are going in - we should move now.]
 
 [Suddenly, massive bats being screeching and flying around.]
 
-[Tauriel:] “Dúilith secherig.” [Subtitle: They are swarming.]
+[Tauriel:] "Dúilith secherig." [Subtitle: They are swarming.]
 
-[Legolas:] “These bats are bred for one purpose.”
+[Legolas:] "These bats are bred for one purpose."
 
-[Tauriel:] “For what?”
+[Tauriel:] "For what?"
 
-[Legolas:] “For war.”
+[Legolas:] "For war."
 
 [As the bats swarm overhead, a figure rides out on a Warg. It is Bolg, dressed for battle. He raises his mace and shouts out a command; trumpets sound, and gates in the bottom of the fortress open, releasing rank upong rank of massive orcs, each with a giant spear at least three times longer than the orcs’ height.]
 
-[Bolg:] “_ _ _”
+[Bolg:] "_ _ _"
 
 [The massive company begins marching away, with the bats following and wheeling overhead.]
 
-[Tauriel:] “Din methithar i phain.” [Subtitle: We must warn the others.]
+[Tauriel:] "Din methithar i phain." [Subtitle: We must warn the others.]
 
-[Legolas:] “Penim lû. Tolo!” [Subtitle: We may be too late - hurry!]
+[Legolas:] "Penim lû. Tolo!" [Subtitle: We may be too late - hurry!]
 
-[Bolg:] “_ _ _”
+[Bolg:] "_ _ _"
 
 [As Bolg yells out a command, the ranks of Orcs part to let smaller, lighter, and faster Orcs run ahead of their companions, snarling.]
 
@@ -1293,21 +1293,21 @@ FLASHBACK - END
 
 [Back in Thranduil’s tent, Gandalf confronts Thranduil.]
 
-[Gandalf:] “Since when has my council counted for so little? What do you think I’m trying to do?!”
+[Gandalf:] "Since when has my council counted for so little? What do you think I’m trying to do?!"
 
 
 
-[Thranduil:] “I think you’re trying to save your dwarvish friends. And I admire your loyalty to them, but it does not dissuade me from my course. You started this, Mithrandir. You will forgive me if I finish it.”
+[Thranduil:] "I think you’re trying to save your dwarvish friends. And I admire your loyalty to them, but it does not dissuade me from my course. You started this, Mithrandir. You will forgive me if I finish it."
 
 [Thranduil exits the tent and calls to one of the elves.]
 
-[Thranduil:] “Are the archers in position?”
+[Thranduil:] "Are the archers in position?"
 
-[Elf:] “Yes my Lord.”
+[Elf:] "Yes my Lord."
 
-[Thranduil:] “Give the order. If anything moves on that mountain - kill it!”
+[Thranduil:] "Give the order. If anything moves on that mountain - kill it!"
 
-[Thranduil:] “The dwarves are out of time.”
+[Thranduil:] "The dwarves are out of time."
 
 
 
@@ -1317,17 +1317,17 @@ FLASHBACK - END
 
 [Gandalf approaches Bard.]
 
-[Gandalf:] “You, Bowman! Do you agree with this? Is gold so important to you? Would you buy it with the blood of dwarves?!”
+[Gandalf:] "You, Bowman! Do you agree with this? Is gold so important to you? Would you buy it with the blood of dwarves?!"
 
 [As the speak, Bilbo sneaks past some of the Laketown guards.]
 
-[Bard:] “It will not come to that. This is a fight they cannot win.”
+[Bard:] "It will not come to that. This is a fight they cannot win."
 
 [Suddenly, Bilbo appears and addresses both of them.]
 
-[Bilbo:] “That won’t stop them. You think the dwarves will surrender - They won’t. They will fight to the death to defend their own.”
+[Bilbo:] "That won’t stop them. You think the dwarves will surrender - They won’t. They will fight to the death to defend their own."
 
-[Gandalf:] “Bilbo Baggins!”
+[Gandalf:] "Bilbo Baggins!"
 
 [Bilbo smiles happily.]
 
@@ -1335,33 +1335,33 @@ FLASHBACK - END
 
 [Back in Thranduil’s tent, Bilbo is presented before Thranduil.]
 
-[Thranduil:] “If I’m not mistaken, this is the halfling who stole the keys to my dungeons from under the nose of my guards.”
+[Thranduil:] "If I’m not mistaken, this is the halfling who stole the keys to my dungeons from under the nose of my guards."
 
 [Bilbo looks extremely uncomfortable.]
 
-[Bilbo:] “Yes. Sorry about that.”
+[Bilbo:] "Yes. Sorry about that."
 
 [There is a silence for a while, then Bilbo steps forward and puts a wrapped package on the table.]
 
-[Bilbo:] “I came...to give you this.”
+[Bilbo:] "I came...to give you this."
 
 [He unwraps the package to reveal the Arkenstone. Thranduil rises in surprise.]
 
-[Thranduil:] “The heart of the mountain! The King’s Jewel.”
+[Thranduil:] "The heart of the mountain! The King’s Jewel."
 
 [Gandalf and Bard approach to look at it in awe.]
 
-[Bard:] “And worth a king’s ransom. How is this yours to give?”
+[Bard:] "And worth a king’s ransom. How is this yours to give?"
 
-[Bilbo:] “I took it as my fourteenth share of the treasure.”
+[Bilbo:] "I took it as my fourteenth share of the treasure."
 
 [Gandalf smiles slightly.]
 
-[Bard:] “Why would you do this? You owe us no loyalty.”
+[Bard:] "Why would you do this? You owe us no loyalty."
 
-[Bilbo:] “I’m not doing it for you. I know that dwarves can be obstinate and pigheaded and difficult, suspicious and secretive…with the worst manners you can possibly imagine, but they also brave and kind...and loyal to a fault. I’ve grown very fond of them, and I would save them if I can.”
+[Bilbo:] "I’m not doing it for you. I know that dwarves can be obstinate and pigheaded and difficult, suspicious and secretive…with the worst manners you can possibly imagine, but they also brave and kind...and loyal to a fault. I’ve grown very fond of them, and I would save them if I can."
 
-[Bilbo:] “Thorin values this stone above all else. In exchange for its return, I believe he will give you what you are owed. There will be no need for war!”
+[Bilbo:] "Thorin values this stone above all else. In exchange for its return, I believe he will give you what you are owed. There will be no need for war!"
 
 [Gandalf, Bard, and Thranduil look at each other.]
 
@@ -1369,35 +1369,35 @@ FLASHBACK - END
 
 [Gandalf leads through Dale.]
 
-[Gandalf:] “Rest up tonight. You must leave on tomorrow.”
+[Gandalf:] "Rest up tonight. You must leave on tomorrow."
 
-[Bilbo:] “What?”
+[Bilbo:] "What?"
 
-[Gandalf:] “Get as far away from here as possible.”
+[Gandalf:] "Get as far away from here as possible."
 
-[Bilbo:] “I’m-I’m not leaving. You picked me as the fourteenth man. I’m not about to leave the company now.”
+[Bilbo:] "I’m-I’m not leaving. You picked me as the fourteenth man. I’m not about to leave the company now."
 
-[Gandalf:] “There is no company - not any more. And I don’t like to think what Thorin will do when he finds out what you’ve done.”
+[Gandalf:] "There is no company - not any more. And I don’t like to think what Thorin will do when he finds out what you’ve done."
 
-[Bilbo:] “I’m not afraid of Thorin.”
+[Bilbo:] "I’m not afraid of Thorin."
 
-[Gandalf:] “But you should be! Don’t underestimate the evil of gold. Gold over which a serpent has long brooded. Dragon-sickness seeps into the hearts of all who come near this mountain.”
+[Gandalf:] "But you should be! Don’t underestimate the evil of gold. Gold over which a serpent has long brooded. Dragon-sickness seeps into the hearts of all who come near this mountain."
 
 [Gandalf looks at Bilbo appraisingly.]
 
-[Gandalf:] “Almost all.”
+[Gandalf:] "Almost all."
 
 [Gandalf sees Alfrid walking by and calls out to him.]
 
-[Gandalf:] “You there! Find this Hobbit a bed, and fill his belly with hot food. He has earned it.”
+[Gandalf:] "You there! Find this Hobbit a bed, and fill his belly with hot food. He has earned it."
 
 [Alfrid grudgingly comes over and begins to lead Bilbo away. As they go, Gandalf grabs Alfrid’s arm and whispers to him.]
 
-[Gandalf:] “Hey. Keep an eye on him. If he should try to leave, you will tell me.”
+[Gandalf:] "Hey. Keep an eye on him. If he should try to leave, you will tell me."
 
 [Alfrid walks off, cursing as a group of people walk in front of him and he pushes his way between them.]
 
-[Alfrid:] “Move it! Stupid...”
+[Alfrid:] "Move it! Stupid..."
 
 
 
@@ -1409,7 +1409,7 @@ FLASHBACK - END
 
 [Alfrid comes to wake Bilbo up, carrying a bowl of food.]
 
-[Alfrid:] “Wakey, Wakey, Hobbit. Up you...get.”
+[Alfrid:] "Wakey, Wakey, Hobbit. Up you...get."
 
 [He pauses as he realizes that Bilbo is not in the room where he had left him.]
 
@@ -1417,283 +1417,283 @@ FLASHBACK - END
 
 [Thranduil and Bard ride together to the front of the armies and approach their side of the broken bridge over the moat. From above the blockade, Thorin draws a bow and shoots an arrow at the ground directly in front of Thranduil and Bard, who immediately halt in surprise.]
 
-[Thorin:] “I will put the next one between your eyes!”
+[Thorin:] "I will put the next one between your eyes!"
 
 [Thorin draws his bow again, and the dwarves on the wall cheer and shake their weapons. Thranduil stares at Thorin angrily, then slightly tilts his head. Instantly, several rows of Elves near the front of the army pull out their bows, nock their arrows, and aim at the dwarves, all in one fluid motion. The dwarves’ cheering cuts off abruptly as all of them but Thorin duck behind the ramparts. After holding the pose for a few seconds, Thranduil raises his hand, and the elves easily put away their arrows. Thorin still has his bow drawn, though.]
 
-[Thranduil:] “We’ve come to tell you: payment of your debt has been offered...and accepted.”
-[Thorin:] “What payment? I gave you nothing! You have nothing!”
+[Thranduil:] "We’ve come to tell you: payment of your debt has been offered...and accepted."
+[Thorin:] "What payment? I gave you nothing! You have nothing!"
 
-[Bard:] “We have this.”
+[Bard:] "We have this."
 
 [Bard reaches into his robe and pulls out the Arkenstone, holding it above his head. Thorin, shocked, lowers his bow.]
 
 
 
-[Kili:] “They have the Arkenstone? Thieves! How came you by the heirloom of our house? That stone belongs to the king!”
+[Kili:] "They have the Arkenstone? Thieves! How came you by the heirloom of our house? That stone belongs to the king!"
 
-[Bard:] “And the king may have it - in our good will.”
+[Bard:] "And the king may have it - in our good will."
 
 [Bard puts the Arkenstone back into his robe.]
 
-[Bard:] “But first he must honor his word.”
+[Bard:] "But first he must honor his word."
 
 [Thorin whispers to himself, and the dwarves near him can hear.]
 
-[Thorin:] “They are taking us for fools. This is a ruse, a filthy lie.”
+[Thorin:] "They are taking us for fools. This is a ruse, a filthy lie."
 
 [Balin looks shocked that Thorin’s mental state has deteriorated to the point at which he would even consider this. Thorin then yells out.]
 
-[Thorin:] “THE ARKENSTONE IS IN THIS MOUNTAIN! IT IS A TRICK!”
+[Thorin:] "THE ARKENSTONE IS IN THIS MOUNTAIN! IT IS A TRICK!"
 
 [At the top of the ramparts, Bilbo steps out from the dwarves.]
 
-[Bilbo:] “It-It’s no trick. The stone is real. I gave it to them.”
+[Bilbo:] "It-It’s no trick. The stone is real. I gave it to them."
 
 [As Bilbo speaks, Thorin’s expression changes to a mixture of sorrow and anger. Thranduil and Bard look worries, as they thought Bilbo was still safely in Dale. Thorin and the other dwarves look at Bilbo in shock.]
 
-[Thorin:] “You…”
+[Thorin:] "You…"
 
-[Bilbo:] “I took it as my fourteenth share.”
+[Bilbo:] "I took it as my fourteenth share."
 
-[Thorin:] “You would steall from me?”
+[Thorin:] "You would steall from me?"
 
-[Bilbo:] “Steal from you? No. No. I may be a burglar, but I like to think I’m an honest one. I’m willing to let it stand against my claim.”
+[Bilbo:] "Steal from you? No. No. I may be a burglar, but I like to think I’m an honest one. I’m willing to let it stand against my claim."
 
-[Thorin:] “Against your claim?! Your claim! You have no claim over me you miserable rat!”
+[Thorin:] "Against your claim?! Your claim! You have no claim over me you miserable rat!"
 
 [Thorin throws down his bow in anger and begins walking toward Bilbo.]
 
-[Bilbo:] “I was going to give it to you. Many times I wanted to, but...”
+[Bilbo:] "I was going to give it to you. Many times I wanted to, but..."
 
-[Thorin:] “But what, thief?!”
+[Thorin:] "But what, thief?!"
 
-[Bilbo:] “You are changed, Thorin! The dwarf I met in Bag End would never have gone back on his word! Would never have doubted the loyalty of his kin!”
+[Bilbo:] "You are changed, Thorin! The dwarf I met in Bag End would never have gone back on his word! Would never have doubted the loyalty of his kin!"
 
-[Thorin:] “Do not speak to me...of loyalty!”
+[Thorin:] "Do not speak to me...of loyalty!"
 
 [Thorin shouts to the other dwarves.]
 
-[Thorin:] “Throw him from the rampart!”
+[Thorin:] "Throw him from the rampart!"
 
 [Bilbo looks shocked. The other dwarves, rather than obeying Thorin, step away from Bilbo in confusion. Thranduil and Bard look concerned. Thorin is surprised that no one obeyed him.]
 
-[Thorin:] “DO YOU HEAR ME?!”
+[Thorin:] "DO YOU HEAR ME?!"
 
 [Thorin grabs Fili’s arm, but Fili shakes him away.]
 
-[Thorin:] “I will do it myself!”
+[Thorin:] "I will do it myself!"
 
 [He lunges forward and grabs Bilbo, shouting.]
 
-[Thorin:] “CURSE YOU!”
+[Thorin:] "CURSE YOU!"
 
-[Fili:] “No!”
+[Fili:] "No!"
 
 [As Thorin struggles with Bilbo, the other dwarves leap forward, shouting, to pull Thorin away. Thorin manages to grab Bilbo and begins pushing him over the rampart.]
 
-[Thorin:] “Cursed be the Wizard that forced you on this Company!”
+[Thorin:] "Cursed be the Wizard that forced you on this Company!"
 
 [Suddenly, Gandalf appears, striding through the armies. His voice is magically amplified to incredibly loud, deep, and powerful tones.]
 
-[Gandalf:] “IF YOU DON’T LIKE MY BURGLAR…”
+[Gandalf:] "IF YOU DON’T LIKE MY BURGLAR…"
 
 [His voice returns to a normal volume and tone.]
 
 
 
-[Gandalf:] “Then please don’t damage him. Return him to me! You’re not making a very splendid figure as king under the mountain, are you? Thorin son of Thrain!”
+[Gandalf:] "Then please don’t damage him. Return him to me! You’re not making a very splendid figure as king under the mountain, are you? Thorin son of Thrain!"
 
 [Thorin slowly lets Bilbo up, and some of the other dwarves rush to help Bilbo up.]
 
-[Thorin:] “Never again will I have dealings with wizards...”
+[Thorin:] "Never again will I have dealings with wizards..."
 
 [Bofur gently pushes Bilbo toward the rope he’d hung the night before to climb down the walls.]
 
-[Bofur:] “Go.”
+[Bofur:] "Go."
 
-[Thorin:] “Or Shire-rats!”
+[Thorin:] "Or Shire-rats!"
 
 [Bilbo throws his coiled rope over the wall and clambers down.]
 
-[Bard:] “Are we resolved? The return of the Arkenstone for what was promised.”
+[Bard:] "Are we resolved? The return of the Arkenstone for what was promised."
 
 [Thorin, breathing heavily, looks to a ridge in the distance, as if looking for someone or something.]
 
-[Bard:] “Give us your answer! Will you have peace or war?”
+[Bard:] "Give us your answer! Will you have peace or war?"
 
 [As Thorin bows his head, a large raven flies up to the ramparts and perches beside him. Thorin and the raven stare at each other.]
 
-[Thorin:] “I will have war!”
+[Thorin:] "I will have war!"
 
 [A rumbling is heard in the distance, and the armies look up to see the ridge being covered by troops of heavily armored dwarves, lead by a huge dwarf riding a battle-pig.]
 
-[Gandalf:] “Ironfoot.”
+[Gandalf:] "Ironfoot."
 
 [The Erebor dwarves begin cheering and screaming as they see their backup arriving.]
 
-[Thranduil:] “Ribo i thangail!” [not translated onscreen: Rush the shield-fence!]
+[Thranduil:] "Ribo i thangail!" [not translated onscreen: Rush the shield-fence!]
 
 [Thranduil rides through his army as his Elves and the Lakepeople turn away from the gates of Erebor and begin marching quickly toward the oncoming Iron Hills dwarves. Gandalf strides along with them, Bilbo rushing to keep up.]
 
-[Bilbo:] “Who is that? He doesn’t look very happy.”
+[Bilbo:] "Who is that? He doesn’t look very happy."
 
-[Gandalf:] “It is Dain, lord of the Iron Hills - Thorin’s cousin.”
+[Gandalf:] "It is Dain, lord of the Iron Hills - Thorin’s cousin."
 
-[Bilbo:] “Are they alike?”
+[Bilbo:] "Are they alike?"
 
-[Gandalf:] “I always found Thorin the more reasonable of the two.”
+[Gandalf:] "I always found Thorin the more reasonable of the two."
 
 [The two armies halt a short distance from one another, and Dain rides his pig onto a rocky overlook to address the Elves and Men.]
 
-[Dain:] “Good morning! How are we all? I have a wee proposition, if you wouldn’t mind giving me a few moments of your time. Would you consider...just sodding off!”
+[Dain:] "Good morning! How are we all? I have a wee proposition, if you wouldn’t mind giving me a few moments of your time. Would you consider...just sodding off!"
 
 [The townspeople, clutching their weapons, step back in fear, while the Elves pull out their swords and step forward.]
 
-[Dain:] “All of you - right now!”
+[Dain:] "All of you - right now!"
 
-[Bard:] “Stand fest!”
+[Bard:] "Stand fest!"
 
 [Gandalf strides forward.]
 
-[Gandalf:] “Come now, lord Dain!”
+[Gandalf:] "Come now, lord Dain!"
 
-[Dain:] “Gandalf the Grey. Tell this rabble to leave, or I’ll water the ground with their blood!”
+[Dain:] "Gandalf the Grey. Tell this rabble to leave, or I’ll water the ground with their blood!"
 
-[Gandalf:] “There is no need for war between dwarves, men and elves! A legion of orcs march on the mountain. Stand your army down!”
+[Gandalf:] "There is no need for war between dwarves, men and elves! A legion of orcs march on the mountain. Stand your army down!"
 
 
 
-[Dain:] “I will not stand down before any elf! Not least this faithless woodland sprite!”
+[Dain:] "I will not stand down before any elf! Not least this faithless woodland sprite!"
 
 [He gestures toward Thranduil, who looks angry.]
 
-[Dain:] “He wishes nothing but ill upon my people! If he chooses to stand between me and my kin - I’ll split his pretty head open! See if he’s still smirking then!”
+[Dain:] "He wishes nothing but ill upon my people! If he chooses to stand between me and my kin - I’ll split his pretty head open! See if he’s still smirking then!"
 
 [Thranduil smiles furiously, and the Erebor dwarves cheer.]
 
-[Thranduil:] “He’s clearly mad, like his cousin!”
+[Thranduil:] "He’s clearly mad, like his cousin!"
 
-[Dain:] “You hear that, lads?!”
+[Dain:] "You hear that, lads?!"
 
 [He turns and rejoins his army.]
 
-[Dain:] “Come on! Let’s give these ***** a good hammering!”
+[Dain:] "Come on! Let’s give these ***** a good hammering!"
 
-[Iron Hills Dwarf:] “_ _ _”
+[Iron Hills Dwarf:] "_ _ _"
 
 [A dwarf yells out a command, and the Iron Hills dwarves raise their weapons and cheer. The Elves perform a complicated maneuver to put their shield-and-spear bearers at the front of the army, while the arches stand behind them. As both armies prepare to fight, a rumbling is heard at the base of a spur of the mountain. The armies grow silent as they turn to look. Gandalf whispers to himself.]
 
-[Gandalf:] “Were-worms!”
+[Gandalf:] "Were-worms!"
 
 [At the spur of the mountain where the rumbling is coming from, massive worms, hundreds of feet long and dozens of feet thick, break through the rocks. Their mouths are essentially giant drilling machines, strong enough to crush the toughest rocks in their jaws. The human, Elf, and dwarf armies look on in shock.]
 
-[Dain:] “Oh, come on!”
+[Dain:] "Oh, come on!"
 
 [The worms suddenly retreat into the tunnels they’d made through the mountains approaching the Lonely Mountain. As the mist clears, we see Azog and a few other Orcs standing atop a hill. Behind them are several massive contraptions made of wood, rope, and cloth, meant as signalling devices.
-[Azog:] “_ _ _” [Subtitle: Come forth my Armies!]
+[Azog:] "_ _ _" [Subtitle: Come forth my Armies!]
 
 [As Azog gives a sign, one of the wooden structures opens up in a particular position, and a horn sounds. Immediately, legions of Orcs begin pouring out of the were-worm tunnels.]
 
-[Dain:] “The hordes of hell are upon us! To battle! To battle, sons of Durin!”
+[Dain:] "The hordes of hell are upon us! To battle! To battle, sons of Durin!"
 
 [Dain and part of his army turn and rush toward the oncoming Orcs.]
 
-[Fili:] “I’m going over the wall! Who’s coming with me?”
+[Fili:] "I’m going over the wall! Who’s coming with me?"
 
 [The other dwarves cheer and agree, preparing to climb down.]
 
-[Thorin:] “Stand down!”
+[Thorin:] "Stand down!"
 
-[Dwarf:] “What?”
+[Dwarf:] "What?"
 
-[Fili:] “Are we to do nothing?”
+[Fili:] "Are we to do nothing?"
 
-[Thorin:] “I said STAND DOWN!”
+[Thorin:] "I said STAND DOWN!"
 
 [As Thorin walks away, the other look on in shock and surprise. Meanwhile, as Dain and a company of his dwarves rush toward the oncoming Orcs, the Elves stay right where they are. The dwarves are clearly outnumbered by the Orcs.]
 
-[Bilbo:] “The elves, will they not fight?”
+[Bilbo:] "The elves, will they not fight?"
 
-[Gandalf:] “Thranduil! This is madness!”
+[Gandalf:] "Thranduil! This is madness!"
 
 [Thranduil looks back at the Iron Hills dwarves, who have stopped and built a shield wall with their massive spears pointed outward, lead by the chants of the leader. The orcs are fast approaching the shield wall. Suddenly, right as the Orcs reach the dwarves, the Elves leap up over the shield wall from behind, wielding their swords, and begin raining down blows on the Orcs. As the Elves press forward, the dwarvish shield wall is raised and the dwarves rush forward, cutting down Orcs with their spears. Dain rides furiously through the Orcs, smashing them left and right with his hammer.]
 
 [As the remaining elves march toward the battle, Gandalf and Bilbo are standing in one place.]
 
-[Bilbo:] “Eh, Gandalf - Is this a good place to stand?”
+[Bilbo:] "Eh, Gandalf - Is this a good place to stand?"
 
 [At the top of the hill, Azog commands his Orcs.]
 
-[Azog:] “_ _ _” [Subtitle: Send in the War Beasts!]
+[Azog:] "_ _ _" [Subtitle: Send in the War Beasts!]
 
 [The wooden signalling devices change their position to show a new signal. Gandalf, seeing the signal, looks toward the tunnels to see new legions of Orcs, including massive trolls and other monsters, come out. Thranduil shouts to his troops.]
 
-[Thranduil:] “_ _ _”
+[Thranduil:] "_ _ _"
 [The Elves stop and pull out their bows.]
 
-[Azog:] “_ _ _” [Subtitle: They cannot fight on two fronts. Now we make our move.]
+[Azog:] "_ _ _" [Subtitle: They cannot fight on two fronts. Now we make our move.]
 
-[Azog:] “_ _ _” [Subtitle: Attack the city!]
+[Azog:] "_ _ _" [Subtitle: Attack the city!]
 
 [As a horn sound and the signalling device changes again, another legion of Orcs that had been waiting for the signal turn and march toward Dale, which is between the current battle and the tunnels.]
 
-[Gandalf:] “Azog - he’s trying to cut us off”
+[Gandalf:] "Azog - he’s trying to cut us off"
 
 [They see massive trolls, each large enough to carry multiple other dwarves and wooden structures such as catapults on their back, march toward the city along with the armies of Orcs.]
 
-[Bard:] “All of you, fall back to Dale! Now!”
+[Bard:] "All of you, fall back to Dale! Now!"
 
 [Bard, the Lakepeople, Gandalf, and Bilbo rush toward the city, trying to intercept the Orcs.]
 
-[Gandalf:] “To the city! Bilbo! This way!”
+[Gandalf:] "To the city! Bilbo! This way!"
 
 [The monstrous trolls approaching the city stop at a rise overlooking Dale. They bend over and plant all four legs on the ground, thus making their backs horizontal. On their backs are catapults loaded with large rocks; orcs on the trolls’ backs wind up the gears of the catapults. At a signal from their leader orc, who strikes the ground with his mace, the catapults are released, and the rocks fly toward Dale. They smash into the walls and towers, destroying everything they hit. As Bard, at the front of his army, rides across a bridge into Dale, we see the Orc army approaching the wall from another area. A troll with a giant triangle-shaped rock strapped to his head runs up to the wall and smashes into it headfirst, knocking it down and knocking himself out in the some motion. The orcs behind him rush into the city through the hole, entering the houses and killing whatever people they find.]
 
 
 [In the city, the screaming townspeople flee from the oncoming orcs. Sigrid and Tilda hide in a building as they see a troll climb over the wall. Meanwhile, Bain, holding a sword, looks for them among the fleeing people.]
 
-[Bain:] “Sigrid! Tilda!”
+[Bain:] "Sigrid! Tilda!"
 
 
 
 [Bard rides into the city and dismounts, drawing his sword. He runs against the flow of the fleeing people, looking for his children.]
 
-[Bard:] “My children! Where are my children?”
+[Bard:] "My children! Where are my children?"
 
-[Woman:] “I saw them. They were down in the old market.”
+[Woman:] "I saw them. They were down in the old market."
 
-[Bard:] “The market?! Where are they now? Tilda! Sigrid!”
+[Bard:] "The market?! Where are they now? Tilda! Sigrid!"
 
 [Percy runs up at the head of a company of the Laketown soldiers.]
 
-[Percy:] “Bard, Orcs are storming over the causeway!”
+[Percy:] "Bard, Orcs are storming over the causeway!"
 
-[Bard:] “Get the bowmen to the eastern parapet. Hold them off for as long as you can!”
+[Bard:] "Get the bowmen to the eastern parapet. Hold them off for as long as you can!"
 
-[Percy:] “Archers, this way!”
+[Percy:] "Archers, this way!"
 
-[Fleeing Man:] “The orcs have taken Stone Street! The market’s overrun!”
+[Fleeing Man:] "The orcs have taken Stone Street! The market’s overrun!"
 
-[Bard:] “The rest of you, follow me!”
+[Bard:] "The rest of you, follow me!"
 
 [Bard’s group encounters the orcs, and they begin fighting. Elsewhere in Dale, Gandalf and Bilbo are also fighting the orcs. A group of townspeople run toward the orcs, and Alfrid is running with them.]
 
-[Alfrid:] “Charge! Onward! To the death!”
+[Alfrid:] "Charge! Onward! To the death!"
 
 [While still shouting, he stops running, panting for breath. Seeing that no one is watching him, he hides in a building.]
 
 [Orcs are chasing Sigrid and Tilda. As they run screaming around a corner, Bain jumps out and kills the lead orc. The second orcs knocks him to the ground and swings at him, only to get his sword caught on something overhead. Bain uses this chance to thrust his sword into the orc, killing it. He and his sisters round a corner and see their father fighting further up the lane, uphill from them.]
 
-[Sigrid:] “DA!”
+[Sigrid:] "DA!"
 
-[Tilda:] “Da! We’re down here!”
+[Tilda:] "Da! We’re down here!"
 
-[Bain:] “Here!”
+[Bain:] "Here!"
 
 [Bard hears them and turns to see them, looking relieved. However, his expressions changes to shock when he sees a troll enter the lane behind the children, throwing men many feet away with a single blow of his mace. The troll sees the children and growls, and the girls scream. They are too far away for Bard to reach them in time, and he looks around frantically. As the troll approaches the children, Bard tilts upright a cart that had been laying sideways in the courtyard. He scrambles into it and launches it down the avenue toward the children. The troll raises its mace to smash the children, but pauses in surprise when it sees Bard hurtling toward it in the cart.]
 
-[Bard:] “BAIN, SIGRID - GET DOWN!”
+[Bard:] "BAIN, SIGRID - GET DOWN!"
 
 [They throw themselves to the floor as the cart bounces over them. It then smashes into the troll and sends it flying; Bard is also thrown forward, and he manages to thrust his sword into the troll’s heart in a flying strike.]
 
@@ -1701,41 +1701,41 @@ FLASHBACK - END
 
 [We see an overhead shot of both battlefields: the plains in front of Erebor, and the battle in Dale. Bard and his children run up an empty street.]
 
-[Bard:] “Listen - I need you to gather the women and children. Take them to the Great Hall and barricade the door.”
+[Bard:] "Listen - I need you to gather the women and children. Take them to the Great Hall and barricade the door."
 
 [Alfrid, hiding in a doorway nearby, hears them speaking. Bard gently takes Bain’s sword from him.]
 
-[Bard:] “You understand - you must not come out for any reason!”
+[Bard:] "You understand - you must not come out for any reason!"
 
-[Tilda:] “We wanna stay with you!”
+[Tilda:] "We wanna stay with you!"
 
 [Alfrid steps out.]
 
-[Alfrid:] “Show your father some respect!”
+[Alfrid:] "Show your father some respect!"
 
-[Alfrid:] “You leave it to me, sire. You heard him, we make to the Great Hall!”
+[Alfrid:] "You leave it to me, sire. You heard him, we make to the Great Hall!"
 
 [Alfrid grabs Tilda and Sigrid and begins rushing them away. Bard calls after him.]
 
-[Bard:] “Alfrid, women and children only. I need every man fighting. See that you return!”
+[Bard:] "Alfrid, women and children only. I need every man fighting. See that you return!"
 
 [He thrusts the sword into Alfrid’s hands.]
 
-[Alfrid:] “I’ll get them to safety, sire.”
+[Alfrid:] "I’ll get them to safety, sire."
 
 [Seeing orcs appear nearby, he nervously hurries away.]
 
-[Alfrid:] “And my sword is yours to command.”
+[Alfrid:] "And my sword is yours to command."
 
 [He begins rounding up the people he sees.]
 
-[Alfrid:] “Get up!”
+[Alfrid:] "Get up!"
 
 [Bard holds Bain’s face earnestly.]
 
-[Bard:] “Look after them!”
+[Bard:] "Look after them!"
 
-[Alfrid:] “Shift it, granny!”
+[Alfrid:] "Shift it, granny!"
 
 [As Bain catches up to Alfrid, Alfrid rudely tosses him the sword, and Bain looks at him in disgust.]
 
@@ -1743,11 +1743,11 @@ FLASHBACK - END
 
 [Bain and the other help the weak and elderly.]
 
-[Bain:] “Make for the Great Hall!”
+[Bain:] "Make for the Great Hall!"
 
 [As they approach the Great Hall, Alfrid runs and pushes his way through the people, knocking many of them over in his haste to reach the doors.]
 
-[Alfrid:] “Out of my way! Abandon the cripples!”
+[Alfrid:] "Out of my way! Abandon the cripples!"
 
 
 
@@ -1755,61 +1755,61 @@ FLASHBACK - END
 
 [In the city, the men, elves, and orc all fight each other, and the orcs seems to have the upper hand because of their massive numbers. Azog watches from his hilltop vantage point.]
 
-[Azog:] “_ _ _” [Subtitle: They cannot hold the city. The Dwarves are almost spent.]
+[Azog:] "_ _ _" [Subtitle: They cannot hold the city. The Dwarves are almost spent.]
 
 [In the plains in front of Erebor, the Iron Hills dwarves are being driven back by the orcs. Orcs manage to kill Dain’s war pig.]
 
-[Dain:] “You buggars!”
+[Dain:] "You buggars!"
 
 [He begins killing orcs left and right with his hammer and by headbutting them.]
 
-[Dain:] “Where’s Thorin?! We need him! Where is he?”
+[Dain:] "Where’s Thorin?! We need him! Where is he?"
 
 [From his vantage point, Azog gloats as both battlefronts are being won by the orcs.]
 
-[Azog:] “_ _ _” [Subtitle: Let these lands run with blood! Slaughter them all.]
+[Azog:] "_ _ _" [Subtitle: Let these lands run with blood! Slaughter them all.]
 
-[Bard:] “FALL BACK!”
+[Bard:] "FALL BACK!"
 
 
 
 [Meanwhile, in Erebor, Thorin is merely sitting on the throne. Dwalin approaches him.]
 
-[Dwalin:] “Since when do we forsake our own people? Thorin, they are dying out there.”
+[Dwalin:] "Since when do we forsake our own people? Thorin, they are dying out there."
 
-[Thorin:] “There are halls beneath halls within this mountain - places we can fortify.”
+[Thorin:] "There are halls beneath halls within this mountain - places we can fortify."
 
 [Dwalin looks disappointed and angry.]
 
-[Thorin:] “Shore up, make safe. Yes…”
+[Thorin:] "Shore up, make safe. Yes…"
 
-[Thorin:] “...Yes - that is it. We must move the gold further underground - to safety!”
+[Thorin:] "...Yes - that is it. We must move the gold further underground - to safety!"
 
 [Thorin begins walking away, but Dwalin angrily calls out to him.]
 
-[Dwalin:] “Did you not hear me?! Dain is surrounded! They’re being slaughtered, Thorin.”
+[Dwalin:] "Did you not hear me?! Dain is surrounded! They’re being slaughtered, Thorin."
 
-[Thorin:] “Many die in war. Life is cheap. But a treasure such as this cannot be counted in lives lost. It is worth all the blood we can spend!”
+[Thorin:] "Many die in war. Life is cheap. But a treasure such as this cannot be counted in lives lost. It is worth all the blood we can spend!"
 
-[Dwalin:] “You sit here in these vast halls, with a crown upon your head, and yet you are lesser now than you have ever been.”
+[Dwalin:] "You sit here in these vast halls, with a crown upon your head, and yet you are lesser now than you have ever been."
 
-[Thorin:] “Do not speak to me as if I was some lowly dwarf lord…”
+[Thorin:] "Do not speak to me as if I was some lowly dwarf lord…"
 
 [As he speaks, Thorin is clearly mentally affected.]
 
-[Thorin:] “As-As if I were still...Thorin...Oakenshield.”
+[Thorin:] "As-As if I were still...Thorin...Oakenshield."
 
-[Thorin:] “I AM YOUR KING!”
+[Thorin:] "I AM YOUR KING!"
 
 [Thorin roars and pulls out his sword; however, he is so unbalanced that he almost falls over.]
 
-[Dwalin:] “You were always my king. You used to know that once.”
+[Dwalin:] "You were always my king. You used to know that once."
 
 [Dwalin bows his head in sorrow.]
 
-[Dwalin:] “You cannot see that you have become.”
+[Dwalin:] "You cannot see that you have become."
 
-[Thorin:] “Go! Get out...before I kill you.”
+[Thorin:] "Go! Get out...before I kill you."
 
 [After looking at each other for a while, Dwalin turns and leaves.]
 
@@ -1819,56 +1819,56 @@ FLASHBACK - END
 
 DIALOG-FLASHBACK - START
 
-[Dwalin:] “You sit here...with a crown upon your head...you are lesser now than you have ever been...”
+[Dwalin:] "You sit here...with a crown upon your head...you are lesser now than you have ever been..."
 
-[Thorin:] “...but a treasure such as this cannot be counted in lives lost...”
+[Thorin:] "...but a treasure such as this cannot be counted in lives lost..."
 
-[Balin:] “...a sickness lies upon that treasure...”
+[Balin:] "...a sickness lies upon that treasure..."
 
-[Bard:] “...the blind ambition of a mountain-king…”
+[Bard:] "...the blind ambition of a mountain-king…"
 
-[Thorin:] “...AM I NOT THE KING...”
+[Thorin:] "...AM I NOT THE KING..."
 
-[Thorin:] “...this gold...is ours...and ours alone...”
-[Balin:] “...treasure…”
+[Thorin:] "...this gold...is ours...and ours alone..."
+[Balin:] "...treasure…"
 
-[Thorin:] “...I will not part with a single coin...”
+[Thorin:] "...I will not part with a single coin..."
 
-[Bard:] “...he could not see beyond his own desire...”
+[Bard:] "...he could not see beyond his own desire..."
 
-[Thorin:] “...as if I was some lowly dwarf lord…”
+[Thorin:] "...as if I was some lowly dwarf lord…"
 
-[Thorin:] “...Oakenshield...”
+[Thorin:] "...Oakenshield..."
 
-[Balin:] “...a sickness that drove your grandfather mad...”
+[Balin:] "...a sickness that drove your grandfather mad..."
 
-[Thorin:] “...Oakenshield...”
+[Thorin:] "...Oakenshield..."
 
-[Dwalin:] “...this is Thorin, son of Thrain, son of Thror...”
+[Dwalin:] "...this is Thorin, son of Thrain, son of Thror..."
 
-[Thorin:] “...I am not my grandfather…my grandfather.”
+[Thorin:] "...I am not my grandfather…my grandfather."
 
-[Gandalf:] “...you are the heir to the throne of Durin...”
+[Gandalf:] "...you are the heir to the throne of Durin..."
 
-[Dwalin:] “...they are dying out there.”
+[Dwalin:] "...they are dying out there."
 
-[Gandalf:] “...take back...take Erebor...”
+[Gandalf:] "...take back...take Erebor..."
 
-[Dwalin:] “...Dain is surrounded... surrounded...is surrounded...Dain is surrounded...”
+[Dwalin:] "...Dain is surrounded... surrounded...is surrounded...Dain is surrounded..."
 
-[Gandalf:] “...take back your homeland…”
+[Gandalf:] "...take back your homeland…"
 
-[Bilbo:] “...you are changed, Thorin...”
+[Bilbo:] "...you are changed, Thorin..."
 
-[Thorin:] “...I am not my grandfather…”
+[Thorin:] "...I am not my grandfather…"
 
-[Bilbo:] “...is this treasure truly worth more than your honor...”
+[Bilbo:] "...is this treasure truly worth more than your honor..."
 
-[Thorin:] “...I am not my grandfather…”
+[Thorin:] "...I am not my grandfather…"
 
 [The voices suddenly stop, and Thorin looks down and sees the shadowy shape of Smaug sliding beneath the gold {he is imagining things}.]
 
-[Gandalf:] “...this treasure will be your death…”
+[Gandalf:] "...this treasure will be your death…"
 
 DIALOG-FLASHBACK - END
 
@@ -1878,11 +1878,11 @@ DIALOG-FLASHBACK - END
 
 [Meanwhile, the battle is going badly.]
 
-[Dain:] “FALL BACK! FALL BACK! TO THE BARRICADE! FALL BACK!”
+[Dain:] "FALL BACK! FALL BACK! TO THE BARRICADE! FALL BACK!"
 
 [The remaining dwarves begins retreating toward the gates of Erebor, with the orcs in pursuit.]
 
-[Azog:] “_ _ _” [Subtitle: Now comes their end. Prepare for the final assault.]
+[Azog:] "_ _ _" [Subtitle: Now comes their end. Prepare for the final assault.]
 
 [A signal horn sounds, the the orcs regroup to march on the dwarves.]
 
@@ -1894,15 +1894,15 @@ DIALOG-FLASHBACK - END
 
 [He is no longer dressed in his royal robes and arbor, but in a simple leather outfit. Kili rises and begins shouting.]
 
-[Kili:] “I will not hide behind a wall of stone, while others fight our battles for us!”
+[Kili:] "I will not hide behind a wall of stone, while others fight our battles for us!"
 
 [Thorin and Kili continue to approach each other.]
 
-[Kili:] “It is not in my blood, Thorin.”
+[Kili:] "It is not in my blood, Thorin."
 
 [They stop in front of each other.]
 
-[Thorin:] “No, it is not. We are sons of Durin. And Durin’s folk do not flee from a fight.”
+[Thorin:] "No, it is not. We are sons of Durin. And Durin’s folk do not flee from a fight."
 
 [Thorin lays his hand on Kili’s shoulder, smiling. Kili smiles back at him through his tears.]
 
@@ -1910,44 +1910,44 @@ DIALOG-FLASHBACK - END
 
 [They touch foreheads. Thorin turns to the rest of the dwarves.]
 
-[Thorin:] “I have no right to ask this of any of you; but will you follow me one last time?”
+[Thorin:] "I have no right to ask this of any of you; but will you follow me one last time?"
 
 [The dwarves rise and raise their weapons, ready to follow their leader and friend again.]
 
 
 
 [Dain and his surviving dwarves set up a desparate shield wall in front of the moat by Erebor’s gates; the orcs line up by rank, ready to attack them. Azog suddenly stops the orcs with him on the hill from signalling the attack.]
-[Azog:] “_ _ _” [Subtitle: Not yet! Wait...wait]
+[Azog:] "_ _ _" [Subtitle: Not yet! Wait...wait]
 
 [Several heavily armored trolls shoulder their way to the front of the Orc ranks.]
 
-[Azog:] “_ _ _” [Subtitle: Attack...now!]
+[Azog:] "_ _ _" [Subtitle: Attack...now!]
 
 [The orcs sound their signalling horn, and the orcs and trolls begin to march forward. Suddenly, another trumpet is heard; it is Bombur, atop the wall. The orcs stop in confusion. In Dale, Bilbo and Gandalf hear the sound too and look up in surprise.]
 
-[Bilbo:] “Thorin!”
+[Bilbo:] "Thorin!"
 
 [The barricade of rocks in the gateway of Erebor suddenly smashes outward as it is hit from inside by a giant golden statue that the dwarves had hung up like a bell. The rocks fall forward and make a rough bridge across the moat. Thorin and his dwarves rush out and through the ranks of the Iron Hills dwarves; Azog looks on in shock. Dain begins shouting to his troops.]
 
-[Dain:] “TO THE KING! TO THE KING!”
+[Dain:] "TO THE KING! TO THE KING!"
 
-[Thorin:] “Du Bekâr!” [not translated onscreen: To arms!]”
+[Thorin:] "Du Bekâr!" [not translated onscreen: To arms!]"
 
 [Thorin leads the way as all the dwarves form a wedge behind him. They smash their way through the orc ranks, releasing their pent up anger and hatred.]
 
 [In Dale, Bilbo and Gandalf look out at the plain from an abandoned causeway.]
 
-[Bilbo:] “The dwarves! They’re rallying!”
+[Bilbo:] "The dwarves! They’re rallying!"
 
 [They watch as the dwarves, fighting with new vigour, destroy the orcs.
 
-[Gandalf:] “They are rallying to their king!”
+[Gandalf:] "They are rallying to their king!"
 
 
 
 [Bard speaks to his remaining men.]
 
-[Bard:] “Any men who want to give their last - follow me!”
+[Bard:] "Any men who want to give their last - follow me!"
 
 [They charge through the city and clash with the orcs, fighting with reckless abandon now that they know the dwarves are back at it.]
 
@@ -1955,27 +1955,27 @@ DIALOG-FLASHBACK - END
 
 [In the Great Hall, The Woman grabs a spear and speaks to the others huddled inside.]
 
-[The Woman:] “I say we stand with our men in life and in death! Arm yourselves!”
+[The Woman:] "I say we stand with our men in life and in death! Arm yourselves!"
 
 [Many of the women and older men grab their weapons and follow her; Bain grabs his sword. Meanwhile, a woman speaks to an old lady sitting hunched over under her shawl.]
 
-[Woman #2:] “Come with us, love.”
+[Woman #2:] "Come with us, love."
 
-[Alfrid:] “No, no, no! You leave an old woman be.”
+[Alfrid:] "No, no, no! You leave an old woman be."
 
-[Woman #2:] “Don’t be afraid.”
+[Woman #2:] "Don’t be afraid."
 
-[The “woman” under the shawl suddenly stops using the fake voice and speaks in a male voice; it is actually Alfrid, who was trying to disguise himself as an old lady.”
+[The "woman" under the shawl suddenly stops using the fake voice and speaks in a male voice; it is actually Alfrid, who was trying to disguise himself as an old lady."
 
-[Alfrid:] “I said get off!”
+[Alfrid:] "I said get off!"
 
 [The Woman reaches over the yanks off the shawl, revealing Alfrid to everyone.]
 
-[The Woman:] “Alfrid Lickspill, you are a coward!”
+[The Woman:] "Alfrid Lickspill, you are a coward!"
 
-[Alfrid:] “Coward?! Not every man is brave enough to wear a corsett!”
+[Alfrid:] "Coward?! Not every man is brave enough to wear a corsett!"
 
-[Woman #1:] “You’re not a man, you’re a weasel!”
+[Woman #1:] "You’re not a man, you’re a weasel!"
 
 [As the others grab whatever tools or weapons they can find to join the battle, an urn falls over, and Alfrid sees it fall. It breaks open to reveal that is was full of gold and silver coins.]
 
@@ -1983,50 +1983,50 @@ DIALOG-FLASHBACK - END
 
 [On the battlefield, Thorin defeats an orc. He calls out to Dain, who is not far away.]
 
-[Thorin:] “Dain!”
+[Thorin:] "Dain!"
 
-[Dain:] “Thorin!”
+[Dain:] "Thorin!"
 
-[Dain:] “Hold on! I’m coming!”
+[Dain:] "Hold on! I’m coming!"
 
 [They continue killing orcs, all the while getting closer to each other.]
 
-[Dain:] “Hey cousin, what took you so long?!”
+[Dain:] "Hey cousin, what took you so long?!"
 
 [In a brief respite, they are able to meet and hug.]
 
-[Dain:] “There’s too many of these buggars, Thorin. I hope you’ve got a plan.”
+[Dain:] "There’s too many of these buggars, Thorin. I hope you’ve got a plan."
 
 [Thorin looks up and sees the hilltop on which Azog’s wooden machines and signalling orders.]
 
-[Thorin:] “Aye - We’re going to take out their leader!”
+[Thorin:] "Aye - We’re going to take out their leader!"
 
-[Dain:] “Azog...”
+[Dain:] "Azog..."
 
 [Thorin strides forward and mounts a large goat that Dain’s army had brought.]
 
-[Thorin:] “I’m gonna kill that piece of filth!”
+[Thorin:] "I’m gonna kill that piece of filth!"
 
 [Thorin, Dwalin, Fili, and Kili, each on a goat, charge toward Azog’s hill, smashing through the Orc armies in their way.]
 
-[Dwalin:] “Lead on!”
+[Dwalin:] "Lead on!"
 
 
 
 [Back in Dale, Gandalf watches human spearmen and archers kill a massive troll.]
 
-[Gandalf:] “We may yet survive this.”
+[Gandalf:] "We may yet survive this."
 
-[Bilbo:] “GANDALF!”
+[Bilbo:] "GANDALF!"
 
 [Gandalf kills an orc, then hurries over to where Bilbo is standing at the wall and watching Thorin, Dwalin, Fili, and Kili ride up a spur of the mountain to where Azog is.]
 
-[Bilbo:] “It’s Thorin!”
+[Bilbo:] "It’s Thorin!"
 
-[Gandalf:] “And Fili, Kili...and Dwalin. He’s taking his best warriors!”
-[Bilbo:] “To do what?”
+[Gandalf:] "And Fili, Kili...and Dwalin. He’s taking his best warriors!"
+[Bilbo:] "To do what?"
 
-[Gandalf:] “To cut the head off the snake.”
+[Gandalf:] "To cut the head off the snake."
 
 [Atop the hill, Azog hears the sound of goat hooves, and he snarls. Thorin and Co. reach some ruins on top of the hill, killing orcs along the way; there is a frozen river between them and where Azog is. ]
 
@@ -2034,21 +2034,21 @@ DIALOG-FLASHBACK - END
 
 [Legolas and Tauriel arrive back in Dale together on a horse; they charge through the streets, killing orcs on their way. They come to where Gandalf is standing.]
 
-[Legolas:] “Gandalf!”
+[Legolas:] "Gandalf!"
 
-[Gandalf:] “Legolas... Legolas Greenleaf!”
+[Gandalf:] "Legolas... Legolas Greenleaf!"
 
-[Legolas:] “There is a second army! Bolg leads a force of Gundabad orcs. They are almost upon us!”
+[Legolas:] "There is a second army! Bolg leads a force of Gundabad orcs. They are almost upon us!"
 
-[Gandalf:] “Gundabad…This was their plan all along. Azog engages our forces, then Bolg seeps in from the north.”
+[Gandalf:] "Gundabad…This was their plan all along. Azog engages our forces, then Bolg seeps in from the north."
 
-[Bilbo:] “Wha...the north...where is the north, exactly?!”
+[Bilbo:] "Wha...the north...where is the north, exactly?!"
 
-[Gandalf:] “Ravenhill.”
+[Gandalf:] "Ravenhill."
 
 [Gandalf turns and strides over to the parapets to look at the hill where Thorin went; that is Ravenhill.]
 
-[Bilbo:] “Ravenhill…Thorin is up there! And Fili and Kili - they’re all up there!”
+[Bilbo:] "Ravenhill…Thorin is up there! And Fili and Kili - they’re all up there!"
 
 [At the sound of Kili’s name, Tauriel is alarmed. Together, they all look out toward the top of Ravenhill, which is shrouded in mist.]
 
@@ -2056,23 +2056,23 @@ DIALOG-FLASHBACK - END
 
 [Thorin and Co. are still fighting in the ruins across the frozen river from Azog’s stronghold. Having defeated all the enemies at present, they look out across the river at the ruins in which Azog was last seen; his wooden signalling machines are visible through the mist.]
 
-[Thorin:] “Where is he?”
+[Thorin:] "Where is he?"
 
 
 
-[Kili:] “Looks empty. I think Azog has fled!”
+[Kili:] "Looks empty. I think Azog has fled!"
 
 
 
-[Thorin:] “I don’t think so...Fili, take your brother. Scout out the towers. Keep low and out of sight. If you see something; report back, do not engage - do you understand?!”
+[Thorin:] "I don’t think so...Fili, take your brother. Scout out the towers. Keep low and out of sight. If you see something; report back, do not engage - do you understand?!"
 
-[Dwalin:] “We have company; Goblin mercenaries. No more than a hundred.”
+[Dwalin:] "We have company; Goblin mercenaries. No more than a hundred."
 
 [They look back the way they came to see goblins running over the ruins toward them.]
 
-[Thorin:] “We’ll take care of them. Go! Go!”
+[Thorin:] "We’ll take care of them. Go! Go!"
 
-[Dwalin:] “Come on!”
+[Dwalin:] "Come on!"
 
 [As Fili and Kili run towards the river, Thorin and Dwalin prepare to meet the goblins rushing toward them.]
 
@@ -2080,37 +2080,37 @@ DIALOG-FLASHBACK - END
 
 [In a moment of peace, Thranduil walks slowly through the city, seeing the fallen bodies on the ground, many of which are his own elves. His commander comes running up.]
 
-[Thranduil:] “Recall your company.”
+[Thranduil:] "Recall your company."
 
 [The commander blows a horn. Gandalf comes running up.]
 
-[Gandalf:] “My lord, dispatch this force to Ravenhill! The dwarves are about to be overrun. Thorin must be warned.”
+[Gandalf:] "My lord, dispatch this force to Ravenhill! The dwarves are about to be overrun. Thorin must be warned."
 
 
 
-[Thranduil:] “By all means, warn him. I have spent enough Elvish blood in defense of this accursed land - No more!”
+[Thranduil:] "By all means, warn him. I have spent enough Elvish blood in defense of this accursed land - No more!"
 
 [Thranduil walks away haughtily and angrily.]
 
-[Gandalf:] “Thranduil?!”
+[Gandalf:] "Thranduil?!"
 
-[Bilbo:] “I’ll go!”
+[Bilbo:] "I’ll go!"
 
-[Gandalf:] “Don’t be ridiculous! You’ll never make it!”
+[Gandalf:] "Don’t be ridiculous! You’ll never make it!"
 
-[Bilbo:] “Why not?”
+[Bilbo:] "Why not?"
 
-[Gandalf:] “Cause they will see you coming and kill you!”
+[Gandalf:] "Cause they will see you coming and kill you!"
 
-[Bilbo:] “No, they won’t.”
+[Bilbo:] "No, they won’t."
 
 [Gandalf looks at Bilbo peculiarly.]
 
-[Bilbo:] “They won’t see me.”
+[Bilbo:] "They won’t see me."
 
-[Gandalf:] “It’s out of the question - I won’t allow it!”
+[Gandalf:] "It’s out of the question - I won’t allow it!"
 
-[Bilbo:] “I’m not asking you to allow it, Gandalf.”
+[Bilbo:] "I’m not asking you to allow it, Gandalf."
 
 [Gandalf says nothing; they nod to each other, then Bilbo strides away. Turning a corner, he presses into an alcove and pulls out his ring. He looks at it for a few moments, then puts it on.]
 
@@ -2122,33 +2122,33 @@ DIALOG-FLASHBACK - END
 
 [As Thranduil and his elves march through the city, killing orcs, they stop abruptly as they see Tauriel standing in the middle of the lane ahead of them, looking resolute.]
 
-[Tauriel:] “_ _ _” [Subtitle: You will go no further.]
+[Tauriel:] "_ _ _" [Subtitle: You will go no further.]
 
-[Tauriel:] “ You will not turn away - not this time!”
+[Tauriel:] " You will not turn away - not this time!"
 
-[Thranduil:] “Get out of my way!”
+[Thranduil:] "Get out of my way!"
 
-[Tauriel:] “The dwarves will be slaughtered!”
+[Tauriel:] "The dwarves will be slaughtered!"
 
-[Thranduil:] “Yes, they will die. Today, tomorrow, one year hence, a hundred years from now - what does it matter? They are mortal.”
+[Thranduil:] "Yes, they will die. Today, tomorrow, one year hence, a hundred years from now - what does it matter? They are mortal."
 
 
 
 [Thranduil has slowly been approaching Tauriel as he speaks. Suddenly, Tauriel whips out her bow and nocks an arrow, pointing it at Thranduil.]
 
-[Tauriel:] “You think your life is worth more than theirs, while there is no love in it? There is no love in you!”
+[Tauriel:] "You think your life is worth more than theirs, while there is no love in it? There is no love in you!"
 
 [Thranduil looks at her angrily for a moment; suddenly, he whips out his sword and slices Tauriel’s bow in half. As she drops it in shock, Thranduil lifts the point of his sword to her neck and speaks angrily.]
 
-[Thranduil:] “What do you know of love?! Nothing! What you feel for that dwarf is not real! You think it is love?! Are you ready to die for it?”
+[Thranduil:] "What do you know of love?! Nothing! What you feel for that dwarf is not real! You think it is love?! Are you ready to die for it?"
 
 [Suddenly, another sword, Orcrist, is laid atop Thranduil’s. It is Legolas. He pushes Thranduil’s sword away.]
 
-[Legolas:] “_ _ _” [Subtitle: If you harm her, you will have to kill me.]
+[Legolas:] "_ _ _" [Subtitle: If you harm her, you will have to kill me.]
 
 [As Thranduil stares at him in shock and anger, Thranduil turns to Tauriel.]
 
-[Legolas:] “I will go with you.”
+[Legolas:] "I will go with you."
 
 [They hurry away together.]
 
@@ -2156,15 +2156,15 @@ DIALOG-FLASHBACK - END
 
 [Alfrid, still wearing a woman’s outfit and clutching the gold he found to his chest, weaves through the city, dodging orcs. As he backs toward a wall, an orc climbs over it and roars at him. It raises its club to kill him, and he screams. Suddenly, from behind him, Bard shoots and arrow and kills the orc. Alfrid falls over, and money falls out of his dress, and he tries to gather it up]
 
-[Bard:] “Get up!”
+[Bard:] "Get up!"
 
-[Alfrid:] “Get away from me! I don’t take orders from you! People trusted you. They listened to you. The master’s mantle was there for the taking. And you threw it all away - for what?”
+[Alfrid:] "Get away from me! I don’t take orders from you! People trusted you. They listened to you. The master’s mantle was there for the taking. And you threw it all away - for what?"
 
 
 
 [Bard turns and looks back. Alfrid follows his gaze to see Bard’s children in a doorway, staring at him as his dress is full of coins. He turns and stomps away.]
 
-[Bard:] “Alfrid - your slip is showing.”
+[Bard:] "Alfrid - your slip is showing."
 
 [Alfrid adjusts his dress, then rushes away.]
 
@@ -2173,29 +2173,29 @@ DIALOG-FLASHBACK - END
 [Invisibly, Bilbo is hurrying across bridges toward Ravenhill.]
 
 [Fili and Kili creep quietly through the ruins below Azog’s signalling station. They hear a noise.]
-[Fili:] “Stay here. Search the lower levels. I’ve got this.”
+[Fili:] "Stay here. Search the lower levels. I’ve got this."
 
 
 
 [Having defeated the goblins, Thorin looks anxiously out over the frozen river.]
 
-[Dwalin:] “Where is that orc filth?”
+[Dwalin:] "Where is that orc filth?"
 
 [Bilbo appears out of thin air behind him, panting.]
 
-[Bilbo:] “Thorin…”
+[Bilbo:] "Thorin…"
 
-[Thorin:] “Bilbo!”
+[Thorin:] "Bilbo!"
 
-[Bilbo:] “You have to leave here! Now! Azog has another army attacking from the north. This watchtower will be completely surrounded. There’ll be no way out.”
+[Bilbo:] "You have to leave here! Now! Azog has another army attacking from the north. This watchtower will be completely surrounded. There’ll be no way out."
 
-[Dwalin:] “We are so close! That orc scum is in there. I say we push on.”
+[Dwalin:] "We are so close! That orc scum is in there. I say we push on."
 
-[Thorin:] “No! That’s what he wants. He wants to draw us in.”
+[Thorin:] "No! That’s what he wants. He wants to draw us in."
 
 [Suddenly, Thorin appears to have understood something alarming.]
 
-[Thorin:] “This is a trap!”
+[Thorin:] "This is a trap!"
 
 
 
@@ -2205,37 +2205,37 @@ DIALOG-FLASHBACK - END
 
 [Thorin talks to Dwalin.]
 
-[Thorin:] “Find Fili and Kili! Call them back!”
+[Thorin:] "Find Fili and Kili! Call them back!"
 
-[Dwalin:] “Thorin, are you sure about this?”
+[Dwalin:] "Thorin, are you sure about this?"
 
-[Thorin:] “Do it. We live to fight another day.”
+[Thorin:] "Do it. We live to fight another day."
 
 [As they turn to leave, they hear a drum sound from Ravenhill. Looking back at the tower, they see a light appear. Atop the tower, Azog appears, dragging a bloodied Fili behind him.]
 
-[Azog:] “_ _ _” [Subtitle: This one dies first.]
+[Azog:] "_ _ _" [Subtitle: This one dies first.]
 
-[Azog:] “_ _ _” [Subtitle: Then the brother.]
+[Azog:] "_ _ _" [Subtitle: Then the brother.]
 
-[Azog:] “_ _ _” [Subtitle: Then you, Oakenshield.]
+[Azog:] "_ _ _" [Subtitle: Then you, Oakenshield.]
 
-[Azog:] “_ _ _” [Subtitle: You will die last.]
+[Azog:] "_ _ _" [Subtitle: You will die last.]
 
-[Fili:] “No! RUN!”
+[Fili:] "No! RUN!"
 
 [Thorin, Dwalin, and Bilbo look on in shock as Azog lifts Fili by the neck, then stabs him through the chest with his arm-blade.]
 
-[Azog:] “_ _ _” [Subtitle: Here ends your filthy bloodline!]
+[Azog:] "_ _ _" [Subtitle: Here ends your filthy bloodline!]
 
 [Azog drops Fili, who falls to the ground from the tower, lifeless. He falls past Kili, who has been watching from a doorway below. Kili, seeing his dead brother on the ground, furiously rushes up the tower steps toward Azog.]
 
-[Thorin:] “[Kili:]!”
+[Thorin:] "[Kili:]!"
 
 [Thorin begins running across the frozen river.]
 
-[Dwalin:] “Thorin!”
+[Dwalin:] "Thorin!"
 
-[Dwalin:] “Thorin...No.”
+[Dwalin:] "Thorin...No."
 
 [Kili rushes up the steps, killing orcs in his way. As Thorin begins to clamber up the ruins, Azog rushes out of a tunnel and attacks him.]
 
@@ -2245,51 +2245,51 @@ DIALOG-FLASHBACK - END
 
 [Bilbo, still on the other side of the river, hears a noise and ducks as werebats fly out of the fog. His sword glows blue, and he looks back to see Bolg and his forces climbing over the ruins. Seeing Bilbo, the orcs charge at him. Just before they reach him, Dwalin charges up and begins fighting the orcs singlehandedly.]
 
-[Bolg:] “_ _ _”
-[Bolg:] “_ _ _” [Subtitle: Slay them all!]
+[Bolg:] "_ _ _"
+[Bolg:] "_ _ _" [Subtitle: Slay them all!]
 
 [Tauriel and Legolas pause on their way to Ravenhill as they see the Werebats massing.]
 
-[Tauriel:] “No…”
+[Tauriel:] "No…"
 
 [The werebats fly down to the main battlefields, swooping through ranks of soldiers and causing mayhem. Legolas leaps and grabs the leg of a passing Werebat, and it carries him away. Tauriel sees Kili fighting several orcs on the ruins.]
 
-[Tauriel:] “Kili...”
+[Tauriel:] "Kili..."
 
 [Azog and Thorin continue fighting. Thorin manages to knock Azog down, and Azog slides down a slippery slope; before Thorin can chase after him, other orcs arrive and he is forced to fight them. In the courtyard, Bilbo throws rocks at orcs as Dwalin fights. Kili continue fighting his way up the ruins. Tauriel, looking for him, encounters and kills several orcs. Meanwhile, the werebat is still carrying Legolas in the air.]
 
 [As Bilbo continues throwing rocks, Bolg suddenly runs out and smacks Bilbo in the head with the handle of his mace, knocking him out cold. As the werebat carries Legolas over a stone tower, he shoots it through the neck, killing it and forcing it to release him; he drops gracefully on top of the tower. Azog, recovered suddenly charges at Thorin and knocks him onto the surface of the frozen river.]
 
-[Azog:] “_ _ _” [Subtitle: Go in for the kill!]
+[Azog:] "_ _ _" [Subtitle: Go in for the kill!]
 
 [Azog yells to his orcs, many of which run out on to the ice to attack Thorin.]
 
-[Azog:] “_ _ _” [Subtitle: Finish him!]
+[Azog:] "_ _ _" [Subtitle: Finish him!]
 
 [Thorin looks around rapidly as many orcs run toward him; suddenly, the orcs begin falling over with arrows stuck in them. Legolas is shooting the orcs attacking Thorin from the top of the tower. Thorin, with his broken sword, takes on the remaining orcs.]
 
 [Tauriel, in a moment of peace after dispatching her opponent, calls out.]
 
-[Tauriel:] “[Kili:]!”
+[Tauriel:] "[Kili:]!"
 
 [Kili hears her, but he’s too busy fighting two orcs at once to respond.]
-[Tauriel:] “[Kili:]!”
+[Tauriel:] "[Kili:]!"
 
-[Kili:] “TAURIEL!”
+[Kili:] "TAURIEL!"
 
-[Tauriel:] “Kili…”
+[Tauriel:] "Kili…"
 
 [Suddenly, Bolg jumps out of a tunnel and kicks Tauriel into a rock.]
 
-[Tauriel:] “NO!”
+[Tauriel:] "NO!"
 
 [Seeing this, Kili angrily defeats his opponents and begins making his way toward her. Tauriel manages to slip out from Bolg’s grasp and begins attacking him with her knife; he manages to grab both her arms and twists them, causing her to shriek in pain; he then smashes his fist down on her head, felling her. Thorin continues fighting orcs while Legolas helps. Kili rushes desperately as he hears Tauriel’s groans. Bolg raises Tauriel up by the throat; she manages to kick him in the knee, causing him to fall. He grabs her and throws her bodily against a wall. As she lays stunned on the ground, he raises his mace for the kill; suddenly, Kili leaps from a parapet onto him. They fight, and Kili manages to slash him, but Bolg grabs Kili by the head and raises the pointed base of his mace to stab him through the chest. Tauriel shout and jumps on Bolg from behind.]
 
-[Tauriel:] “No!”
+[Tauriel:] "No!"
 
 [Bolg manages to throw her down again, and she can do nothing as Bolg raises his mace and plunges it through Kili’s chest.]
 
-[Tauriel:] “No!”
+[Tauriel:] "No!"
 
 [As Kili dies, he and Tauriel stare into each others eyes; both of them are tearing up. Bolg drops Kili to the ground dead. Tauriel’s grief turns to anger, and she leaps onto Bolg as he approaches her. They are standing over the edge of a precipice, and Bolg tries to swing her out over the fall. She manages to hold on to him and kick off a stone, launching them both over the edge.]
 
@@ -2300,7 +2300,7 @@ DIALOG-FLASHBACK - END
 [As Legolas is watching Thorin, Bolg leaps out of the rubble and swings at Legolas, but Legolas dodges and pulls out his two knives, fighting Bolg with them. Thorin stands and looks in wonder at his blade come back to him; he looks up and sees Azog, alone, facing him. Thorin and Azog approach each other slowly; suddenly, a horn blows, and Azog smiles as a hill in the distance behind him becomes covered with approaching orc help. Azog charges forward and swings a large rock attached to a chain at Thorin, who ducks under it. As Azog is unbalanced by the swing, Thorin manages to get behind him and slash him. Azog angrily swings the rock at him again, and as Thorin dodges, the rock smashes into the ice, cracking it.]
 
 [Meanwhile, Bolg throws a huge stone at Legolas, and it smashes the bridge beneath him. In an amazing and inhuman feat of agility, Legolas manages to run up falling rocks and leaps at Bolg. As they fight, Legolas manages to stab at Bolg, but Bolg grabs the knife between his arm and armor, just like in their encounter in Laketown. This time, though, Legolas smiles and uses the knife as leverage to swing atop Bolg’s shoulder; he then stabs Bolg through the top of the head, killing him; Legolas leaps back onto land as the bridge falls to the ground, carrying Bolg’s body with it. Legolas looks for Tauriel, but doesn’t see her.]
-[Legolas:] “Tauriel!”
+[Legolas:] "Tauriel!"
 
 [As Thorin and Azog fight, the ice continues cracking. They both pause for a second, then Azog swings again. This time, the ice actually begins to break apart beneath them. As Thorin stumbles over an edge of the ice, Azog manages to knock his legs out from under him with the chain. As Azog swings again, Thorin manages to roll away. He leaps behind Azog, who is off balance, and slashes him again. Azog angrily swings the rock and chain at Thorin, missing; this time, the rock becomes stuck in the ice, and Azog is forced to slash at Thorin with his bladed arm. Suddenly, Azog looks into the sky behind Thorin in shock; we see the Eagles, with Radagast riding their leader, swoop by. They sail through the ranks of the oncoming orc reinforcements from Gundabad, decimating them. Beorn, riding atop one of the Eagles, throws himself off it and transforms into a bear as he falls to the ground, landing in full massive bear form right in the middle of the orcs. He smashes through them.]
 
@@ -2310,47 +2310,47 @@ DIALOG-FLASHBACK - END
 
 [Bilbo, waking up from unconsciousness, sees the Eagles overhead.]
 
-[Bilbo:] “The eagles are coming…”
+[Bilbo:] "The eagles are coming…"
 
 [Thorin stumbles toward the edge of the frozen waterfall, looking out over the battlefield below, where the remaining orcs are being routed. Weak from his wound, he collapses on his back. Bilbo comes running up in surprise.]
 
-[Thorin:] “Bilbo…”
+[Thorin:] "Bilbo…"
 
-[Bilbo:] “Don’t move! Don’t move! Lie still!
+[Bilbo:] "Don’t move! Don’t move! Lie still!
 
 [Bilbo examines Thorin’s wound, then recoils in shock.]
 
-[Bilbo:] “Oh!
+[Bilbo:] "Oh!
 
-[Thorin:] “I’m glad you’re here…
+[Thorin:] "I’m glad you’re here…
 
-[Bilbo:] “Shh.”
+[Bilbo:] "Shh."
 
-[Thorin:] “I wish to part from you in friendship.”
+[Thorin:] "I wish to part from you in friendship."
 
-[Bilbo:] “No. You are not going anywhere, Thorin. You’re going to live.”
+[Bilbo:] "No. You are not going anywhere, Thorin. You’re going to live."
 
-[Thorin:] “I would take back my words and my deeds at the gate. You did what only a true friend would do. Forgive me...I was too  blind to see. I’m so sorry that I have led you into such peril.”
+[Thorin:] "I would take back my words and my deeds at the gate. You did what only a true friend would do. Forgive me...I was too  blind to see. I’m so sorry that I have led you into such peril."
 
 [Thorin begins choking up blood.]
 
-[Bilbo:] “No, no, I’m glad to have shared in all your perils, Thorin - each and every one of them. And it’s far more than any Baggins deserve.”
+[Bilbo:] "No, no, I’m glad to have shared in all your perils, Thorin - each and every one of them. And it’s far more than any Baggins deserve."
 
 [They smile at each other.]
 
-[Thorin:] “Farewell, Master Burglar. Go back to your books and your armchair. Plant your trees - watch them grow.”
+[Thorin:] "Farewell, Master Burglar. Go back to your books and your armchair. Plant your trees - watch them grow."
 
 [Thorin struggles to choke.]
 
-[Thorin:] “If more people valued home above gold this world would be a merrier place.”
+[Thorin:] "If more people valued home above gold this world would be a merrier place."
 
 [Thorin gasps deeply, then begins to expire.]
 
-[Bilbo:] “No! No! No! No! No! No! Thorin! Oh don’t you dare!”
+[Bilbo:] "No! No! No! No! No! No! Thorin! Oh don’t you dare!"
 
 [Thorin breathes out his last and dies.]
 
-[Bilbo:] “Thorin, Thorin, wake up. The eagles...the eagles...the eagles are here. Thorin...the eag…”
+[Bilbo:] "Thorin, Thorin, wake up. The eagles...the eagles...the eagles are here. Thorin...the eag…"
 
 [Bilbo cries in sorrow.]
 
@@ -2362,40 +2362,40 @@ DIALOG-FLASHBACK - END
 
 [Thranduil walks slowly through the ruins of Ravenhill, gazing about at the carnage. Legolas approaches him.]
 
-[Legolas:] “I...cannot go back.”
+[Legolas:] "I...cannot go back."
 
 [Legolas brushes past his father and prepares to leave.]
 
-[Thranduil:] “Where will you go?”
+[Thranduil:] "Where will you go?"
 
 [Legolas turns and faces Thranduil.]
-[Legolas:] “I do not know.”
+[Legolas:] "I do not know."
 
-[Thranduil:] “Go north. Find the Dúnedain. There’s a young Ranger amongst them- you should meet him. His father, Arathorn, was a good man. His son might grow to be a great one.”
+[Thranduil:] "Go north. Find the Dúnedain. There’s a young Ranger amongst them- you should meet him. His father, Arathorn, was a good man. His son might grow to be a great one."
 
-[Legolas:] “What is his name?”
+[Legolas:] "What is his name?"
 
-[Thranduil:] “He’s known in the wild as Strider. His true name you must discover for yourself.”
+[Thranduil:] "He’s known in the wild as Strider. His true name you must discover for yourself."
 
 [They nod at each other, then Legolas turns and walks away. Thranduil calls after him, and Legolas pauses.]
 
-[Thranduil:] “Legolas... your mother loved you...more than anyone...more than life.”
+[Thranduil:] "Legolas... your mother loved you...more than anyone...more than life."
 
 [Legolas opens his eyes open in shock and surprise. Legolas and Thranduil make a gesture of departure to each other, then Legolas leaves. Thranduil watches him leave sadly, bowing his head in grief. He then proceeds through the ruins and finds Tauriel still next to Kili’s body.]
 
-[Tauriel:] “They want to bury him.”
+[Tauriel:] "They want to bury him."
 
-[Thranduil:] “Yes…”
+[Thranduil:] "Yes…"
 
-[Tauriel:] “If this is love, I do not want it.”
+[Tauriel:] "If this is love, I do not want it."
 
 [Heartbrokenly, Tauriel pleads with Thranduil.]
 
-[Tauriel:] “Take it from me, please! Why does it hurt so much?”
+[Tauriel:] "Take it from me, please! Why does it hurt so much?"
 
 [Thranduil approaches her slowly with an understanding look in his eyes.]
 
-[Thranduil:] “Because it was real.”
+[Thranduil:] "Because it was real."
 
 [Tauriel looks up at him in shock. After thinking for a while, she kisses Kili one last time.]
 
@@ -2411,23 +2411,23 @@ DIALOG-FLASHBACK - END
 
 [Bilbo and Balin walk out of the gates of Erebor; Bilbo is wearing his pack and is prepared to leave. Balin tries to persuade him to stay.]
 
-[Balin:] “There is to be a great feast tonight. Songs will be song, tales will be told and Thorin Oakenshield will pass into legend.”
+[Balin:] "There is to be a great feast tonight. Songs will be song, tales will be told and Thorin Oakenshield will pass into legend."
 
-[Bilbo:] “I know that’s how you must honor him, but to me he was never that - he was...to me...he was…”
+[Bilbo:] "I know that’s how you must honor him, but to me he was never that - he was...to me...he was…"
 
 [Bilbo is unable to find the words, and Balin smiles fondly at him.]
 
-[Bilbo:] “Well, I think I’ll slip quietly away. Will you tell we others I said goodbye?”
+[Bilbo:] "Well, I think I’ll slip quietly away. Will you tell we others I said goodbye?"
 
-[Balin:] “You can tell’ em yourself.”
+[Balin:] "You can tell’ em yourself."
 
 [Bilbo looks back and smiles as he sees the other dwarves standing behind him. He speaks to all of them.]
 
-[Bilbo:] “If any of you ever passing Bag End, tea is at four - there’s plenty of it. You are welcome anytime.”
+[Bilbo:] "If any of you ever passing Bag End, tea is at four - there’s plenty of it. You are welcome anytime."
 
 [The dwarves bow to him, and he smiles. He begins to turn away, then turns back.]
 
-[Bilbo:] “Eh, don’t bother knocking.”
+[Bilbo:] "Eh, don’t bother knocking."
 
 [The dwarves chuckle, some of them wiping away tears. Bilbo, after waving goodbye, walks toward Gandalf, who is waiting with his horse and a pony for Bilbo.]
 
@@ -2437,111 +2437,111 @@ DIALOG-FLASHBACK - END
 
 [They dismount at the edge of the Shire, and Bilbo begins to walk with all his things in his arms.]
 
-[Gandalf:] “Ah, the borders of the Shire. It is here I must leave you.”
+[Gandalf:] "Ah, the borders of the Shire. It is here I must leave you."
 
-[Bilbo:] “That’s a shame. I quite liked having a wizard around. Seems they bring good luck.”
+[Bilbo:] "That’s a shame. I quite liked having a wizard around. Seems they bring good luck."
 
-[Gandalf:] “You don’t really suppose, do you, that all your adventures and escapes were managed by mere luck?”
+[Gandalf:] "You don’t really suppose, do you, that all your adventures and escapes were managed by mere luck?"
 
 [Gandalf looks knowingly at Bilbo.]
 
-[Gandalf:] “Magic rings should not be used lightly, Bilbo.”
+[Gandalf:] "Magic rings should not be used lightly, Bilbo."
 
 [Bilbo begins to protest, but Gandalf interrupts him.]
 
-[Gandalf:] “Don’t take me for a fool - I know you found one in the Goblin tunnels...and I’ve kept my eye on you ever since.”
+[Gandalf:] "Don’t take me for a fool - I know you found one in the Goblin tunnels...and I’ve kept my eye on you ever since."
 
 [Now that the secret is out, Bilbo smiles.]
 
-[Bilbo:] “Well, thank goodness.”
+[Bilbo:] "Well, thank goodness."
 
-[Bilbo:] “Farewell, Gandalf.”
+[Bilbo:] "Farewell, Gandalf."
 
 [They clasp hands and look each other in the eye.]
 
-[Gandalf:] “Farewell.”
+[Gandalf:] "Farewell."
 
 [Bilbo turns and walks away; after a few paces, he stops and turns.]
 
-[Bilbo:] “You, uh...you needn’t worry about that ring. It fell out of my pocket during the battle. I lost it.”
+[Bilbo:] "You, uh...you needn’t worry about that ring. It fell out of my pocket during the battle. I lost it."
 
-[Gandalf:] “You’re a very fine person, Mister Baggins. And I’m very fond of you. But you’re only quite a little fellow in a wide world after all.”
+[Gandalf:] "You’re a very fine person, Mister Baggins. And I’m very fond of you. But you’re only quite a little fellow in a wide world after all."
 [Bilbo continues walking back to the Shire, and Gandalf goes back the way he came.]
 
 
 
 [As Bilbo climbs over the last hill before Hobbiton, he sees a lot of activity near Bag End, across the valley. As he walks up the path toward his house, he sees many hobbits passing in the opposite direction as him carrying various articles of furniture and other household articles.]
-[Bilbo:] “Wait a minute...that’s my mother’s glory box. And that’s...my dining chair.”
+[Bilbo:] "Wait a minute...that’s my mother’s glory box. And that’s...my dining chair."
 
 [He sees a hobbit carrying a pouf (ottoman) on his shoulder.]
 
-[Bilbo:] “Ah! Put that pouf down! What is going on?!”
+[Bilbo:] "Ah! Put that pouf down! What is going on?!"
 
 [A hobbit with a wheelbarrow full of things stops to greet him cheerfully.]
 
-[Hobbit:] “Hello, Mister Bilbo!”
+[Hobbit:] "Hello, Mister Bilbo!"
 [Suddenly, he realizes who he is talking to and looks surprised.]
 
-[Hobbit:] “...You’re not supposed to be here.”
+[Hobbit:] "...You’re not supposed to be here."
 
-[Bilbo:] “What do you mean?”
+[Bilbo:] "What do you mean?"
 
-[Hobbit:] “On account of you being presumed dead and all.”
+[Hobbit:] "On account of you being presumed dead and all."
 
-[Bilbo:] “I am not dead! Presumed or otherwise!”
+[Bilbo:] "I am not dead! Presumed or otherwise!"
 
 [Bilbo turns and hurries up the hill toward Bag End, passing more and more hobbits carrying his things.]
 
-[Hobbit:] “I’m not sure that’s permitted, Mister Bilbo!”
+[Hobbit:] "I’m not sure that’s permitted, Mister Bilbo!"
 
-[In front of Bag End, and auctioneer is auctioning off Bilbo’s things. A sign reads: “For sale, by auction. The effects and estate of the late Mr. Bilbo Baggins, esq. 10 o’clock sharp, June the 22nd. Messrs Grubb, Grubb and Burrowes. Registered Auctioneers.]
+[In front of Bag End, and auctioneer is auctioning off Bilbo’s things. A sign reads: "For sale, by auction. The effects and estate of the late Mr. Bilbo Baggins, esq. 10 o’clock sharp, June the 22nd. Messrs Grubb, Grubb and Burrowes. Registered Auctioneers.]
 
-[Auctioneer:]  “Twenty-one! Haha! Sold to Mrs. Bolger! Somewhere for Fatty to put his feet on, haha!”
+[Auctioneer:]  "Twenty-one! Haha! Sold to Mrs. Bolger! Somewhere for Fatty to put his feet on, haha!"
 
-[Auctioneer:]  “Do I have any bids for this? This is Shire-made. None of your dwarvish reproductions here.”
+[Auctioneer:]  "Do I have any bids for this? This is Shire-made. None of your dwarvish reproductions here."
 
-[Auctioneer:] “Our next bid…”
+[Auctioneer:] "Our next bid…"
 
 [Bilbo, running up, interrupts him.]
 
-[Bilbo:] “Stop! Stop! There’s been a mistake!”
+[Bilbo:] "Stop! Stop! There’s been a mistake!"
 
-[Lobelia Sackville-Baggins:] “Who are you?”
-[Bilbo:] “What do you mean who am I?! - You know bloody well who I am, Lobelia Sackville-Baggins! This is my home! And those are my spoons. Thank you very much!”
+[Lobelia Sackville-Baggins:] "Who are you?"
+[Bilbo:] "What do you mean who am I?! - You know bloody well who I am, Lobelia Sackville-Baggins! This is my home! And those are my spoons. Thank you very much!"
 
 [Bilbo takes back some spoons that Lobelia had just bought at the auction.]
 
-[Auctioneer:]  “This is most irregular. Excuse me, it’s been more than thirteen months since the disappearance. If you are, in fact, Bilbo Baggins and undeceased - can you prove it?”
+[Auctioneer:]  "This is most irregular. Excuse me, it’s been more than thirteen months since the disappearance. If you are, in fact, Bilbo Baggins and undeceased - can you prove it?"
 
-[Bilbo:] “What?!”
+[Bilbo:] "What?!"
 
-[Auctioneer:]  “Oh, well, something official with your name on it would suffice.”
+[Auctioneer:]  "Oh, well, something official with your name on it would suffice."
 
 [Bilbo is, justifiably, quite flustered.]
 
-[Bilbo:] “Alright! Right.”
+[Bilbo:] "Alright! Right."
 
 [He pulls out the contract that he’d signed to join Thorin’s company and looks through it.]
 
-[Bilbo:] “A contract...of employment as a...a...nevermind as what.”
+[Bilbo:] "A contract...of employment as a...a...nevermind as what."
 
 [He shows it to the auctioneer.]
 
-[Bilbo:] “There! My signature!”
+[Bilbo:] "There! My signature!"
 
-[Auctioneer:]  “Uh, certainly seems to be in order. Yes, seems there can be no doubt.”
+[Auctioneer:]  "Uh, certainly seems to be in order. Yes, seems there can be no doubt."
 
 [As the auctioneer is reading, Bilbo mounts the steps to his house.]
 
-[Auctioneer:]  “Who is this person you pledged your service to?”
+[Auctioneer:]  "Who is this person you pledged your service to?"
 
 [Bilbo pauses at the door.]
 
-[Auctioneer:]  “...Thorin Oakenshield.”
+[Auctioneer:]  "...Thorin Oakenshield."
 
 [Bilbo looks sad.]
 
-[Bilbo:] “He- he was my friend.”
+[Bilbo:] "He- he was my friend."
 
 [Opening the door, Bilbo walks in to find his house a mess, with items strewn all across the floor. As he walks about, he finds a handkerchief with his initials, BB, on it. He looks up and smiles. Finding a picture of his mother on the floor, he puts it back up on the wall next to the picture of his father; he straightens it out. He steps back and looks at it. As he inspects his handiwork, he puts his hands in his waistcoat pocket, but then pulls them out quickly when he feels his ring. He hesitates to put his hand back in his pocket, going back and forth. Eventually, he pulls it out and looks at it.]
 
@@ -2549,25 +2549,25 @@ DIALOG-FLASHBACK - END
 
 [We see the hand holding the ring; it is now much older. We see that it is the present time, and Bilbo is quite old. A knock sounds at the door, and Bilbo clutches the ring tightly. He yells out.]
 
-[Bilbo:] “No, thank you! We don’t want any more visitors, well-wishers or distant relations!”
+[Bilbo:] "No, thank you! We don’t want any more visitors, well-wishers or distant relations!"
 
 [The voice of Gandalf is heard from outside.]
 
-[Gandalf:] “And what about very old friends?!”
+[Gandalf:] "And what about very old friends?!"
 
 [Bilbo smiles broadly and hurries to open the door. We hear him and Gandalf talking in the background as the camera pans to one of Bilbo’s maps of Middle Earth, eventually centering on the Lonely Mountain.]
 
-[Bilbo:] “Gandalf?!”
+[Bilbo:] "Gandalf?!"
 
-[Gandalf:] “Bilbo Baggins.”
+[Gandalf:] "Bilbo Baggins."
 
-[Bilbo:] “My dear Gandalf!”
+[Bilbo:] "My dear Gandalf!"
 
-[Gandalf:] “Good to see you. One hundred eleven years old - who’d believe it?"
-[Bilbo:] “Come on, come in! Welcome, welcome!”
+[Gandalf:] "Good to see you. One hundred eleven years old - who’d believe it?"
+[Bilbo:] "Come on, come in! Welcome, welcome!"
 
 
-[As the credits roll, Billy Boyd’s song “The Last Goodbye” plays.]
+[As the credits roll, Billy Boyd’s song "The Last Goodbye" plays.]
 
 
 Made by gplus.to/TheHobbitMovies
